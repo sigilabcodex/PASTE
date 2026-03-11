@@ -1,0 +1,239 @@
+[
+  {
+    "id": "grinning-face",
+    "char": "😀",
+    "name": "Grinning Face",
+    "keywords": ["happy", "smile", "face", "joy"],
+    "category": "emoji-smileys",
+    "unicode": "U+1F600",
+    "version": "6.1",
+    "description": "A classic smiling face emoji."
+  },
+  {
+    "id": "sparkles",
+    "char": "✨",
+    "name": "Sparkles",
+    "keywords": ["magic", "shine", "stars"],
+    "category": "emoji-smileys",
+    "unicode": "U+2728"
+  },
+  {
+    "id": "rocket",
+    "char": "🚀",
+    "name": "Rocket",
+    "keywords": ["launch", "ship", "space", "fast"],
+    "category": "emoji-travel",
+    "unicode": "U+1F680"
+  },
+  {
+    "id": "waving-hand",
+    "char": "👋",
+    "name": "Waving Hand",
+    "keywords": ["hello", "hi", "greeting"],
+    "category": "emoji-gestures",
+    "unicode": "U+1F44B"
+  },
+  {
+    "id": "thumbs-up",
+    "char": "👍",
+    "name": "Thumbs Up",
+    "keywords": ["approve", "ok", "like"],
+    "category": "emoji-gestures",
+    "unicode": "U+1F44D"
+  },
+  {
+    "id": "dog-face",
+    "char": "🐶",
+    "name": "Dog Face",
+    "keywords": ["pet", "animal", "puppy"],
+    "category": "emoji-animals",
+    "unicode": "U+1F436"
+  },
+  {
+    "id": "cat-face",
+    "char": "🐱",
+    "name": "Cat Face",
+    "keywords": ["pet", "animal", "kitty"],
+    "category": "emoji-animals",
+    "unicode": "U+1F431"
+  },
+  {
+    "id": "pizza",
+    "char": "🍕",
+    "name": "Pizza",
+    "keywords": ["food", "slice", "cheese"],
+    "category": "emoji-food",
+    "unicode": "U+1F355"
+  },
+  {
+    "id": "coffee",
+    "char": "☕",
+    "name": "Hot Beverage",
+    "keywords": ["coffee", "tea", "drink"],
+    "category": "emoji-food",
+    "unicode": "U+2615"
+  },
+  {
+    "id": "check-mark",
+    "char": "✓",
+    "name": "Check Mark",
+    "keywords": ["done", "confirm", "tick"],
+    "category": "symbols-punctuation",
+    "unicode": "U+2713"
+  },
+  {
+    "id": "heavy-check-mark",
+    "char": "✔",
+    "name": "Heavy Check Mark",
+    "keywords": ["done", "validation", "check"],
+    "category": "symbols-punctuation",
+    "unicode": "U+2714"
+  },
+  {
+    "id": "cross-mark",
+    "char": "✕",
+    "name": "Multiplication X",
+    "keywords": ["close", "cancel", "times"],
+    "category": "symbols-math",
+    "unicode": "U+2715"
+  },
+  {
+    "id": "infinity",
+    "char": "∞",
+    "name": "Infinity",
+    "keywords": ["math", "endless", "forever"],
+    "category": "symbols-math",
+    "unicode": "U+221E"
+  },
+  {
+    "id": "integral",
+    "char": "∫",
+    "name": "Integral",
+    "keywords": ["math", "calculus"],
+    "category": "symbols-math",
+    "unicode": "U+222B"
+  },
+  {
+    "id": "summation",
+    "char": "∑",
+    "name": "N-Ary Summation",
+    "keywords": ["math", "sum", "sigma"],
+    "category": "symbols-math",
+    "unicode": "U+2211"
+  },
+  {
+    "id": "euro-sign",
+    "char": "€",
+    "name": "Euro Sign",
+    "keywords": ["money", "currency", "eur"],
+    "category": "symbols-currency",
+    "unicode": "U+20AC"
+  },
+  {
+    "id": "yen-sign",
+    "char": "¥",
+    "name": "Yen Sign",
+    "keywords": ["money", "currency", "jpy"],
+    "category": "symbols-currency",
+    "unicode": "U+00A5"
+  },
+  {
+    "id": "bitcoin-sign",
+    "char": "₿",
+    "name": "Bitcoin Sign",
+    "keywords": ["money", "currency", "crypto"],
+    "category": "symbols-currency",
+    "unicode": "U+20BF"
+  },
+  {
+    "id": "left-arrow",
+    "char": "←",
+    "name": "Leftwards Arrow",
+    "keywords": ["direction", "back"],
+    "category": "symbols-arrows",
+    "unicode": "U+2190"
+  },
+  {
+    "id": "right-arrow",
+    "char": "→",
+    "name": "Rightwards Arrow",
+    "keywords": ["direction", "next", "forward"],
+    "category": "symbols-arrows",
+    "unicode": "U+2192"
+  },
+  {
+    "id": "up-arrow",
+    "char": "↑",
+    "name": "Upwards Arrow",
+    "keywords": ["direction", "north"],
+    "category": "symbols-arrows",
+    "unicode": "U+2191"
+  },
+  {
+    "id": "down-arrow",
+    "char": "↓",
+    "name": "Downwards Arrow",
+    "keywords": ["direction", "south"],
+    "category": "symbols-arrows",
+    "unicode": "U+2193"
+  },
+  {
+    "id": "micro-sign",
+    "char": "µ",
+    "name": "Micro Sign",
+    "keywords": ["science", "unit"],
+    "category": "symbols-technical",
+    "unicode": "U+00B5"
+  },
+  {
+    "id": "degree-sign",
+    "char": "°",
+    "name": "Degree Sign",
+    "keywords": ["temperature", "angle"],
+    "category": "symbols-technical",
+    "unicode": "U+00B0"
+  },
+  {
+    "id": "section-sign",
+    "char": "§",
+    "name": "Section Sign",
+    "keywords": ["legal", "document"],
+    "category": "symbols-technical",
+    "unicode": "U+00A7"
+  },
+  {
+    "id": "usa-flag",
+    "char": "🇺🇸",
+    "name": "Flag: United States",
+    "keywords": ["flag", "country", "us", "america"],
+    "category": "flags",
+    "unicode": "U+1F1FA U+1F1F8"
+  },
+  {
+    "id": "japan-flag",
+    "char": "🇯🇵",
+    "name": "Flag: Japan",
+    "keywords": ["flag", "country", "jp"],
+    "category": "flags",
+    "unicode": "U+1F1EF U+1F1F5"
+  },
+  {
+    "id": "swastika",
+    "char": "卐",
+    "name": "Swastika",
+    "keywords": ["religion", "historic", "symbol"],
+    "category": "misc",
+    "unicode": "U+5350",
+    "controversial": true,
+    "description": "Context-dependent religious and historical symbol."
+  },
+  {
+    "id": "hammer-and-sickle",
+    "char": "☭",
+    "name": "Hammer and Sickle",
+    "keywords": ["historic", "politics", "symbol"],
+    "category": "misc",
+    "unicode": "U+262D",
+    "controversial": true
+  }
+]
