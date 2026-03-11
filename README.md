@@ -64,3 +64,10 @@ To test the production build locally:
 ```bash
 npm run preview
 ```
+
+## Product planning docs
+
+- `CONTENT_CURATION_POLICY.md`
+- `docs/v1-ui-architecture.md`
+- `docs/v1-taxonomy-desktop-plan.md`
+
