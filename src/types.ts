@@ -1,35 +1,41 @@
 export type SymbolCategory =
+  | 'punctuation'
+  | 'quotation-marks'
+  | 'arrows'
+  | 'math-symbols'
+  | 'currency'
+  | 'check-marks'
+  | 'crosses'
+  | 'stars'
+  | 'geometric-shapes'
+  | 'box-drawing'
+  | 'technical-computing'
+  | 'whitespace-invisible'
   | 'emoji-smileys'
-  | 'emoji-gestures'
-  | 'emoji-animals'
+  | 'emoji-people'
+  | 'emoji-nature'
   | 'emoji-food'
   | 'emoji-travel'
-  | 'symbols-math'
-  | 'symbols-currency'
-  | 'symbols-arrows'
-  | 'symbols-technical'
+  | 'emoji-objects'
   | 'flags'
   | 'political-ideological'
-  | 'religious-spiritual'
-  | 'misc';
+  | 'religious-spiritual';
 
 export interface SymbolFlags {
   sensitive?: boolean;
-  contextual?: boolean;
 }
 
 export interface SymbolEntry {
   id: string;
   char: string;
   name: string;
-  keywords: string[];
+  codepoints: string[];
   category: SymbolCategory;
-  tags?: string[];
+  tags: string[];
+  searchKeywords: string[];
+  note?: string;
+  featured?: boolean;
   flags?: SymbolFlags;
-  unicode: string;
-  version?: string;
-  contextNote?: string;
-  description?: string;
 }
 
 export interface CategoryOption {

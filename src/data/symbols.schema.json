@@ -1,0 +1,93 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.com/symbols.schema.json",
+  "title": "Unicode Symbol Entry",
+  "type": "object",
+  "required": [
+    "id",
+    "char",
+    "name",
+    "codepoints",
+    "category",
+    "tags",
+    "searchKeywords"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "char": {
+      "type": "string",
+      "minLength": 1
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "codepoints": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "pattern": "^U\\+[0-9A-F]{2,6}$"
+      }
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "punctuation",
+        "quotation-marks",
+        "arrows",
+        "math-symbols",
+        "currency",
+        "check-marks",
+        "crosses",
+        "stars",
+        "geometric-shapes",
+        "box-drawing",
+        "technical-computing",
+        "whitespace-invisible",
+        "emoji-smileys",
+        "emoji-people",
+        "emoji-nature",
+        "emoji-food",
+        "emoji-travel",
+        "emoji-objects",
+        "flags",
+        "political-ideological",
+        "religious-spiritual"
+      ]
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "searchKeywords": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "note": {
+      "type": "string"
+    },
+    "featured": {
+      "type": "boolean",
+      "default": false
+    },
+    "flags": {
+      "type": "object",
+      "properties": {
+        "sensitive": {
+          "type": "boolean",
+          "default": false
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

@@ -1,288 +1,2819 @@
 [
   {
-    "id": "grinning-face",
-    "char": "😀",
-    "name": "Grinning Face",
-    "keywords": ["happy", "smile", "face", "joy"],
-    "category": "emoji-smileys",
-    "tags": ["emotion", "positive"],
-    "unicode": "U+1F600",
-    "version": "6.1",
-    "description": "A classic smiling face emoji."
+    "id": "period",
+    "char": ".",
+    "name": "Full Stop",
+    "codepoints": [
+      "U+002E"
+    ],
+    "category": "punctuation",
+    "tags": [
+      "sentence",
+      "basic"
+    ],
+    "searchKeywords": [
+      "dot",
+      "period",
+      "full stop",
+      "end"
+    ],
+    "featured": true
   },
   {
-    "id": "sparkles",
-    "char": "✨",
-    "name": "Sparkles",
-    "keywords": ["magic", "shine", "stars"],
-    "category": "emoji-smileys",
-    "tags": ["decorative"],
-    "unicode": "U+2728"
+    "id": "comma",
+    "char": ",",
+    "name": "Comma",
+    "codepoints": [
+      "U+002C"
+    ],
+    "category": "punctuation",
+    "tags": [
+      "sentence",
+      "basic"
+    ],
+    "searchKeywords": [
+      "comma",
+      "pause",
+      "separator"
+    ],
+    "featured": true
   },
   {
-    "id": "rocket",
-    "char": "🚀",
-    "name": "Rocket",
-    "keywords": ["launch", "ship", "space", "fast"],
-    "category": "emoji-travel",
-    "tags": ["transport"],
-    "unicode": "U+1F680"
+    "id": "semicolon",
+    "char": ";",
+    "name": "Semicolon",
+    "codepoints": [
+      "U+003B"
+    ],
+    "category": "punctuation",
+    "tags": [
+      "sentence"
+    ],
+    "searchKeywords": [
+      "semicolon",
+      "punctuation"
+    ]
   },
   {
-    "id": "waving-hand",
-    "char": "👋",
-    "name": "Waving Hand",
-    "keywords": ["hello", "hi", "greeting"],
-    "category": "emoji-gestures",
-    "tags": ["greeting"],
-    "unicode": "U+1F44B"
+    "id": "colon",
+    "char": ":",
+    "name": "Colon",
+    "codepoints": [
+      "U+003A"
+    ],
+    "category": "punctuation",
+    "tags": [
+      "sentence"
+    ],
+    "searchKeywords": [
+      "colon",
+      "time",
+      "ratio"
+    ]
   },
   {
-    "id": "thumbs-up",
-    "char": "👍",
-    "name": "Thumbs Up",
-    "keywords": ["approve", "ok", "like"],
-    "category": "emoji-gestures",
-    "tags": ["reaction"],
-    "unicode": "U+1F44D"
+    "id": "question-mark",
+    "char": "?",
+    "name": "Question Mark",
+    "codepoints": [
+      "U+003F"
+    ],
+    "category": "punctuation",
+    "tags": [
+      "sentence"
+    ],
+    "searchKeywords": [
+      "question",
+      "ask"
+    ],
+    "featured": true
   },
   {
-    "id": "dog-face",
-    "char": "🐶",
-    "name": "Dog Face",
-    "keywords": ["pet", "animal", "puppy"],
-    "category": "emoji-animals",
-    "tags": ["mammal"],
-    "unicode": "U+1F436"
+    "id": "exclamation-mark",
+    "char": "!",
+    "name": "Exclamation Mark",
+    "codepoints": [
+      "U+0021"
+    ],
+    "category": "punctuation",
+    "tags": [
+      "sentence"
+    ],
+    "searchKeywords": [
+      "bang",
+      "exclamation",
+      "warning"
+    ],
+    "featured": true
   },
   {
-    "id": "cat-face",
-    "char": "🐱",
-    "name": "Cat Face",
-    "keywords": ["pet", "animal", "kitty"],
-    "category": "emoji-animals",
-    "tags": ["mammal"],
-    "unicode": "U+1F431"
+    "id": "ellipsis",
+    "char": "…",
+    "name": "Horizontal Ellipsis",
+    "codepoints": [
+      "U+2026"
+    ],
+    "category": "punctuation",
+    "tags": [
+      "typography"
+    ],
+    "searchKeywords": [
+      "ellipsis",
+      "three dots",
+      "truncate"
+    ]
   },
   {
-    "id": "pizza",
-    "char": "🍕",
-    "name": "Pizza",
-    "keywords": ["food", "slice", "cheese"],
-    "category": "emoji-food",
-    "tags": ["meal"],
-    "unicode": "U+1F355"
+    "id": "interrobang",
+    "char": "‽",
+    "name": "Interrobang",
+    "codepoints": [
+      "U+203D"
+    ],
+    "category": "punctuation",
+    "tags": [
+      "typography"
+    ],
+    "searchKeywords": [
+      "interrobang",
+      "question exclamation"
+    ]
   },
   {
-    "id": "coffee",
-    "char": "☕",
-    "name": "Hot Beverage",
-    "keywords": ["coffee", "tea", "drink"],
-    "category": "emoji-food",
-    "tags": ["drink"],
-    "unicode": "U+2615"
-  },
-  {
-    "id": "check-mark",
-    "char": "✓",
-    "name": "Check Mark",
-    "keywords": ["done", "confirm", "tick"],
-    "category": "misc",
-    "tags": ["mark"],
-    "unicode": "U+2713"
-  },
-  {
-    "id": "heavy-check-mark",
-    "char": "✔",
-    "name": "Heavy Check Mark",
-    "keywords": ["done", "validation", "check"],
-    "category": "misc",
-    "tags": ["mark"],
-    "unicode": "U+2714"
-  },
-  {
-    "id": "cross-mark",
-    "char": "✕",
-    "name": "Multiplication X",
-    "keywords": ["close", "cancel", "times"],
-    "category": "symbols-math",
-    "tags": ["operator"],
-    "unicode": "U+2715"
-  },
-  {
-    "id": "infinity",
-    "char": "∞",
-    "name": "Infinity",
-    "keywords": ["math", "endless", "forever"],
-    "category": "symbols-math",
-    "tags": ["operator"],
-    "unicode": "U+221E"
-  },
-  {
-    "id": "integral",
-    "char": "∫",
-    "name": "Integral",
-    "keywords": ["math", "calculus"],
-    "category": "symbols-math",
-    "tags": ["operator"],
-    "unicode": "U+222B"
-  },
-  {
-    "id": "summation",
-    "char": "∑",
-    "name": "N-Ary Summation",
-    "keywords": ["math", "sum", "sigma"],
-    "category": "symbols-math",
-    "tags": ["operator"],
-    "unicode": "U+2211"
-  },
-  {
-    "id": "euro-sign",
-    "char": "€",
-    "name": "Euro Sign",
-    "keywords": ["money", "currency", "eur"],
-    "category": "symbols-currency",
-    "tags": ["finance"],
-    "unicode": "U+20AC"
-  },
-  {
-    "id": "yen-sign",
-    "char": "¥",
-    "name": "Yen Sign",
-    "keywords": ["money", "currency", "jpy"],
-    "category": "symbols-currency",
-    "tags": ["finance"],
-    "unicode": "U+00A5"
-  },
-  {
-    "id": "bitcoin-sign",
-    "char": "₿",
-    "name": "Bitcoin Sign",
-    "keywords": ["money", "currency", "crypto"],
-    "category": "symbols-currency",
-    "tags": ["finance", "digital"],
-    "unicode": "U+20BF"
-  },
-  {
-    "id": "left-arrow",
-    "char": "←",
-    "name": "Leftwards Arrow",
-    "keywords": ["direction", "back"],
-    "category": "symbols-arrows",
-    "tags": ["navigation"],
-    "unicode": "U+2190"
-  },
-  {
-    "id": "right-arrow",
-    "char": "→",
-    "name": "Rightwards Arrow",
-    "keywords": ["direction", "next", "forward"],
-    "category": "symbols-arrows",
-    "tags": ["navigation"],
-    "unicode": "U+2192"
-  },
-  {
-    "id": "up-arrow",
-    "char": "↑",
-    "name": "Upwards Arrow",
-    "keywords": ["direction", "north"],
-    "category": "symbols-arrows",
-    "tags": ["navigation"],
-    "unicode": "U+2191"
-  },
-  {
-    "id": "down-arrow",
-    "char": "↓",
-    "name": "Downwards Arrow",
-    "keywords": ["direction", "south"],
-    "category": "symbols-arrows",
-    "tags": ["navigation"],
-    "unicode": "U+2193"
-  },
-  {
-    "id": "micro-sign",
-    "char": "µ",
-    "name": "Micro Sign",
-    "keywords": ["science", "unit"],
-    "category": "symbols-technical",
-    "tags": ["measurement"],
-    "unicode": "U+00B5"
-  },
-  {
-    "id": "degree-sign",
-    "char": "°",
-    "name": "Degree Sign",
-    "keywords": ["temperature", "angle"],
-    "category": "symbols-technical",
-    "tags": ["measurement"],
-    "unicode": "U+00B0"
+    "id": "middle-dot",
+    "char": "·",
+    "name": "Middle Dot",
+    "codepoints": [
+      "U+00B7"
+    ],
+    "category": "punctuation",
+    "tags": [
+      "separator"
+    ],
+    "searchKeywords": [
+      "middle dot",
+      "dot operator",
+      "bullet"
+    ]
   },
   {
     "id": "section-sign",
     "char": "§",
     "name": "Section Sign",
-    "keywords": ["legal", "document"],
-    "category": "symbols-technical",
-    "tags": ["reference"],
-    "unicode": "U+00A7"
+    "codepoints": [
+      "U+00A7"
+    ],
+    "category": "punctuation",
+    "tags": [
+      "legal"
+    ],
+    "searchKeywords": [
+      "section",
+      "legal"
+    ]
   },
   {
-    "id": "usa-flag",
+    "id": "pilcrow",
+    "char": "¶",
+    "name": "Pilcrow Sign",
+    "codepoints": [
+      "U+00B6"
+    ],
+    "category": "punctuation",
+    "tags": [
+      "editing"
+    ],
+    "searchKeywords": [
+      "paragraph",
+      "pilcrow"
+    ]
+  },
+  {
+    "id": "inverted-question",
+    "char": "¿",
+    "name": "Inverted Question Mark",
+    "codepoints": [
+      "U+00BF"
+    ],
+    "category": "punctuation",
+    "tags": [
+      "spanish"
+    ],
+    "searchKeywords": [
+      "inverted question",
+      "spanish punctuation"
+    ]
+  },
+  {
+    "id": "double-quote",
+    "char": "\"",
+    "name": "Quotation Mark",
+    "codepoints": [
+      "U+0022"
+    ],
+    "category": "quotation-marks",
+    "tags": [
+      "ascii"
+    ],
+    "searchKeywords": [
+      "double quote",
+      "quote"
+    ],
+    "featured": true
+  },
+  {
+    "id": "apostrophe",
+    "char": "'",
+    "name": "Apostrophe",
+    "codepoints": [
+      "U+0027"
+    ],
+    "category": "quotation-marks",
+    "tags": [
+      "ascii"
+    ],
+    "searchKeywords": [
+      "single quote",
+      "apostrophe"
+    ],
+    "featured": true
+  },
+  {
+    "id": "left-double-curly",
+    "char": "“",
+    "name": "Left Double Quotation Mark",
+    "codepoints": [
+      "U+201C"
+    ],
+    "category": "quotation-marks",
+    "tags": [
+      "curly"
+    ],
+    "searchKeywords": [
+      "opening quote",
+      "smart quote"
+    ]
+  },
+  {
+    "id": "right-double-curly",
+    "char": "”",
+    "name": "Right Double Quotation Mark",
+    "codepoints": [
+      "U+201D"
+    ],
+    "category": "quotation-marks",
+    "tags": [
+      "curly"
+    ],
+    "searchKeywords": [
+      "closing quote",
+      "smart quote"
+    ]
+  },
+  {
+    "id": "left-single-curly",
+    "char": "‘",
+    "name": "Left Single Quotation Mark",
+    "codepoints": [
+      "U+2018"
+    ],
+    "category": "quotation-marks",
+    "tags": [
+      "curly"
+    ],
+    "searchKeywords": [
+      "opening single quote"
+    ]
+  },
+  {
+    "id": "right-single-curly",
+    "char": "’",
+    "name": "Right Single Quotation Mark",
+    "codepoints": [
+      "U+2019"
+    ],
+    "category": "quotation-marks",
+    "tags": [
+      "curly"
+    ],
+    "searchKeywords": [
+      "closing single quote",
+      "apostrophe"
+    ]
+  },
+  {
+    "id": "guillemet-left",
+    "char": "«",
+    "name": "Left-Pointing Double Angle Quotation Mark",
+    "codepoints": [
+      "U+00AB"
+    ],
+    "category": "quotation-marks",
+    "tags": [
+      "french"
+    ],
+    "searchKeywords": [
+      "guillemet left",
+      "angle quote"
+    ]
+  },
+  {
+    "id": "guillemet-right",
+    "char": "»",
+    "name": "Right-Pointing Double Angle Quotation Mark",
+    "codepoints": [
+      "U+00BB"
+    ],
+    "category": "quotation-marks",
+    "tags": [
+      "french"
+    ],
+    "searchKeywords": [
+      "guillemet right",
+      "angle quote"
+    ]
+  },
+  {
+    "id": "single-guillemet-left",
+    "char": "‹",
+    "name": "Left Single Angle Quotation Mark",
+    "codepoints": [
+      "U+2039"
+    ],
+    "category": "quotation-marks",
+    "tags": [
+      "european"
+    ],
+    "searchKeywords": [
+      "single guillemet left"
+    ]
+  },
+  {
+    "id": "single-guillemet-right",
+    "char": "›",
+    "name": "Right Single Angle Quotation Mark",
+    "codepoints": [
+      "U+203A"
+    ],
+    "category": "quotation-marks",
+    "tags": [
+      "european"
+    ],
+    "searchKeywords": [
+      "single guillemet right"
+    ]
+  },
+  {
+    "id": "left-arrow",
+    "char": "←",
+    "name": "Leftwards Arrow",
+    "codepoints": [
+      "U+2190"
+    ],
+    "category": "arrows",
+    "tags": [
+      "direction"
+    ],
+    "searchKeywords": [
+      "left",
+      "back",
+      "arrow"
+    ],
+    "featured": true
+  },
+  {
+    "id": "up-arrow",
+    "char": "↑",
+    "name": "Upwards Arrow",
+    "codepoints": [
+      "U+2191"
+    ],
+    "category": "arrows",
+    "tags": [
+      "direction"
+    ],
+    "searchKeywords": [
+      "up",
+      "arrow"
+    ]
+  },
+  {
+    "id": "right-arrow",
+    "char": "→",
+    "name": "Rightwards Arrow",
+    "codepoints": [
+      "U+2192"
+    ],
+    "category": "arrows",
+    "tags": [
+      "direction"
+    ],
+    "searchKeywords": [
+      "right",
+      "forward",
+      "arrow"
+    ],
+    "featured": true
+  },
+  {
+    "id": "down-arrow",
+    "char": "↓",
+    "name": "Downwards Arrow",
+    "codepoints": [
+      "U+2193"
+    ],
+    "category": "arrows",
+    "tags": [
+      "direction"
+    ],
+    "searchKeywords": [
+      "down",
+      "arrow"
+    ]
+  },
+  {
+    "id": "left-right-arrow",
+    "char": "↔",
+    "name": "Left Right Arrow",
+    "codepoints": [
+      "U+2194"
+    ],
+    "category": "arrows",
+    "tags": [
+      "direction"
+    ],
+    "searchKeywords": [
+      "bidirectional",
+      "swap",
+      "arrow"
+    ]
+  },
+  {
+    "id": "up-down-arrow",
+    "char": "↕",
+    "name": "Up Down Arrow",
+    "codepoints": [
+      "U+2195"
+    ],
+    "category": "arrows",
+    "tags": [
+      "direction"
+    ],
+    "searchKeywords": [
+      "vertical",
+      "arrow"
+    ]
+  },
+  {
+    "id": "northwest-arrow",
+    "char": "↖",
+    "name": "North West Arrow",
+    "codepoints": [
+      "U+2196"
+    ],
+    "category": "arrows",
+    "tags": [
+      "direction"
+    ],
+    "searchKeywords": [
+      "diagonal",
+      "nw arrow"
+    ]
+  },
+  {
+    "id": "northeast-arrow",
+    "char": "↗",
+    "name": "North East Arrow",
+    "codepoints": [
+      "U+2197"
+    ],
+    "category": "arrows",
+    "tags": [
+      "direction"
+    ],
+    "searchKeywords": [
+      "diagonal",
+      "ne arrow"
+    ]
+  },
+  {
+    "id": "southeast-arrow",
+    "char": "↘",
+    "name": "South East Arrow",
+    "codepoints": [
+      "U+2198"
+    ],
+    "category": "arrows",
+    "tags": [
+      "direction"
+    ],
+    "searchKeywords": [
+      "diagonal",
+      "se arrow"
+    ]
+  },
+  {
+    "id": "southwest-arrow",
+    "char": "↙",
+    "name": "South West Arrow",
+    "codepoints": [
+      "U+2199"
+    ],
+    "category": "arrows",
+    "tags": [
+      "direction"
+    ],
+    "searchKeywords": [
+      "diagonal",
+      "sw arrow"
+    ]
+  },
+  {
+    "id": "return-arrow",
+    "char": "↩",
+    "name": "Leftwards Arrow with Hook",
+    "codepoints": [
+      "U+21A9"
+    ],
+    "category": "arrows",
+    "tags": [
+      "direction"
+    ],
+    "searchKeywords": [
+      "return",
+      "undo",
+      "hook arrow"
+    ]
+  },
+  {
+    "id": "tab-arrow",
+    "char": "↹",
+    "name": "Leftwards Arrow to Bar Over Rightwards Arrow to Bar",
+    "codepoints": [
+      "U+21B9"
+    ],
+    "category": "arrows",
+    "tags": [
+      "direction"
+    ],
+    "searchKeywords": [
+      "tab",
+      "keyboard",
+      "arrow"
+    ]
+  },
+  {
+    "id": "plus",
+    "char": "+",
+    "name": "Plus Sign",
+    "codepoints": [
+      "U+002B"
+    ],
+    "category": "math-symbols",
+    "tags": [
+      "operator"
+    ],
+    "searchKeywords": [
+      "plus",
+      "add"
+    ],
+    "featured": true
+  },
+  {
+    "id": "minus",
+    "char": "−",
+    "name": "Minus Sign",
+    "codepoints": [
+      "U+2212"
+    ],
+    "category": "math-symbols",
+    "tags": [
+      "operator"
+    ],
+    "searchKeywords": [
+      "minus",
+      "subtract"
+    ],
+    "featured": true
+  },
+  {
+    "id": "multiply",
+    "char": "×",
+    "name": "Multiplication Sign",
+    "codepoints": [
+      "U+00D7"
+    ],
+    "category": "math-symbols",
+    "tags": [
+      "operator"
+    ],
+    "searchKeywords": [
+      "multiply",
+      "times"
+    ]
+  },
+  {
+    "id": "divide",
+    "char": "÷",
+    "name": "Division Sign",
+    "codepoints": [
+      "U+00F7"
+    ],
+    "category": "math-symbols",
+    "tags": [
+      "operator"
+    ],
+    "searchKeywords": [
+      "divide"
+    ]
+  },
+  {
+    "id": "equals",
+    "char": "=",
+    "name": "Equals Sign",
+    "codepoints": [
+      "U+003D"
+    ],
+    "category": "math-symbols",
+    "tags": [
+      "operator"
+    ],
+    "searchKeywords": [
+      "equals"
+    ],
+    "featured": true
+  },
+  {
+    "id": "not-equal",
+    "char": "≠",
+    "name": "Not Equal To",
+    "codepoints": [
+      "U+2260"
+    ],
+    "category": "math-symbols",
+    "tags": [
+      "operator"
+    ],
+    "searchKeywords": [
+      "not equal",
+      "inequality"
+    ]
+  },
+  {
+    "id": "approx",
+    "char": "≈",
+    "name": "Almost Equal To",
+    "codepoints": [
+      "U+2248"
+    ],
+    "category": "math-symbols",
+    "tags": [
+      "operator"
+    ],
+    "searchKeywords": [
+      "approximately",
+      "approx"
+    ]
+  },
+  {
+    "id": "plus-minus",
+    "char": "±",
+    "name": "Plus-Minus Sign",
+    "codepoints": [
+      "U+00B1"
+    ],
+    "category": "math-symbols",
+    "tags": [
+      "operator"
+    ],
+    "searchKeywords": [
+      "plus minus"
+    ]
+  },
+  {
+    "id": "infinity",
+    "char": "∞",
+    "name": "Infinity",
+    "codepoints": [
+      "U+221E"
+    ],
+    "category": "math-symbols",
+    "tags": [
+      "number"
+    ],
+    "searchKeywords": [
+      "infinity",
+      "unbounded"
+    ],
+    "featured": true
+  },
+  {
+    "id": "integral",
+    "char": "∫",
+    "name": "Integral",
+    "codepoints": [
+      "U+222B"
+    ],
+    "category": "math-symbols",
+    "tags": [
+      "calculus"
+    ],
+    "searchKeywords": [
+      "integral"
+    ]
+  },
+  {
+    "id": "summation",
+    "char": "∑",
+    "name": "N-Ary Summation",
+    "codepoints": [
+      "U+2211"
+    ],
+    "category": "math-symbols",
+    "tags": [
+      "calculus"
+    ],
+    "searchKeywords": [
+      "sum",
+      "sigma",
+      "summation"
+    ]
+  },
+  {
+    "id": "product",
+    "char": "∏",
+    "name": "N-Ary Product",
+    "codepoints": [
+      "U+220F"
+    ],
+    "category": "math-symbols",
+    "tags": [
+      "calculus"
+    ],
+    "searchKeywords": [
+      "product",
+      "pi operator"
+    ]
+  },
+  {
+    "id": "square-root",
+    "char": "√",
+    "name": "Square Root",
+    "codepoints": [
+      "U+221A"
+    ],
+    "category": "math-symbols",
+    "tags": [
+      "operator"
+    ],
+    "searchKeywords": [
+      "square root",
+      "radical"
+    ]
+  },
+  {
+    "id": "less-equal",
+    "char": "≤",
+    "name": "Less-Than or Equal To",
+    "codepoints": [
+      "U+2264"
+    ],
+    "category": "math-symbols",
+    "tags": [
+      "comparison"
+    ],
+    "searchKeywords": [
+      "less or equal"
+    ]
+  },
+  {
+    "id": "greater-equal",
+    "char": "≥",
+    "name": "Greater-Than or Equal To",
+    "codepoints": [
+      "U+2265"
+    ],
+    "category": "math-symbols",
+    "tags": [
+      "comparison"
+    ],
+    "searchKeywords": [
+      "greater or equal"
+    ]
+  },
+  {
+    "id": "dollar",
+    "char": "$",
+    "name": "Dollar Sign",
+    "codepoints": [
+      "U+0024"
+    ],
+    "category": "currency",
+    "tags": [
+      "money"
+    ],
+    "searchKeywords": [
+      "usd",
+      "dollar",
+      "currency"
+    ],
+    "featured": true
+  },
+  {
+    "id": "euro",
+    "char": "€",
+    "name": "Euro Sign",
+    "codepoints": [
+      "U+20AC"
+    ],
+    "category": "currency",
+    "tags": [
+      "money"
+    ],
+    "searchKeywords": [
+      "eur",
+      "euro",
+      "currency"
+    ],
+    "featured": true
+  },
+  {
+    "id": "pound",
+    "char": "£",
+    "name": "Pound Sign",
+    "codepoints": [
+      "U+00A3"
+    ],
+    "category": "currency",
+    "tags": [
+      "money"
+    ],
+    "searchKeywords": [
+      "gbp",
+      "pound sterling"
+    ],
+    "featured": true
+  },
+  {
+    "id": "yen",
+    "char": "¥",
+    "name": "Yen Sign",
+    "codepoints": [
+      "U+00A5"
+    ],
+    "category": "currency",
+    "tags": [
+      "money"
+    ],
+    "searchKeywords": [
+      "jpy",
+      "yen",
+      "yuan"
+    ],
+    "featured": true
+  },
+  {
+    "id": "rupee",
+    "char": "₹",
+    "name": "Indian Rupee Sign",
+    "codepoints": [
+      "U+20B9"
+    ],
+    "category": "currency",
+    "tags": [
+      "money"
+    ],
+    "searchKeywords": [
+      "inr",
+      "rupee"
+    ]
+  },
+  {
+    "id": "won",
+    "char": "₩",
+    "name": "Won Sign",
+    "codepoints": [
+      "U+20A9"
+    ],
+    "category": "currency",
+    "tags": [
+      "money"
+    ],
+    "searchKeywords": [
+      "krw",
+      "won"
+    ]
+  },
+  {
+    "id": "ruble",
+    "char": "₽",
+    "name": "Ruble Sign",
+    "codepoints": [
+      "U+20BD"
+    ],
+    "category": "currency",
+    "tags": [
+      "money"
+    ],
+    "searchKeywords": [
+      "rub",
+      "ruble"
+    ]
+  },
+  {
+    "id": "bitcoin",
+    "char": "₿",
+    "name": "Bitcoin Sign",
+    "codepoints": [
+      "U+20BF"
+    ],
+    "category": "currency",
+    "tags": [
+      "money",
+      "crypto"
+    ],
+    "searchKeywords": [
+      "btc",
+      "bitcoin"
+    ]
+  },
+  {
+    "id": "cent",
+    "char": "¢",
+    "name": "Cent Sign",
+    "codepoints": [
+      "U+00A2"
+    ],
+    "category": "currency",
+    "tags": [
+      "money"
+    ],
+    "searchKeywords": [
+      "cent"
+    ]
+  },
+  {
+    "id": "currency-sign",
+    "char": "¤",
+    "name": "Currency Sign",
+    "codepoints": [
+      "U+00A4"
+    ],
+    "category": "currency",
+    "tags": [
+      "money"
+    ],
+    "searchKeywords": [
+      "generic currency"
+    ]
+  },
+  {
+    "id": "check-mark",
+    "char": "✓",
+    "name": "Check Mark",
+    "codepoints": [
+      "U+2713"
+    ],
+    "category": "check-marks",
+    "tags": [
+      "status"
+    ],
+    "searchKeywords": [
+      "check",
+      "correct",
+      "done"
+    ],
+    "featured": true
+  },
+  {
+    "id": "heavy-check-mark",
+    "char": "✔",
+    "name": "Heavy Check Mark",
+    "codepoints": [
+      "U+2714"
+    ],
+    "category": "check-marks",
+    "tags": [
+      "status"
+    ],
+    "searchKeywords": [
+      "heavy check",
+      "done"
+    ]
+  },
+  {
+    "id": "ballot-check",
+    "char": "☑",
+    "name": "Ballot Box with Check",
+    "codepoints": [
+      "U+2611"
+    ],
+    "category": "check-marks",
+    "tags": [
+      "status"
+    ],
+    "searchKeywords": [
+      "checkbox checked",
+      "selected"
+    ]
+  },
+  {
+    "id": "white-heavy-check",
+    "char": "✅",
+    "name": "White Heavy Check Mark",
+    "codepoints": [
+      "U+2705"
+    ],
+    "category": "check-marks",
+    "tags": [
+      "emoji",
+      "status"
+    ],
+    "searchKeywords": [
+      "emoji check",
+      "done"
+    ],
+    "featured": true
+  },
+  {
+    "id": "check-box",
+    "char": "🗹",
+    "name": "Ballot Box with Bold Check",
+    "codepoints": [
+      "U+1F5F9"
+    ],
+    "category": "check-marks",
+    "tags": [
+      "status"
+    ],
+    "searchKeywords": [
+      "checked box"
+    ]
+  },
+  {
+    "id": "check-button",
+    "char": "☒",
+    "name": "Ballot Box with X",
+    "codepoints": [
+      "U+2612"
+    ],
+    "category": "check-marks",
+    "tags": [
+      "status"
+    ],
+    "searchKeywords": [
+      "x box",
+      "not selected"
+    ]
+  },
+  {
+    "id": "multiplication-x",
+    "char": "✕",
+    "name": "Multiplication X",
+    "codepoints": [
+      "U+2715"
+    ],
+    "category": "crosses",
+    "tags": [
+      "status"
+    ],
+    "searchKeywords": [
+      "x mark",
+      "close"
+    ]
+  },
+  {
+    "id": "heavy-multiplication-x",
+    "char": "✖",
+    "name": "Heavy Multiplication X",
+    "codepoints": [
+      "U+2716"
+    ],
+    "category": "crosses",
+    "tags": [
+      "status"
+    ],
+    "searchKeywords": [
+      "heavy x",
+      "cancel"
+    ]
+  },
+  {
+    "id": "ballot-x",
+    "char": "✗",
+    "name": "Ballot X",
+    "codepoints": [
+      "U+2717"
+    ],
+    "category": "crosses",
+    "tags": [
+      "status"
+    ],
+    "searchKeywords": [
+      "x",
+      "wrong"
+    ]
+  },
+  {
+    "id": "cross-mark",
+    "char": "❌",
+    "name": "Cross Mark",
+    "codepoints": [
+      "U+274C"
+    ],
+    "category": "crosses",
+    "tags": [
+      "emoji",
+      "status"
+    ],
+    "searchKeywords": [
+      "emoji x",
+      "no",
+      "error"
+    ],
+    "featured": true
+  },
+  {
+    "id": "cross-mark-button",
+    "char": "❎",
+    "name": "Cross Mark Button",
+    "codepoints": [
+      "U+274E"
+    ],
+    "category": "crosses",
+    "tags": [
+      "emoji",
+      "status"
+    ],
+    "searchKeywords": [
+      "emoji cross button"
+    ]
+  },
+  {
+    "id": "latin-cross",
+    "char": "✝",
+    "name": "Latin Cross",
+    "codepoints": [
+      "U+271D"
+    ],
+    "category": "crosses",
+    "tags": [
+      "shape"
+    ],
+    "searchKeywords": [
+      "cross shape",
+      "dagger cross"
+    ]
+  },
+  {
+    "id": "black-star",
+    "char": "★",
+    "name": "Black Star",
+    "codepoints": [
+      "U+2605"
+    ],
+    "category": "stars",
+    "tags": [
+      "rating"
+    ],
+    "searchKeywords": [
+      "star",
+      "filled star"
+    ],
+    "featured": true
+  },
+  {
+    "id": "white-star",
+    "char": "☆",
+    "name": "White Star",
+    "codepoints": [
+      "U+2606"
+    ],
+    "category": "stars",
+    "tags": [
+      "rating"
+    ],
+    "searchKeywords": [
+      "star outline"
+    ]
+  },
+  {
+    "id": "glowing-star",
+    "char": "🌟",
+    "name": "Glowing Star",
+    "codepoints": [
+      "U+1F31F"
+    ],
+    "category": "stars",
+    "tags": [
+      "emoji"
+    ],
+    "searchKeywords": [
+      "shining star",
+      "favorite"
+    ]
+  },
+  {
+    "id": "star-emoji",
+    "char": "⭐",
+    "name": "White Medium Star",
+    "codepoints": [
+      "U+2B50"
+    ],
+    "category": "stars",
+    "tags": [
+      "emoji"
+    ],
+    "searchKeywords": [
+      "star emoji"
+    ],
+    "featured": true
+  },
+  {
+    "id": "sparkles-emoji",
+    "char": "✨",
+    "name": "Sparkles",
+    "codepoints": [
+      "U+2728"
+    ],
+    "category": "stars",
+    "tags": [
+      "emoji"
+    ],
+    "searchKeywords": [
+      "sparkles",
+      "shine"
+    ],
+    "featured": true
+  },
+  {
+    "id": "eight-pointed-star",
+    "char": "✴",
+    "name": "Eight Pointed Black Star",
+    "codepoints": [
+      "U+2734"
+    ],
+    "category": "stars",
+    "tags": [
+      "ornament"
+    ],
+    "searchKeywords": [
+      "eight pointed star"
+    ]
+  },
+  {
+    "id": "black-circle",
+    "char": "●",
+    "name": "Black Circle",
+    "codepoints": [
+      "U+25CF"
+    ],
+    "category": "geometric-shapes",
+    "tags": [
+      "shape"
+    ],
+    "searchKeywords": [
+      "circle filled"
+    ],
+    "featured": true
+  },
+  {
+    "id": "white-circle",
+    "char": "○",
+    "name": "White Circle",
+    "codepoints": [
+      "U+25CB"
+    ],
+    "category": "geometric-shapes",
+    "tags": [
+      "shape"
+    ],
+    "searchKeywords": [
+      "circle outline"
+    ]
+  },
+  {
+    "id": "black-square",
+    "char": "■",
+    "name": "Black Square",
+    "codepoints": [
+      "U+25A0"
+    ],
+    "category": "geometric-shapes",
+    "tags": [
+      "shape"
+    ],
+    "searchKeywords": [
+      "square filled"
+    ],
+    "featured": true
+  },
+  {
+    "id": "white-square",
+    "char": "□",
+    "name": "White Square",
+    "codepoints": [
+      "U+25A1"
+    ],
+    "category": "geometric-shapes",
+    "tags": [
+      "shape"
+    ],
+    "searchKeywords": [
+      "square outline"
+    ]
+  },
+  {
+    "id": "black-triangle-up",
+    "char": "▲",
+    "name": "Black Up-Pointing Triangle",
+    "codepoints": [
+      "U+25B2"
+    ],
+    "category": "geometric-shapes",
+    "tags": [
+      "shape"
+    ],
+    "searchKeywords": [
+      "triangle up"
+    ]
+  },
+  {
+    "id": "black-triangle-down",
+    "char": "▼",
+    "name": "Black Down-Pointing Triangle",
+    "codepoints": [
+      "U+25BC"
+    ],
+    "category": "geometric-shapes",
+    "tags": [
+      "shape"
+    ],
+    "searchKeywords": [
+      "triangle down"
+    ]
+  },
+  {
+    "id": "diamond-black",
+    "char": "◆",
+    "name": "Black Diamond",
+    "codepoints": [
+      "U+25C6"
+    ],
+    "category": "geometric-shapes",
+    "tags": [
+      "shape"
+    ],
+    "searchKeywords": [
+      "diamond filled"
+    ]
+  },
+  {
+    "id": "diamond-white",
+    "char": "◇",
+    "name": "White Diamond",
+    "codepoints": [
+      "U+25C7"
+    ],
+    "category": "geometric-shapes",
+    "tags": [
+      "shape"
+    ],
+    "searchKeywords": [
+      "diamond outline"
+    ]
+  },
+  {
+    "id": "large-blue-circle",
+    "char": "🔵",
+    "name": "Large Blue Circle",
+    "codepoints": [
+      "U+1F535"
+    ],
+    "category": "geometric-shapes",
+    "tags": [
+      "emoji",
+      "shape"
+    ],
+    "searchKeywords": [
+      "blue circle"
+    ]
+  },
+  {
+    "id": "large-red-square",
+    "char": "🟥",
+    "name": "Large Red Square",
+    "codepoints": [
+      "U+1F7E5"
+    ],
+    "category": "geometric-shapes",
+    "tags": [
+      "emoji",
+      "shape"
+    ],
+    "searchKeywords": [
+      "red square"
+    ]
+  },
+  {
+    "id": "box-light-h",
+    "char": "─",
+    "name": "Box Drawings Light Horizontal",
+    "codepoints": [
+      "U+2500"
+    ],
+    "category": "box-drawing",
+    "tags": [
+      "terminal",
+      "ui"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "line art",
+      "table"
+    ]
+  },
+  {
+    "id": "box-light-v",
+    "char": "│",
+    "name": "Box Drawings Light Vertical",
+    "codepoints": [
+      "U+2502"
+    ],
+    "category": "box-drawing",
+    "tags": [
+      "terminal",
+      "ui"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "line art",
+      "table"
+    ]
+  },
+  {
+    "id": "box-light-down-right",
+    "char": "┌",
+    "name": "Box Drawings Light Down and Right",
+    "codepoints": [
+      "U+250C"
+    ],
+    "category": "box-drawing",
+    "tags": [
+      "terminal",
+      "ui"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "line art",
+      "table"
+    ]
+  },
+  {
+    "id": "box-light-down-left",
+    "char": "┐",
+    "name": "Box Drawings Light Down and Left",
+    "codepoints": [
+      "U+2510"
+    ],
+    "category": "box-drawing",
+    "tags": [
+      "terminal",
+      "ui"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "line art",
+      "table"
+    ]
+  },
+  {
+    "id": "box-light-up-right",
+    "char": "└",
+    "name": "Box Drawings Light Up and Right",
+    "codepoints": [
+      "U+2514"
+    ],
+    "category": "box-drawing",
+    "tags": [
+      "terminal",
+      "ui"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "line art",
+      "table"
+    ]
+  },
+  {
+    "id": "box-light-up-left",
+    "char": "┘",
+    "name": "Box Drawings Light Up and Left",
+    "codepoints": [
+      "U+2518"
+    ],
+    "category": "box-drawing",
+    "tags": [
+      "terminal",
+      "ui"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "line art",
+      "table"
+    ]
+  },
+  {
+    "id": "box-light-vertical-right",
+    "char": "├",
+    "name": "Box Drawings Light Vertical and Right",
+    "codepoints": [
+      "U+251C"
+    ],
+    "category": "box-drawing",
+    "tags": [
+      "terminal",
+      "ui"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "line art",
+      "table"
+    ]
+  },
+  {
+    "id": "box-light-vertical-left",
+    "char": "┤",
+    "name": "Box Drawings Light Vertical and Left",
+    "codepoints": [
+      "U+2524"
+    ],
+    "category": "box-drawing",
+    "tags": [
+      "terminal",
+      "ui"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "line art",
+      "table"
+    ]
+  },
+  {
+    "id": "box-light-down-horizontal",
+    "char": "┬",
+    "name": "Box Drawings Light Down and Horizontal",
+    "codepoints": [
+      "U+252C"
+    ],
+    "category": "box-drawing",
+    "tags": [
+      "terminal",
+      "ui"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "line art",
+      "table"
+    ]
+  },
+  {
+    "id": "box-light-up-horizontal",
+    "char": "┴",
+    "name": "Box Drawings Light Up and Horizontal",
+    "codepoints": [
+      "U+2534"
+    ],
+    "category": "box-drawing",
+    "tags": [
+      "terminal",
+      "ui"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "line art",
+      "table"
+    ]
+  },
+  {
+    "id": "box-light-vertical-horizontal",
+    "char": "┼",
+    "name": "Box Drawings Light Vertical and Horizontal",
+    "codepoints": [
+      "U+253C"
+    ],
+    "category": "box-drawing",
+    "tags": [
+      "terminal",
+      "ui"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "line art",
+      "table"
+    ]
+  },
+  {
+    "id": "command-key",
+    "char": "⌘",
+    "name": "Place of Interest Sign",
+    "codepoints": [
+      "U+2318"
+    ],
+    "category": "technical-computing",
+    "tags": [
+      "keyboard",
+      "macOS"
+    ],
+    "searchKeywords": [
+      "command key",
+      "cmd"
+    ],
+    "featured": true
+  },
+  {
+    "id": "option-key",
+    "char": "⌥",
+    "name": "Option Key",
+    "codepoints": [
+      "U+2325"
+    ],
+    "category": "technical-computing",
+    "tags": [
+      "keyboard",
+      "macOS"
+    ],
+    "searchKeywords": [
+      "option key",
+      "alt"
+    ]
+  },
+  {
+    "id": "shift-key",
+    "char": "⇧",
+    "name": "Upwards White Arrow",
+    "codepoints": [
+      "U+21E7"
+    ],
+    "category": "technical-computing",
+    "tags": [
+      "keyboard"
+    ],
+    "searchKeywords": [
+      "shift key"
+    ]
+  },
+  {
+    "id": "enter-key",
+    "char": "⏎",
+    "name": "Return Symbol",
+    "codepoints": [
+      "U+23CE"
+    ],
+    "category": "technical-computing",
+    "tags": [
+      "keyboard"
+    ],
+    "searchKeywords": [
+      "enter key",
+      "return"
+    ],
+    "featured": true
+  },
+  {
+    "id": "escape-key",
+    "char": "⎋",
+    "name": "Broken Circle with Northwest Arrow",
+    "codepoints": [
+      "U+238B"
+    ],
+    "category": "technical-computing",
+    "tags": [
+      "keyboard"
+    ],
+    "searchKeywords": [
+      "escape key",
+      "esc"
+    ]
+  },
+  {
+    "id": "power-symbol",
+    "char": "⏻",
+    "name": "Power Symbol",
+    "codepoints": [
+      "U+23FB"
+    ],
+    "category": "technical-computing",
+    "tags": [
+      "hardware"
+    ],
+    "searchKeywords": [
+      "on off",
+      "power"
+    ],
+    "featured": true
+  },
+  {
+    "id": "eject-symbol",
+    "char": "⏏",
+    "name": "Eject Symbol",
+    "codepoints": [
+      "U+23CF"
+    ],
+    "category": "technical-computing",
+    "tags": [
+      "hardware"
+    ],
+    "searchKeywords": [
+      "eject"
+    ]
+  },
+  {
+    "id": "gear",
+    "char": "⚙",
+    "name": "Gear",
+    "codepoints": [
+      "U+2699"
+    ],
+    "category": "technical-computing",
+    "tags": [
+      "settings"
+    ],
+    "searchKeywords": [
+      "settings",
+      "preferences"
+    ],
+    "featured": true
+  },
+  {
+    "id": "keyboard",
+    "char": "⌨",
+    "name": "Keyboard",
+    "codepoints": [
+      "U+2328"
+    ],
+    "category": "technical-computing",
+    "tags": [
+      "hardware"
+    ],
+    "searchKeywords": [
+      "keyboard device"
+    ]
+  },
+  {
+    "id": "desktop-computer",
+    "char": "🖥",
+    "name": "Desktop Computer",
+    "codepoints": [
+      "U+1F5A5"
+    ],
+    "category": "technical-computing",
+    "tags": [
+      "hardware"
+    ],
+    "searchKeywords": [
+      "pc",
+      "computer"
+    ]
+  },
+  {
+    "id": "floppy-disk",
+    "char": "💾",
+    "name": "Floppy Disk",
+    "codepoints": [
+      "U+1F4BE"
+    ],
+    "category": "technical-computing",
+    "tags": [
+      "storage"
+    ],
+    "searchKeywords": [
+      "save",
+      "diskette"
+    ]
+  },
+  {
+    "id": "link-symbol",
+    "char": "🔗",
+    "name": "Link Symbol",
+    "codepoints": [
+      "U+1F517"
+    ],
+    "category": "technical-computing",
+    "tags": [
+      "web"
+    ],
+    "searchKeywords": [
+      "hyperlink",
+      "url"
+    ]
+  },
+  {
+    "id": "space",
+    "char": " ",
+    "name": "Space",
+    "codepoints": [
+      "U+0020"
+    ],
+    "category": "whitespace-invisible",
+    "tags": [
+      "whitespace"
+    ],
+    "searchKeywords": [
+      "space",
+      "blank"
+    ],
+    "note": "Standard word separator.",
+    "featured": true
+  },
+  {
+    "id": "no-break-space",
+    "char": " ",
+    "name": "No-Break Space",
+    "codepoints": [
+      "U+00A0"
+    ],
+    "category": "whitespace-invisible",
+    "tags": [
+      "whitespace"
+    ],
+    "searchKeywords": [
+      "nbsp",
+      "non breaking space"
+    ],
+    "note": "Prevents line breaks between words/numbers."
+  },
+  {
+    "id": "thin-space",
+    "char": " ",
+    "name": "Thin Space",
+    "codepoints": [
+      "U+2009"
+    ],
+    "category": "whitespace-invisible",
+    "tags": [
+      "whitespace",
+      "typography"
+    ],
+    "searchKeywords": [
+      "thin space",
+      "narrow space"
+    ]
+  },
+  {
+    "id": "hair-space",
+    "char": " ",
+    "name": "Hair Space",
+    "codepoints": [
+      "U+200A"
+    ],
+    "category": "whitespace-invisible",
+    "tags": [
+      "whitespace",
+      "typography"
+    ],
+    "searchKeywords": [
+      "hair space"
+    ]
+  },
+  {
+    "id": "zero-width-space",
+    "char": "​",
+    "name": "Zero Width Space",
+    "codepoints": [
+      "U+200B"
+    ],
+    "category": "whitespace-invisible",
+    "tags": [
+      "invisible",
+      "control"
+    ],
+    "searchKeywords": [
+      "zwsp",
+      "zero width space"
+    ],
+    "note": "Invisible separator; can break matching/copy-paste in code and search."
+  },
+  {
+    "id": "zero-width-joiner",
+    "char": "‍",
+    "name": "Zero Width Joiner",
+    "codepoints": [
+      "U+200D"
+    ],
+    "category": "whitespace-invisible",
+    "tags": [
+      "invisible",
+      "control"
+    ],
+    "searchKeywords": [
+      "zwj",
+      "emoji joiner"
+    ],
+    "note": "Joins characters into ligatures/emoji sequences. Invisible but semantically important."
+  },
+  {
+    "id": "zero-width-non-joiner",
+    "char": "‌",
+    "name": "Zero Width Non-Joiner",
+    "codepoints": [
+      "U+200C"
+    ],
+    "category": "whitespace-invisible",
+    "tags": [
+      "invisible",
+      "control"
+    ],
+    "searchKeywords": [
+      "zwnj"
+    ],
+    "note": "Prevents joining in scripts with contextual forms."
+  },
+  {
+    "id": "byte-order-mark",
+    "char": "﻿",
+    "name": "Zero Width No-Break Space / BOM",
+    "codepoints": [
+      "U+FEFF"
+    ],
+    "category": "whitespace-invisible",
+    "tags": [
+      "invisible",
+      "encoding"
+    ],
+    "searchKeywords": [
+      "bom",
+      "byte order mark"
+    ],
+    "note": "Legacy BOM; may cause parsing issues at file starts."
+  },
+  {
+    "id": "grinning-face",
+    "char": "😀",
+    "name": "Grinning Face",
+    "codepoints": [
+      "U+1F600"
+    ],
+    "category": "emoji-smileys",
+    "tags": [
+      "happy",
+      "face"
+    ],
+    "searchKeywords": [
+      "smile",
+      "happy"
+    ],
+    "featured": true
+  },
+  {
+    "id": "beaming-face",
+    "char": "😁",
+    "name": "Beaming Face with Smiling Eyes",
+    "codepoints": [
+      "U+1F601"
+    ],
+    "category": "emoji-smileys",
+    "tags": [
+      "happy",
+      "face"
+    ],
+    "searchKeywords": [
+      "grin",
+      "joy"
+    ]
+  },
+  {
+    "id": "tears-of-joy",
+    "char": "😂",
+    "name": "Face with Tears of Joy",
+    "codepoints": [
+      "U+1F602"
+    ],
+    "category": "emoji-smileys",
+    "tags": [
+      "reaction"
+    ],
+    "searchKeywords": [
+      "lol",
+      "laughing"
+    ]
+  },
+  {
+    "id": "winking-face",
+    "char": "😉",
+    "name": "Winking Face",
+    "codepoints": [
+      "U+1F609"
+    ],
+    "category": "emoji-smileys",
+    "tags": [
+      "reaction"
+    ],
+    "searchKeywords": [
+      "wink"
+    ]
+  },
+  {
+    "id": "smiling-heart-eyes",
+    "char": "😍",
+    "name": "Smiling Face with Heart-Eyes",
+    "codepoints": [
+      "U+1F60D"
+    ],
+    "category": "emoji-smileys",
+    "tags": [
+      "reaction"
+    ],
+    "searchKeywords": [
+      "love",
+      "heart eyes"
+    ]
+  },
+  {
+    "id": "thinking-face",
+    "char": "🤔",
+    "name": "Thinking Face",
+    "codepoints": [
+      "U+1F914"
+    ],
+    "category": "emoji-smileys",
+    "tags": [
+      "reaction"
+    ],
+    "searchKeywords": [
+      "hmm",
+      "thinking"
+    ]
+  },
+  {
+    "id": "party-popper",
+    "char": "🎉",
+    "name": "Party Popper",
+    "codepoints": [
+      "U+1F389"
+    ],
+    "category": "emoji-objects",
+    "tags": [
+      "celebration"
+    ],
+    "searchKeywords": [
+      "party",
+      "congrats"
+    ],
+    "featured": true
+  },
+  {
+    "id": "fire",
+    "char": "🔥",
+    "name": "Fire",
+    "codepoints": [
+      "U+1F525"
+    ],
+    "category": "emoji-objects",
+    "tags": [
+      "reaction"
+    ],
+    "searchKeywords": [
+      "lit",
+      "hot"
+    ],
+    "featured": true
+  },
+  {
+    "id": "rocket",
+    "char": "🚀",
+    "name": "Rocket",
+    "codepoints": [
+      "U+1F680"
+    ],
+    "category": "emoji-travel",
+    "tags": [
+      "transport"
+    ],
+    "searchKeywords": [
+      "launch",
+      "space"
+    ],
+    "featured": true
+  },
+  {
+    "id": "thumbs-up",
+    "char": "👍",
+    "name": "Thumbs Up",
+    "codepoints": [
+      "U+1F44D"
+    ],
+    "category": "emoji-people",
+    "tags": [
+      "gesture"
+    ],
+    "searchKeywords": [
+      "approve",
+      "ok"
+    ],
+    "featured": true
+  },
+  {
+    "id": "clapping-hands",
+    "char": "👏",
+    "name": "Clapping Hands",
+    "codepoints": [
+      "U+1F44F"
+    ],
+    "category": "emoji-people",
+    "tags": [
+      "gesture"
+    ],
+    "searchKeywords": [
+      "applause"
+    ]
+  },
+  {
+    "id": "folded-hands",
+    "char": "🙏",
+    "name": "Folded Hands",
+    "codepoints": [
+      "U+1F64F"
+    ],
+    "category": "emoji-people",
+    "tags": [
+      "gesture"
+    ],
+    "searchKeywords": [
+      "thanks",
+      "please"
+    ]
+  },
+  {
+    "id": "red-heart",
+    "char": "❤️",
+    "name": "Red Heart",
+    "codepoints": [
+      "U+2764",
+      "U+FE0F"
+    ],
+    "category": "emoji-objects",
+    "tags": [
+      "emotion"
+    ],
+    "searchKeywords": [
+      "love",
+      "heart"
+    ],
+    "featured": true
+  },
+  {
+    "id": "warning-sign",
+    "char": "⚠️",
+    "name": "Warning Sign",
+    "codepoints": [
+      "U+26A0",
+      "U+FE0F"
+    ],
+    "category": "emoji-objects",
+    "tags": [
+      "alert"
+    ],
+    "searchKeywords": [
+      "warning",
+      "caution"
+    ],
+    "featured": true
+  },
+  {
+    "id": "check-emoji",
+    "char": "✅",
+    "name": "Check Mark Button",
+    "codepoints": [
+      "U+2705"
+    ],
+    "category": "emoji-objects",
+    "tags": [
+      "status"
+    ],
+    "searchKeywords": [
+      "check",
+      "done"
+    ]
+  },
+  {
+    "id": "cross-emoji",
+    "char": "❌",
+    "name": "Cross Mark",
+    "codepoints": [
+      "U+274C"
+    ],
+    "category": "emoji-objects",
+    "tags": [
+      "status"
+    ],
+    "searchKeywords": [
+      "x",
+      "error"
+    ]
+  },
+  {
+    "id": "dog-face",
+    "char": "🐶",
+    "name": "Dog Face",
+    "codepoints": [
+      "U+1F436"
+    ],
+    "category": "emoji-nature",
+    "tags": [
+      "animal"
+    ],
+    "searchKeywords": [
+      "dog",
+      "pet"
+    ]
+  },
+  {
+    "id": "cat-face",
+    "char": "🐱",
+    "name": "Cat Face",
+    "codepoints": [
+      "U+1F431"
+    ],
+    "category": "emoji-nature",
+    "tags": [
+      "animal"
+    ],
+    "searchKeywords": [
+      "cat",
+      "pet"
+    ]
+  },
+  {
+    "id": "pizza",
+    "char": "🍕",
+    "name": "Pizza",
+    "codepoints": [
+      "U+1F355"
+    ],
+    "category": "emoji-food",
+    "tags": [
+      "food"
+    ],
+    "searchKeywords": [
+      "pizza",
+      "slice"
+    ]
+  },
+  {
+    "id": "coffee",
+    "char": "☕",
+    "name": "Hot Beverage",
+    "codepoints": [
+      "U+2615"
+    ],
+    "category": "emoji-food",
+    "tags": [
+      "drink"
+    ],
+    "searchKeywords": [
+      "coffee",
+      "tea"
+    ]
+  },
+  {
+    "id": "flag-us",
     "char": "🇺🇸",
     "name": "Flag: United States",
-    "keywords": ["flag", "country", "us", "america"],
+    "codepoints": [
+      "U+1F1FA",
+      "U+1F1F8"
+    ],
     "category": "flags",
-    "tags": ["nation"],
-    "unicode": "U+1F1FA U+1F1F8"
+    "tags": [
+      "country",
+      "region"
+    ],
+    "searchKeywords": [
+      "flag",
+      "united states"
+    ]
   },
   {
-    "id": "japan-flag",
+    "id": "flag-gb",
+    "char": "🇬🇧",
+    "name": "Flag: United Kingdom",
+    "codepoints": [
+      "U+1F1EC",
+      "U+1F1E7"
+    ],
+    "category": "flags",
+    "tags": [
+      "country",
+      "region"
+    ],
+    "searchKeywords": [
+      "flag",
+      "united kingdom"
+    ]
+  },
+  {
+    "id": "flag-ca",
+    "char": "🇨🇦",
+    "name": "Flag: Canada",
+    "codepoints": [
+      "U+1F1E8",
+      "U+1F1E6"
+    ],
+    "category": "flags",
+    "tags": [
+      "country",
+      "region"
+    ],
+    "searchKeywords": [
+      "flag",
+      "canada"
+    ]
+  },
+  {
+    "id": "flag-au",
+    "char": "🇦🇺",
+    "name": "Flag: Australia",
+    "codepoints": [
+      "U+1F1E6",
+      "U+1F1FA"
+    ],
+    "category": "flags",
+    "tags": [
+      "country",
+      "region"
+    ],
+    "searchKeywords": [
+      "flag",
+      "australia"
+    ]
+  },
+  {
+    "id": "flag-in",
+    "char": "🇮🇳",
+    "name": "Flag: India",
+    "codepoints": [
+      "U+1F1EE",
+      "U+1F1F3"
+    ],
+    "category": "flags",
+    "tags": [
+      "country",
+      "region"
+    ],
+    "searchKeywords": [
+      "flag",
+      "india"
+    ]
+  },
+  {
+    "id": "flag-jp",
     "char": "🇯🇵",
     "name": "Flag: Japan",
-    "keywords": ["flag", "country", "jp"],
+    "codepoints": [
+      "U+1F1EF",
+      "U+1F1F5"
+    ],
     "category": "flags",
-    "tags": ["nation"],
-    "unicode": "U+1F1EF U+1F1F5"
+    "tags": [
+      "country",
+      "region"
+    ],
+    "searchKeywords": [
+      "flag",
+      "japan"
+    ]
   },
   {
-    "id": "om-symbol",
-    "char": "ॐ",
-    "name": "Om Symbol",
-    "keywords": ["religion", "spiritual", "sacred", "mantra"],
-    "category": "religious-spiritual",
-    "tags": ["hinduism", "mantra", "culture"],
-    "unicode": "U+0950",
-    "flags": {
-      "contextual": true
-    },
-    "contextNote": "Used as a sacred symbol in Hindu traditions and related spiritual practices."
+    "id": "flag-br",
+    "char": "🇧🇷",
+    "name": "Flag: Brazil",
+    "codepoints": [
+      "U+1F1E7",
+      "U+1F1F7"
+    ],
+    "category": "flags",
+    "tags": [
+      "country",
+      "region"
+    ],
+    "searchKeywords": [
+      "flag",
+      "brazil"
+    ]
   },
   {
-    "id": "swastika",
-    "char": "卐",
-    "name": "Swastika",
-    "keywords": ["religion", "historic", "symbol"],
-    "category": "religious-spiritual",
-    "tags": ["historical", "context-dependent", "culture"],
-    "unicode": "U+5350",
+    "id": "flag-de",
+    "char": "🇩🇪",
+    "name": "Flag: Germany",
+    "codepoints": [
+      "U+1F1E9",
+      "U+1F1EA"
+    ],
+    "category": "flags",
+    "tags": [
+      "country",
+      "region"
+    ],
+    "searchKeywords": [
+      "flag",
+      "germany"
+    ]
+  },
+  {
+    "id": "flag-fr",
+    "char": "🇫🇷",
+    "name": "Flag: France",
+    "codepoints": [
+      "U+1F1EB",
+      "U+1F1F7"
+    ],
+    "category": "flags",
+    "tags": [
+      "country",
+      "region"
+    ],
+    "searchKeywords": [
+      "flag",
+      "france"
+    ]
+  },
+  {
+    "id": "flag-eu",
+    "char": "🇪🇺",
+    "name": "Flag: European Union",
+    "codepoints": [
+      "U+1F1EA",
+      "U+1F1FA"
+    ],
+    "category": "flags",
+    "tags": [
+      "country",
+      "region"
+    ],
+    "searchKeywords": [
+      "flag",
+      "european union"
+    ]
+  },
+  {
+    "id": "peace-symbol",
+    "char": "☮",
+    "name": "Peace Symbol",
+    "codepoints": [
+      "U+262E"
+    ],
+    "category": "political-ideological",
+    "tags": [
+      "contextual",
+      "political"
+    ],
+    "searchKeywords": [
+      "political symbol",
+      "ideology",
+      "peace symbol"
+    ],
+    "note": "Peace and anti-war symbol used across movements.",
     "flags": {
-      "sensitive": true,
-      "contextual": true
-    },
-    "contextNote": "Historically used in multiple cultures and religions; interpretation depends on context."
+      "sensitive": true
+    }
+  },
+  {
+    "id": "anarchy-symbol",
+    "char": "Ⓐ",
+    "name": "Circled Latin Capital Letter A",
+    "codepoints": [
+      "U+24B6"
+    ],
+    "category": "political-ideological",
+    "tags": [
+      "contextual",
+      "political"
+    ],
+    "searchKeywords": [
+      "political symbol",
+      "ideology",
+      "circled latin capital letter a"
+    ],
+    "note": "Commonly used as an anarchy symbol in political contexts.",
+    "flags": {
+      "sensitive": true
+    }
   },
   {
     "id": "hammer-and-sickle",
     "char": "☭",
     "name": "Hammer and Sickle",
-    "keywords": ["historic", "politics", "symbol"],
+    "codepoints": [
+      "U+262D"
+    ],
     "category": "political-ideological",
-    "tags": ["communism", "historical", "ideology"],
-    "unicode": "U+262D",
+    "tags": [
+      "contextual",
+      "political"
+    ],
+    "searchKeywords": [
+      "political symbol",
+      "ideology",
+      "hammer and sickle"
+    ],
+    "note": "Associated with communist movements and state symbolism.",
     "flags": {
-      "sensitive": true,
-      "contextual": true
-    },
-    "contextNote": "Associated with communist political movements and historical state symbols."
+      "sensitive": true
+    }
+  },
+  {
+    "id": "fascist-symbol",
+    "char": "卐",
+    "name": "Swastika (Buddhist/Historic Form)",
+    "codepoints": [
+      "U+5350"
+    ],
+    "category": "political-ideological",
+    "tags": [
+      "contextual",
+      "political"
+    ],
+    "searchKeywords": [
+      "political symbol",
+      "ideology",
+      "swastika (buddhist/historic form)"
+    ],
+    "note": "Historic religious symbol in Asia; in Western political contexts can be interpreted as extremist imagery.",
+    "flags": {
+      "sensitive": true
+    }
+  },
+  {
+    "id": "black-flag",
+    "char": "🏴",
+    "name": "Black Flag",
+    "codepoints": [
+      "U+1F3F4"
+    ],
+    "category": "political-ideological",
+    "tags": [
+      "contextual",
+      "political"
+    ],
+    "searchKeywords": [
+      "political symbol",
+      "ideology",
+      "black flag"
+    ],
+    "note": "Used in varied contexts including protest, mourning, and anarchist symbolism.",
+    "flags": {
+      "sensitive": true
+    }
+  },
+  {
+    "id": "rainbow-flag",
+    "char": "🏳️‍🌈",
+    "name": "Rainbow Flag",
+    "codepoints": [
+      "U+1F3F3",
+      "U+FE0F",
+      "U+200D",
+      "U+1F308"
+    ],
+    "category": "political-ideological",
+    "tags": [
+      "contextual",
+      "political"
+    ],
+    "searchKeywords": [
+      "political symbol",
+      "ideology",
+      "rainbow flag",
+      "pride"
+    ],
+    "note": "Widely used as LGBTQ+ pride symbol and in civil rights contexts.",
+    "flags": {
+      "sensitive": true
+    }
+  },
+  {
+    "id": "transgender-flag",
+    "char": "🏳️‍⚧️",
+    "name": "Transgender Flag",
+    "codepoints": [
+      "U+1F3F3",
+      "U+FE0F",
+      "U+200D",
+      "U+26A7",
+      "U+FE0F"
+    ],
+    "category": "political-ideological",
+    "tags": [
+      "contextual",
+      "political"
+    ],
+    "searchKeywords": [
+      "political symbol",
+      "ideology",
+      "transgender flag"
+    ],
+    "note": "Widely used in transgender rights and identity contexts.",
+    "flags": {
+      "sensitive": true
+    }
+  },
+  {
+    "id": "raised-fist",
+    "char": "✊",
+    "name": "Raised Fist",
+    "codepoints": [
+      "U+270A"
+    ],
+    "category": "political-ideological",
+    "tags": [
+      "contextual",
+      "political"
+    ],
+    "searchKeywords": [
+      "political symbol",
+      "ideology",
+      "raised fist"
+    ],
+    "note": "General solidarity/protest gesture with context-dependent political meaning.",
+    "flags": {
+      "sensitive": true
+    }
+  },
+  {
+    "id": "latin-cross-symbol",
+    "char": "✝",
+    "name": "Latin Cross",
+    "codepoints": [
+      "U+271D"
+    ],
+    "category": "religious-spiritual",
+    "tags": [
+      "contextual",
+      "religious"
+    ],
+    "searchKeywords": [
+      "religion",
+      "spiritual",
+      "latin cross"
+    ],
+    "note": "Christian symbol used in liturgy and identity.",
+    "flags": {
+      "sensitive": true
+    }
+  },
+  {
+    "id": "star-and-crescent",
+    "char": "☪",
+    "name": "Star and Crescent",
+    "codepoints": [
+      "U+262A"
+    ],
+    "category": "religious-spiritual",
+    "tags": [
+      "contextual",
+      "religious"
+    ],
+    "searchKeywords": [
+      "religion",
+      "spiritual",
+      "star and crescent"
+    ],
+    "note": "Commonly associated with Islam in modern usage.",
+    "flags": {
+      "sensitive": true
+    }
+  },
+  {
+    "id": "om-symbol",
+    "char": "ॐ",
+    "name": "Om",
+    "codepoints": [
+      "U+0950"
+    ],
+    "category": "religious-spiritual",
+    "tags": [
+      "contextual",
+      "religious"
+    ],
+    "searchKeywords": [
+      "religion",
+      "spiritual",
+      "om"
+    ],
+    "note": "Sacred symbol in several Dharmic traditions including Hinduism.",
+    "flags": {
+      "sensitive": true
+    }
+  },
+  {
+    "id": "dharma-wheel",
+    "char": "☸",
+    "name": "Wheel of Dharma",
+    "codepoints": [
+      "U+2638"
+    ],
+    "category": "religious-spiritual",
+    "tags": [
+      "contextual",
+      "religious"
+    ],
+    "searchKeywords": [
+      "religion",
+      "spiritual",
+      "wheel of dharma"
+    ],
+    "note": "Buddhist and Dharmic symbol of teachings/path.",
+    "flags": {
+      "sensitive": true
+    }
+  },
+  {
+    "id": "star-of-david",
+    "char": "✡",
+    "name": "Star of David",
+    "codepoints": [
+      "U+2721"
+    ],
+    "category": "religious-spiritual",
+    "tags": [
+      "contextual",
+      "religious"
+    ],
+    "searchKeywords": [
+      "religion",
+      "spiritual",
+      "star of david"
+    ],
+    "note": "Jewish religious/cultural symbol.",
+    "flags": {
+      "sensitive": true
+    }
+  },
+  {
+    "id": "khanda",
+    "char": "☬",
+    "name": "Khanda",
+    "codepoints": [
+      "U+262C"
+    ],
+    "category": "religious-spiritual",
+    "tags": [
+      "contextual",
+      "religious"
+    ],
+    "searchKeywords": [
+      "religion",
+      "spiritual",
+      "khanda"
+    ],
+    "note": "Primary Sikh emblem.",
+    "flags": {
+      "sensitive": true
+    }
+  },
+  {
+    "id": "yin-yang",
+    "char": "☯",
+    "name": "Yin Yang",
+    "codepoints": [
+      "U+262F"
+    ],
+    "category": "religious-spiritual",
+    "tags": [
+      "contextual",
+      "religious"
+    ],
+    "searchKeywords": [
+      "religion",
+      "spiritual",
+      "yin yang"
+    ],
+    "note": "Taoist philosophical and spiritual symbol.",
+    "flags": {
+      "sensitive": true
+    }
+  },
+  {
+    "id": "menorah",
+    "char": "🕎",
+    "name": "Menorah",
+    "codepoints": [
+      "U+1F54E"
+    ],
+    "category": "religious-spiritual",
+    "tags": [
+      "contextual",
+      "religious"
+    ],
+    "searchKeywords": [
+      "religion",
+      "spiritual",
+      "menorah"
+    ],
+    "note": "Jewish candelabrum symbol, often used around Hanukkah.",
+    "flags": {
+      "sensitive": true
+    }
   }
 ]

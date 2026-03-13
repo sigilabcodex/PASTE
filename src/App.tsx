@@ -13,19 +13,27 @@ const symbols = symbolsData as SymbolEntry[];
 
 const categoryOptions: CategoryOption[] = [
   { id: 'all', label: 'All' },
-  { id: 'emoji-smileys', label: 'Smileys' },
-  { id: 'emoji-gestures', label: 'Gestures' },
-  { id: 'emoji-animals', label: 'Animals' },
-  { id: 'emoji-food', label: 'Food' },
-  { id: 'emoji-travel', label: 'Travel' },
-  { id: 'symbols-math', label: 'Math' },
-  { id: 'symbols-currency', label: 'Currency' },
-  { id: 'symbols-arrows', label: 'Arrows' },
-  { id: 'symbols-technical', label: 'Technical' },
+  { id: 'punctuation', label: 'Punctuation' },
+  { id: 'quotation-marks', label: 'Quotation Marks' },
+  { id: 'arrows', label: 'Arrows' },
+  { id: 'math-symbols', label: 'Math Symbols' },
+  { id: 'currency', label: 'Currency' },
+  { id: 'check-marks', label: 'Check Marks' },
+  { id: 'crosses', label: 'Crosses' },
+  { id: 'stars', label: 'Stars' },
+  { id: 'geometric-shapes', label: 'Geometric Shapes' },
+  { id: 'box-drawing', label: 'Box Drawing' },
+  { id: 'technical-computing', label: 'Technical / Computing' },
+  { id: 'whitespace-invisible', label: 'Whitespace / Invisible' },
+  { id: 'emoji-smileys', label: 'Emoji: Smileys' },
+  { id: 'emoji-people', label: 'Emoji: People' },
+  { id: 'emoji-nature', label: 'Emoji: Nature' },
+  { id: 'emoji-food', label: 'Emoji: Food' },
+  { id: 'emoji-travel', label: 'Emoji: Travel' },
+  { id: 'emoji-objects', label: 'Emoji: Objects' },
   { id: 'flags', label: 'Flags' },
   { id: 'political-ideological', label: 'Political / Ideological' },
-  { id: 'religious-spiritual', label: 'Religious / Spiritual' },
-  { id: 'misc', label: 'Misc' }
+  { id: 'religious-spiritual', label: 'Religious / Spiritual' }
 ];
 
 function normalize(value: string): string {
@@ -37,11 +45,11 @@ function matches(entry: SymbolEntry, query: string): boolean {
   const haystack = [
     entry.char,
     entry.name,
-    entry.unicode,
+    entry.codepoints.join(' '),
     entry.category,
-    entry.keywords.join(' '),
-    entry.tags?.join(' ') ?? '',
-    entry.contextNote ?? ''
+    entry.searchKeywords.join(' '),
+    entry.tags.join(' '),
+    entry.note ?? ''
   ]
     .join(' ')
     .toLowerCase();
@@ -58,7 +66,7 @@ export default function App() {
 
   const query = normalize(search);
 
-  const featured = useMemo(() => symbols.filter((item) => !item.flags?.sensitive).slice(0, 12), []);
+  const featured = useMemo(() => symbols.filter((item) => item.featured).slice(0, 16), []);
 
   const filtered = useMemo(() => {
     const byCategory =
