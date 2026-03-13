@@ -9,6 +9,20 @@
 - `src/data/symbols.json`: primary symbol dataset.
 - `src/data/symbols.schema.json`: JSON Schema for validation.
 - `src/data/featured.v1.json`: neutral default featured set.
+- `src/data/curated-sets.v1.json`: curated set/pack definitions (`featured`, `author-curated`).
+
+## v1 dataset expansion (this update)
+- Expanded practical coverage across punctuation, quotation marks, arrows, math, currency, checks/crosses, stars, geometric shapes, box drawing, technical/computing symbols, whitespace/invisible characters, and emoji control/audio symbols.
+- Added author-requested symbols and emoji: anarchy symbol, copyleft symbol, dagaz/wunjo/eihwaz runes, delta, guillemets, parentheses, tilde, and uppercase Ñ.
+- Added schema support for:
+  - `primaryCategory` (required),
+  - `curatedSets` (optional),
+  - `contextualNote` (optional; keeps `note` as a backward-compatible alias),
+  - `searchKeywords` (kept as optional-friendly array in usage, required in schema).
+
+## Unicode naming assumptions
+- Some symbols are commonly referenced by alternate names in different communities (example: `Eihwaz`/`Iwaz`, `quotation mark`/`guillemet`, `control knobs`/`mixer knobs`).
+- Where naming conventions vary, entries use neutral descriptive names and include alternate forms in `searchKeywords`.
 
 ## Scaling plan (Unicode + CLDR)
 1. **Unicode Character Database (UCD)**

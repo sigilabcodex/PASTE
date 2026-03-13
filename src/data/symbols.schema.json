@@ -8,7 +8,7 @@
     "char",
     "name",
     "codepoints",
-    "category",
+    "primaryCategory",
     "tags",
     "searchKeywords"
   ],
@@ -33,6 +33,56 @@
         "pattern": "^U\\+[0-9A-F]{2,6}$"
       }
     },
+    "primaryCategory": {
+      "$ref": "#/$defs/category"
+    },
+    "category": {
+      "$ref": "#/$defs/category",
+      "description": "Backward-compatible alias for primaryCategory."
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "searchKeywords": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "curatedSets": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+      },
+      "uniqueItems": true
+    },
+    "contextualNote": {
+      "type": "string"
+    },
+    "note": {
+      "type": "string",
+      "description": "Legacy field preserved for compatibility; prefer contextualNote."
+    },
+    "featured": {
+      "type": "boolean",
+      "default": false
+    },
+    "flags": {
+      "type": "object",
+      "properties": {
+        "sensitive": {
+          "type": "boolean",
+          "default": false
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "$defs": {
     "category": {
       "type": "string",
       "enum": [
@@ -58,35 +108,6 @@
         "political-ideological",
         "religious-spiritual"
       ]
-    },
-    "tags": {
-      "type": "array",
-      "items": {
-        "type": "string"
-      }
-    },
-    "searchKeywords": {
-      "type": "array",
-      "items": {
-        "type": "string"
-      }
-    },
-    "note": {
-      "type": "string"
-    },
-    "featured": {
-      "type": "boolean",
-      "default": false
-    },
-    "flags": {
-      "type": "object",
-      "properties": {
-        "sensitive": {
-          "type": "boolean",
-          "default": false
-        }
-      },
-      "additionalProperties": false
     }
   },
   "additionalProperties": false

@@ -17,7 +17,8 @@
       "full stop",
       "end"
     ],
-    "featured": true
+    "featured": true,
+    "primaryCategory": "punctuation"
   },
   {
     "id": "comma",
@@ -36,7 +37,8 @@
       "pause",
       "separator"
     ],
-    "featured": true
+    "featured": true,
+    "primaryCategory": "punctuation"
   },
   {
     "id": "semicolon",
@@ -52,7 +54,8 @@
     "searchKeywords": [
       "semicolon",
       "punctuation"
-    ]
+    ],
+    "primaryCategory": "punctuation"
   },
   {
     "id": "colon",
@@ -69,7 +72,8 @@
       "colon",
       "time",
       "ratio"
-    ]
+    ],
+    "primaryCategory": "punctuation"
   },
   {
     "id": "question-mark",
@@ -86,7 +90,8 @@
       "question",
       "ask"
     ],
-    "featured": true
+    "featured": true,
+    "primaryCategory": "punctuation"
   },
   {
     "id": "exclamation-mark",
@@ -104,7 +109,8 @@
       "exclamation",
       "warning"
     ],
-    "featured": true
+    "featured": true,
+    "primaryCategory": "punctuation"
   },
   {
     "id": "ellipsis",
@@ -121,7 +127,8 @@
       "ellipsis",
       "three dots",
       "truncate"
-    ]
+    ],
+    "primaryCategory": "punctuation"
   },
   {
     "id": "interrobang",
@@ -137,7 +144,8 @@
     "searchKeywords": [
       "interrobang",
       "question exclamation"
-    ]
+    ],
+    "primaryCategory": "punctuation"
   },
   {
     "id": "middle-dot",
@@ -154,7 +162,8 @@
       "middle dot",
       "dot operator",
       "bullet"
-    ]
+    ],
+    "primaryCategory": "punctuation"
   },
   {
     "id": "section-sign",
@@ -170,7 +179,8 @@
     "searchKeywords": [
       "section",
       "legal"
-    ]
+    ],
+    "primaryCategory": "punctuation"
   },
   {
     "id": "pilcrow",
@@ -186,7 +196,8 @@
     "searchKeywords": [
       "paragraph",
       "pilcrow"
-    ]
+    ],
+    "primaryCategory": "punctuation"
   },
   {
     "id": "inverted-question",
@@ -202,7 +213,8 @@
     "searchKeywords": [
       "inverted question",
       "spanish punctuation"
-    ]
+    ],
+    "primaryCategory": "punctuation"
   },
   {
     "id": "double-quote",
@@ -219,7 +231,8 @@
       "double quote",
       "quote"
     ],
-    "featured": true
+    "featured": true,
+    "primaryCategory": "quotation-marks"
   },
   {
     "id": "apostrophe",
@@ -236,7 +249,8 @@
       "single quote",
       "apostrophe"
     ],
-    "featured": true
+    "featured": true,
+    "primaryCategory": "quotation-marks"
   },
   {
     "id": "left-double-curly",
@@ -252,7 +266,8 @@
     "searchKeywords": [
       "opening quote",
       "smart quote"
-    ]
+    ],
+    "primaryCategory": "quotation-marks"
   },
   {
     "id": "right-double-curly",
@@ -268,7 +283,8 @@
     "searchKeywords": [
       "closing quote",
       "smart quote"
-    ]
+    ],
+    "primaryCategory": "quotation-marks"
   },
   {
     "id": "left-single-curly",
@@ -283,7 +299,8 @@
     ],
     "searchKeywords": [
       "opening single quote"
-    ]
+    ],
+    "primaryCategory": "quotation-marks"
   },
   {
     "id": "right-single-curly",
@@ -299,7 +316,8 @@
     "searchKeywords": [
       "closing single quote",
       "apostrophe"
-    ]
+    ],
+    "primaryCategory": "quotation-marks"
   },
   {
     "id": "guillemet-left",
@@ -315,6 +333,10 @@
     "searchKeywords": [
       "guillemet left",
       "angle quote"
+    ],
+    "primaryCategory": "quotation-marks",
+    "curatedSets": [
+      "author-signal-pack"
     ]
   },
   {
@@ -331,6 +353,10 @@
     "searchKeywords": [
       "guillemet right",
       "angle quote"
+    ],
+    "primaryCategory": "quotation-marks",
+    "curatedSets": [
+      "author-signal-pack"
     ]
   },
   {
@@ -346,7 +372,8 @@
     ],
     "searchKeywords": [
       "single guillemet left"
-    ]
+    ],
+    "primaryCategory": "quotation-marks"
   },
   {
     "id": "single-guillemet-right",
@@ -361,7 +388,8 @@
     ],
     "searchKeywords": [
       "single guillemet right"
-    ]
+    ],
+    "primaryCategory": "quotation-marks"
   },
   {
     "id": "left-arrow",
@@ -379,7 +407,8 @@
       "back",
       "arrow"
     ],
-    "featured": true
+    "featured": true,
+    "primaryCategory": "arrows"
   },
   {
     "id": "up-arrow",
@@ -395,7 +424,8 @@
     "searchKeywords": [
       "up",
       "arrow"
-    ]
+    ],
+    "primaryCategory": "arrows"
   },
   {
     "id": "right-arrow",
@@ -413,7 +443,8 @@
       "forward",
       "arrow"
     ],
-    "featured": true
+    "featured": true,
+    "primaryCategory": "arrows"
   },
   {
     "id": "down-arrow",
@@ -429,7 +460,8 @@
     "searchKeywords": [
       "down",
       "arrow"
-    ]
+    ],
+    "primaryCategory": "arrows"
   },
   {
     "id": "left-right-arrow",
@@ -446,7 +478,8 @@
       "bidirectional",
       "swap",
       "arrow"
-    ]
+    ],
+    "primaryCategory": "arrows"
   },
   {
     "id": "up-down-arrow",
@@ -462,7 +495,8 @@
     "searchKeywords": [
       "vertical",
       "arrow"
-    ]
+    ],
+    "primaryCategory": "arrows"
   },
   {
     "id": "northwest-arrow",
@@ -478,7 +512,8 @@
     "searchKeywords": [
       "diagonal",
       "nw arrow"
-    ]
+    ],
+    "primaryCategory": "arrows"
   },
   {
     "id": "northeast-arrow",
@@ -494,7 +529,8 @@
     "searchKeywords": [
       "diagonal",
       "ne arrow"
-    ]
+    ],
+    "primaryCategory": "arrows"
   },
   {
     "id": "southeast-arrow",
@@ -510,7 +546,8 @@
     "searchKeywords": [
       "diagonal",
       "se arrow"
-    ]
+    ],
+    "primaryCategory": "arrows"
   },
   {
     "id": "southwest-arrow",
@@ -526,7 +563,8 @@
     "searchKeywords": [
       "diagonal",
       "sw arrow"
-    ]
+    ],
+    "primaryCategory": "arrows"
   },
   {
     "id": "return-arrow",
@@ -543,7 +581,8 @@
       "return",
       "undo",
       "hook arrow"
-    ]
+    ],
+    "primaryCategory": "arrows"
   },
   {
     "id": "tab-arrow",
@@ -560,7 +599,8 @@
       "tab",
       "keyboard",
       "arrow"
-    ]
+    ],
+    "primaryCategory": "arrows"
   },
   {
     "id": "plus",
@@ -577,7 +617,8 @@
       "plus",
       "add"
     ],
-    "featured": true
+    "featured": true,
+    "primaryCategory": "math-symbols"
   },
   {
     "id": "minus",
@@ -594,7 +635,8 @@
       "minus",
       "subtract"
     ],
-    "featured": true
+    "featured": true,
+    "primaryCategory": "math-symbols"
   },
   {
     "id": "multiply",
@@ -610,7 +652,8 @@
     "searchKeywords": [
       "multiply",
       "times"
-    ]
+    ],
+    "primaryCategory": "math-symbols"
   },
   {
     "id": "divide",
@@ -625,7 +668,8 @@
     ],
     "searchKeywords": [
       "divide"
-    ]
+    ],
+    "primaryCategory": "math-symbols"
   },
   {
     "id": "equals",
@@ -641,7 +685,8 @@
     "searchKeywords": [
       "equals"
     ],
-    "featured": true
+    "featured": true,
+    "primaryCategory": "math-symbols"
   },
   {
     "id": "not-equal",
@@ -657,7 +702,8 @@
     "searchKeywords": [
       "not equal",
       "inequality"
-    ]
+    ],
+    "primaryCategory": "math-symbols"
   },
   {
     "id": "approx",
@@ -673,7 +719,8 @@
     "searchKeywords": [
       "approximately",
       "approx"
-    ]
+    ],
+    "primaryCategory": "math-symbols"
   },
   {
     "id": "plus-minus",
@@ -688,7 +735,8 @@
     ],
     "searchKeywords": [
       "plus minus"
-    ]
+    ],
+    "primaryCategory": "math-symbols"
   },
   {
     "id": "infinity",
@@ -705,7 +753,8 @@
       "infinity",
       "unbounded"
     ],
-    "featured": true
+    "featured": true,
+    "primaryCategory": "math-symbols"
   },
   {
     "id": "integral",
@@ -720,7 +769,8 @@
     ],
     "searchKeywords": [
       "integral"
-    ]
+    ],
+    "primaryCategory": "math-symbols"
   },
   {
     "id": "summation",
@@ -737,7 +787,8 @@
       "sum",
       "sigma",
       "summation"
-    ]
+    ],
+    "primaryCategory": "math-symbols"
   },
   {
     "id": "product",
@@ -753,7 +804,8 @@
     "searchKeywords": [
       "product",
       "pi operator"
-    ]
+    ],
+    "primaryCategory": "math-symbols"
   },
   {
     "id": "square-root",
@@ -769,7 +821,8 @@
     "searchKeywords": [
       "square root",
       "radical"
-    ]
+    ],
+    "primaryCategory": "math-symbols"
   },
   {
     "id": "less-equal",
@@ -784,7 +837,8 @@
     ],
     "searchKeywords": [
       "less or equal"
-    ]
+    ],
+    "primaryCategory": "math-symbols"
   },
   {
     "id": "greater-equal",
@@ -799,7 +853,8 @@
     ],
     "searchKeywords": [
       "greater or equal"
-    ]
+    ],
+    "primaryCategory": "math-symbols"
   },
   {
     "id": "dollar",
@@ -817,7 +872,8 @@
       "dollar",
       "currency"
     ],
-    "featured": true
+    "featured": true,
+    "primaryCategory": "currency"
   },
   {
     "id": "euro",
@@ -835,7 +891,8 @@
       "euro",
       "currency"
     ],
-    "featured": true
+    "featured": true,
+    "primaryCategory": "currency"
   },
   {
     "id": "pound",
@@ -852,7 +909,8 @@
       "gbp",
       "pound sterling"
     ],
-    "featured": true
+    "featured": true,
+    "primaryCategory": "currency"
   },
   {
     "id": "yen",
@@ -870,7 +928,8 @@
       "yen",
       "yuan"
     ],
-    "featured": true
+    "featured": true,
+    "primaryCategory": "currency"
   },
   {
     "id": "rupee",
@@ -886,7 +945,8 @@
     "searchKeywords": [
       "inr",
       "rupee"
-    ]
+    ],
+    "primaryCategory": "currency"
   },
   {
     "id": "won",
@@ -902,7 +962,8 @@
     "searchKeywords": [
       "krw",
       "won"
-    ]
+    ],
+    "primaryCategory": "currency"
   },
   {
     "id": "ruble",
@@ -918,7 +979,8 @@
     "searchKeywords": [
       "rub",
       "ruble"
-    ]
+    ],
+    "primaryCategory": "currency"
   },
   {
     "id": "bitcoin",
@@ -935,7 +997,8 @@
     "searchKeywords": [
       "btc",
       "bitcoin"
-    ]
+    ],
+    "primaryCategory": "currency"
   },
   {
     "id": "cent",
@@ -950,7 +1013,8 @@
     ],
     "searchKeywords": [
       "cent"
-    ]
+    ],
+    "primaryCategory": "currency"
   },
   {
     "id": "currency-sign",
@@ -965,7 +1029,8 @@
     ],
     "searchKeywords": [
       "generic currency"
-    ]
+    ],
+    "primaryCategory": "currency"
   },
   {
     "id": "check-mark",
@@ -983,7 +1048,8 @@
       "correct",
       "done"
     ],
-    "featured": true
+    "featured": true,
+    "primaryCategory": "check-marks"
   },
   {
     "id": "heavy-check-mark",
@@ -999,7 +1065,8 @@
     "searchKeywords": [
       "heavy check",
       "done"
-    ]
+    ],
+    "primaryCategory": "check-marks"
   },
   {
     "id": "ballot-check",
@@ -1015,7 +1082,8 @@
     "searchKeywords": [
       "checkbox checked",
       "selected"
-    ]
+    ],
+    "primaryCategory": "check-marks"
   },
   {
     "id": "white-heavy-check",
@@ -1033,7 +1101,8 @@
       "emoji check",
       "done"
     ],
-    "featured": true
+    "featured": true,
+    "primaryCategory": "check-marks"
   },
   {
     "id": "check-box",
@@ -1048,7 +1117,8 @@
     ],
     "searchKeywords": [
       "checked box"
-    ]
+    ],
+    "primaryCategory": "check-marks"
   },
   {
     "id": "check-button",
@@ -1064,7 +1134,8 @@
     "searchKeywords": [
       "x box",
       "not selected"
-    ]
+    ],
+    "primaryCategory": "check-marks"
   },
   {
     "id": "multiplication-x",
@@ -1080,7 +1151,8 @@
     "searchKeywords": [
       "x mark",
       "close"
-    ]
+    ],
+    "primaryCategory": "crosses"
   },
   {
     "id": "heavy-multiplication-x",
@@ -1096,7 +1168,8 @@
     "searchKeywords": [
       "heavy x",
       "cancel"
-    ]
+    ],
+    "primaryCategory": "crosses"
   },
   {
     "id": "ballot-x",
@@ -1112,7 +1185,8 @@
     "searchKeywords": [
       "x",
       "wrong"
-    ]
+    ],
+    "primaryCategory": "crosses"
   },
   {
     "id": "cross-mark",
@@ -1131,7 +1205,8 @@
       "no",
       "error"
     ],
-    "featured": true
+    "featured": true,
+    "primaryCategory": "crosses"
   },
   {
     "id": "cross-mark-button",
@@ -1147,7 +1222,8 @@
     ],
     "searchKeywords": [
       "emoji cross button"
-    ]
+    ],
+    "primaryCategory": "crosses"
   },
   {
     "id": "latin-cross",
@@ -1163,7 +1239,8 @@
     "searchKeywords": [
       "cross shape",
       "dagger cross"
-    ]
+    ],
+    "primaryCategory": "crosses"
   },
   {
     "id": "black-star",
@@ -1180,7 +1257,8 @@
       "star",
       "filled star"
     ],
-    "featured": true
+    "featured": true,
+    "primaryCategory": "stars"
   },
   {
     "id": "white-star",
@@ -1195,7 +1273,8 @@
     ],
     "searchKeywords": [
       "star outline"
-    ]
+    ],
+    "primaryCategory": "stars"
   },
   {
     "id": "glowing-star",
@@ -1211,7 +1290,8 @@
     "searchKeywords": [
       "shining star",
       "favorite"
-    ]
+    ],
+    "primaryCategory": "stars"
   },
   {
     "id": "star-emoji",
@@ -1227,7 +1307,8 @@
     "searchKeywords": [
       "star emoji"
     ],
-    "featured": true
+    "featured": true,
+    "primaryCategory": "stars"
   },
   {
     "id": "sparkles-emoji",
@@ -1244,7 +1325,8 @@
       "sparkles",
       "shine"
     ],
-    "featured": true
+    "featured": true,
+    "primaryCategory": "stars"
   },
   {
     "id": "eight-pointed-star",
@@ -1259,7 +1341,8 @@
     ],
     "searchKeywords": [
       "eight pointed star"
-    ]
+    ],
+    "primaryCategory": "stars"
   },
   {
     "id": "black-circle",
@@ -1275,7 +1358,8 @@
     "searchKeywords": [
       "circle filled"
     ],
-    "featured": true
+    "featured": true,
+    "primaryCategory": "geometric-shapes"
   },
   {
     "id": "white-circle",
@@ -1290,7 +1374,8 @@
     ],
     "searchKeywords": [
       "circle outline"
-    ]
+    ],
+    "primaryCategory": "geometric-shapes"
   },
   {
     "id": "black-square",
@@ -1306,7 +1391,8 @@
     "searchKeywords": [
       "square filled"
     ],
-    "featured": true
+    "featured": true,
+    "primaryCategory": "geometric-shapes"
   },
   {
     "id": "white-square",
@@ -1321,7 +1407,8 @@
     ],
     "searchKeywords": [
       "square outline"
-    ]
+    ],
+    "primaryCategory": "geometric-shapes"
   },
   {
     "id": "black-triangle-up",
@@ -1336,7 +1423,8 @@
     ],
     "searchKeywords": [
       "triangle up"
-    ]
+    ],
+    "primaryCategory": "geometric-shapes"
   },
   {
     "id": "black-triangle-down",
@@ -1351,7 +1439,8 @@
     ],
     "searchKeywords": [
       "triangle down"
-    ]
+    ],
+    "primaryCategory": "geometric-shapes"
   },
   {
     "id": "diamond-black",
@@ -1366,7 +1455,8 @@
     ],
     "searchKeywords": [
       "diamond filled"
-    ]
+    ],
+    "primaryCategory": "geometric-shapes"
   },
   {
     "id": "diamond-white",
@@ -1381,7 +1471,8 @@
     ],
     "searchKeywords": [
       "diamond outline"
-    ]
+    ],
+    "primaryCategory": "geometric-shapes"
   },
   {
     "id": "large-blue-circle",
@@ -1397,7 +1488,8 @@
     ],
     "searchKeywords": [
       "blue circle"
-    ]
+    ],
+    "primaryCategory": "geometric-shapes"
   },
   {
     "id": "large-red-square",
@@ -1413,7 +1505,8 @@
     ],
     "searchKeywords": [
       "red square"
-    ]
+    ],
+    "primaryCategory": "geometric-shapes"
   },
   {
     "id": "box-light-h",
@@ -1431,7 +1524,8 @@
       "box drawing",
       "line art",
       "table"
-    ]
+    ],
+    "primaryCategory": "box-drawing"
   },
   {
     "id": "box-light-v",
@@ -1449,7 +1543,8 @@
       "box drawing",
       "line art",
       "table"
-    ]
+    ],
+    "primaryCategory": "box-drawing"
   },
   {
     "id": "box-light-down-right",
@@ -1467,7 +1562,8 @@
       "box drawing",
       "line art",
       "table"
-    ]
+    ],
+    "primaryCategory": "box-drawing"
   },
   {
     "id": "box-light-down-left",
@@ -1485,7 +1581,8 @@
       "box drawing",
       "line art",
       "table"
-    ]
+    ],
+    "primaryCategory": "box-drawing"
   },
   {
     "id": "box-light-up-right",
@@ -1503,7 +1600,8 @@
       "box drawing",
       "line art",
       "table"
-    ]
+    ],
+    "primaryCategory": "box-drawing"
   },
   {
     "id": "box-light-up-left",
@@ -1521,7 +1619,8 @@
       "box drawing",
       "line art",
       "table"
-    ]
+    ],
+    "primaryCategory": "box-drawing"
   },
   {
     "id": "box-light-vertical-right",
@@ -1539,7 +1638,8 @@
       "box drawing",
       "line art",
       "table"
-    ]
+    ],
+    "primaryCategory": "box-drawing"
   },
   {
     "id": "box-light-vertical-left",
@@ -1557,7 +1657,8 @@
       "box drawing",
       "line art",
       "table"
-    ]
+    ],
+    "primaryCategory": "box-drawing"
   },
   {
     "id": "box-light-down-horizontal",
@@ -1575,7 +1676,8 @@
       "box drawing",
       "line art",
       "table"
-    ]
+    ],
+    "primaryCategory": "box-drawing"
   },
   {
     "id": "box-light-up-horizontal",
@@ -1593,7 +1695,8 @@
       "box drawing",
       "line art",
       "table"
-    ]
+    ],
+    "primaryCategory": "box-drawing"
   },
   {
     "id": "box-light-vertical-horizontal",
@@ -1611,7 +1714,8 @@
       "box drawing",
       "line art",
       "table"
-    ]
+    ],
+    "primaryCategory": "box-drawing"
   },
   {
     "id": "command-key",
@@ -1629,7 +1733,8 @@
       "command key",
       "cmd"
     ],
-    "featured": true
+    "featured": true,
+    "primaryCategory": "technical-computing"
   },
   {
     "id": "option-key",
@@ -1646,7 +1751,8 @@
     "searchKeywords": [
       "option key",
       "alt"
-    ]
+    ],
+    "primaryCategory": "technical-computing"
   },
   {
     "id": "shift-key",
@@ -1661,7 +1767,8 @@
     ],
     "searchKeywords": [
       "shift key"
-    ]
+    ],
+    "primaryCategory": "technical-computing"
   },
   {
     "id": "enter-key",
@@ -1678,7 +1785,8 @@
       "enter key",
       "return"
     ],
-    "featured": true
+    "featured": true,
+    "primaryCategory": "technical-computing"
   },
   {
     "id": "escape-key",
@@ -1694,7 +1802,8 @@
     "searchKeywords": [
       "escape key",
       "esc"
-    ]
+    ],
+    "primaryCategory": "technical-computing"
   },
   {
     "id": "power-symbol",
@@ -1711,7 +1820,8 @@
       "on off",
       "power"
     ],
-    "featured": true
+    "featured": true,
+    "primaryCategory": "technical-computing"
   },
   {
     "id": "eject-symbol",
@@ -1726,7 +1836,8 @@
     ],
     "searchKeywords": [
       "eject"
-    ]
+    ],
+    "primaryCategory": "technical-computing"
   },
   {
     "id": "gear",
@@ -1743,7 +1854,8 @@
       "settings",
       "preferences"
     ],
-    "featured": true
+    "featured": true,
+    "primaryCategory": "technical-computing"
   },
   {
     "id": "keyboard",
@@ -1758,7 +1870,8 @@
     ],
     "searchKeywords": [
       "keyboard device"
-    ]
+    ],
+    "primaryCategory": "technical-computing"
   },
   {
     "id": "desktop-computer",
@@ -1774,7 +1887,8 @@
     "searchKeywords": [
       "pc",
       "computer"
-    ]
+    ],
+    "primaryCategory": "technical-computing"
   },
   {
     "id": "floppy-disk",
@@ -1790,7 +1904,8 @@
     "searchKeywords": [
       "save",
       "diskette"
-    ]
+    ],
+    "primaryCategory": "technical-computing"
   },
   {
     "id": "link-symbol",
@@ -1806,7 +1921,8 @@
     "searchKeywords": [
       "hyperlink",
       "url"
-    ]
+    ],
+    "primaryCategory": "technical-computing"
   },
   {
     "id": "space",
@@ -1824,7 +1940,9 @@
       "blank"
     ],
     "note": "Standard word separator.",
-    "featured": true
+    "featured": true,
+    "primaryCategory": "whitespace-invisible",
+    "contextualNote": "Standard word separator."
   },
   {
     "id": "no-break-space",
@@ -1841,7 +1959,9 @@
       "nbsp",
       "non breaking space"
     ],
-    "note": "Prevents line breaks between words/numbers."
+    "note": "Prevents line breaks between words/numbers.",
+    "primaryCategory": "whitespace-invisible",
+    "contextualNote": "Prevents line breaks between words/numbers."
   },
   {
     "id": "thin-space",
@@ -1858,7 +1978,8 @@
     "searchKeywords": [
       "thin space",
       "narrow space"
-    ]
+    ],
+    "primaryCategory": "whitespace-invisible"
   },
   {
     "id": "hair-space",
@@ -1874,7 +1995,8 @@
     ],
     "searchKeywords": [
       "hair space"
-    ]
+    ],
+    "primaryCategory": "whitespace-invisible"
   },
   {
     "id": "zero-width-space",
@@ -1892,7 +2014,9 @@
       "zwsp",
       "zero width space"
     ],
-    "note": "Invisible separator; can break matching/copy-paste in code and search."
+    "note": "Invisible separator; can break matching/copy-paste in code and search.",
+    "primaryCategory": "whitespace-invisible",
+    "contextualNote": "Invisible separator; can break matching/copy-paste in code and search."
   },
   {
     "id": "zero-width-joiner",
@@ -1910,7 +2034,9 @@
       "zwj",
       "emoji joiner"
     ],
-    "note": "Joins characters into ligatures/emoji sequences. Invisible but semantically important."
+    "note": "Joins characters into ligatures/emoji sequences. Invisible but semantically important.",
+    "primaryCategory": "whitespace-invisible",
+    "contextualNote": "Joins characters into ligatures/emoji sequences. Invisible but semantically important."
   },
   {
     "id": "zero-width-non-joiner",
@@ -1927,7 +2053,9 @@
     "searchKeywords": [
       "zwnj"
     ],
-    "note": "Prevents joining in scripts with contextual forms."
+    "note": "Prevents joining in scripts with contextual forms.",
+    "primaryCategory": "whitespace-invisible",
+    "contextualNote": "Prevents joining in scripts with contextual forms."
   },
   {
     "id": "byte-order-mark",
@@ -1945,7 +2073,9 @@
       "bom",
       "byte order mark"
     ],
-    "note": "Legacy BOM; may cause parsing issues at file starts."
+    "note": "Legacy BOM; may cause parsing issues at file starts.",
+    "primaryCategory": "whitespace-invisible",
+    "contextualNote": "Legacy BOM; may cause parsing issues at file starts."
   },
   {
     "id": "grinning-face",
@@ -1963,7 +2093,8 @@
       "smile",
       "happy"
     ],
-    "featured": true
+    "featured": true,
+    "primaryCategory": "emoji-smileys"
   },
   {
     "id": "beaming-face",
@@ -1980,7 +2111,8 @@
     "searchKeywords": [
       "grin",
       "joy"
-    ]
+    ],
+    "primaryCategory": "emoji-smileys"
   },
   {
     "id": "tears-of-joy",
@@ -1996,7 +2128,8 @@
     "searchKeywords": [
       "lol",
       "laughing"
-    ]
+    ],
+    "primaryCategory": "emoji-smileys"
   },
   {
     "id": "winking-face",
@@ -2011,7 +2144,8 @@
     ],
     "searchKeywords": [
       "wink"
-    ]
+    ],
+    "primaryCategory": "emoji-smileys"
   },
   {
     "id": "smiling-heart-eyes",
@@ -2027,7 +2161,8 @@
     "searchKeywords": [
       "love",
       "heart eyes"
-    ]
+    ],
+    "primaryCategory": "emoji-smileys"
   },
   {
     "id": "thinking-face",
@@ -2043,7 +2178,8 @@
     "searchKeywords": [
       "hmm",
       "thinking"
-    ]
+    ],
+    "primaryCategory": "emoji-smileys"
   },
   {
     "id": "party-popper",
@@ -2060,7 +2196,8 @@
       "party",
       "congrats"
     ],
-    "featured": true
+    "featured": true,
+    "primaryCategory": "emoji-objects"
   },
   {
     "id": "fire",
@@ -2077,7 +2214,8 @@
       "lit",
       "hot"
     ],
-    "featured": true
+    "featured": true,
+    "primaryCategory": "emoji-objects"
   },
   {
     "id": "rocket",
@@ -2094,7 +2232,8 @@
       "launch",
       "space"
     ],
-    "featured": true
+    "featured": true,
+    "primaryCategory": "emoji-travel"
   },
   {
     "id": "thumbs-up",
@@ -2111,7 +2250,8 @@
       "approve",
       "ok"
     ],
-    "featured": true
+    "featured": true,
+    "primaryCategory": "emoji-people"
   },
   {
     "id": "clapping-hands",
@@ -2126,7 +2266,8 @@
     ],
     "searchKeywords": [
       "applause"
-    ]
+    ],
+    "primaryCategory": "emoji-people"
   },
   {
     "id": "folded-hands",
@@ -2142,7 +2283,8 @@
     "searchKeywords": [
       "thanks",
       "please"
-    ]
+    ],
+    "primaryCategory": "emoji-people"
   },
   {
     "id": "red-heart",
@@ -2160,7 +2302,8 @@
       "love",
       "heart"
     ],
-    "featured": true
+    "featured": true,
+    "primaryCategory": "emoji-objects"
   },
   {
     "id": "warning-sign",
@@ -2178,7 +2321,8 @@
       "warning",
       "caution"
     ],
-    "featured": true
+    "featured": true,
+    "primaryCategory": "emoji-objects"
   },
   {
     "id": "check-emoji",
@@ -2194,7 +2338,8 @@
     "searchKeywords": [
       "check",
       "done"
-    ]
+    ],
+    "primaryCategory": "emoji-objects"
   },
   {
     "id": "cross-emoji",
@@ -2210,7 +2355,8 @@
     "searchKeywords": [
       "x",
       "error"
-    ]
+    ],
+    "primaryCategory": "emoji-objects"
   },
   {
     "id": "dog-face",
@@ -2226,7 +2372,8 @@
     "searchKeywords": [
       "dog",
       "pet"
-    ]
+    ],
+    "primaryCategory": "emoji-nature"
   },
   {
     "id": "cat-face",
@@ -2242,7 +2389,8 @@
     "searchKeywords": [
       "cat",
       "pet"
-    ]
+    ],
+    "primaryCategory": "emoji-nature"
   },
   {
     "id": "pizza",
@@ -2258,7 +2406,8 @@
     "searchKeywords": [
       "pizza",
       "slice"
-    ]
+    ],
+    "primaryCategory": "emoji-food"
   },
   {
     "id": "coffee",
@@ -2274,7 +2423,8 @@
     "searchKeywords": [
       "coffee",
       "tea"
-    ]
+    ],
+    "primaryCategory": "emoji-food"
   },
   {
     "id": "flag-us",
@@ -2292,7 +2442,8 @@
     "searchKeywords": [
       "flag",
       "united states"
-    ]
+    ],
+    "primaryCategory": "flags"
   },
   {
     "id": "flag-gb",
@@ -2310,7 +2461,8 @@
     "searchKeywords": [
       "flag",
       "united kingdom"
-    ]
+    ],
+    "primaryCategory": "flags"
   },
   {
     "id": "flag-ca",
@@ -2328,7 +2480,8 @@
     "searchKeywords": [
       "flag",
       "canada"
-    ]
+    ],
+    "primaryCategory": "flags"
   },
   {
     "id": "flag-au",
@@ -2346,7 +2499,8 @@
     "searchKeywords": [
       "flag",
       "australia"
-    ]
+    ],
+    "primaryCategory": "flags"
   },
   {
     "id": "flag-in",
@@ -2364,7 +2518,8 @@
     "searchKeywords": [
       "flag",
       "india"
-    ]
+    ],
+    "primaryCategory": "flags"
   },
   {
     "id": "flag-jp",
@@ -2382,7 +2537,8 @@
     "searchKeywords": [
       "flag",
       "japan"
-    ]
+    ],
+    "primaryCategory": "flags"
   },
   {
     "id": "flag-br",
@@ -2400,7 +2556,8 @@
     "searchKeywords": [
       "flag",
       "brazil"
-    ]
+    ],
+    "primaryCategory": "flags"
   },
   {
     "id": "flag-de",
@@ -2418,7 +2575,8 @@
     "searchKeywords": [
       "flag",
       "germany"
-    ]
+    ],
+    "primaryCategory": "flags"
   },
   {
     "id": "flag-fr",
@@ -2436,7 +2594,8 @@
     "searchKeywords": [
       "flag",
       "france"
-    ]
+    ],
+    "primaryCategory": "flags"
   },
   {
     "id": "flag-eu",
@@ -2454,7 +2613,8 @@
     "searchKeywords": [
       "flag",
       "european union"
-    ]
+    ],
+    "primaryCategory": "flags"
   },
   {
     "id": "peace-symbol",
@@ -2476,7 +2636,9 @@
     "note": "Peace and anti-war symbol used across movements.",
     "flags": {
       "sensitive": true
-    }
+    },
+    "primaryCategory": "political-ideological",
+    "contextualNote": "Peace and anti-war symbol used across movements."
   },
   {
     "id": "anarchy-symbol",
@@ -2498,7 +2660,12 @@
     "note": "Commonly used as an anarchy symbol in political contexts.",
     "flags": {
       "sensitive": true
-    }
+    },
+    "primaryCategory": "political-ideological",
+    "contextualNote": "Commonly used as an anarchy symbol in political contexts.",
+    "curatedSets": [
+      "author-signal-pack"
+    ]
   },
   {
     "id": "hammer-and-sickle",
@@ -2520,7 +2687,9 @@
     "note": "Associated with communist movements and state symbolism.",
     "flags": {
       "sensitive": true
-    }
+    },
+    "primaryCategory": "political-ideological",
+    "contextualNote": "Associated with communist movements and state symbolism."
   },
   {
     "id": "fascist-symbol",
@@ -2542,7 +2711,9 @@
     "note": "Historic religious symbol in Asia; in Western political contexts can be interpreted as extremist imagery.",
     "flags": {
       "sensitive": true
-    }
+    },
+    "primaryCategory": "political-ideological",
+    "contextualNote": "Historic religious symbol in Asia; in Western political contexts can be interpreted as extremist imagery."
   },
   {
     "id": "black-flag",
@@ -2564,7 +2735,9 @@
     "note": "Used in varied contexts including protest, mourning, and anarchist symbolism.",
     "flags": {
       "sensitive": true
-    }
+    },
+    "primaryCategory": "political-ideological",
+    "contextualNote": "Used in varied contexts including protest, mourning, and anarchist symbolism."
   },
   {
     "id": "rainbow-flag",
@@ -2590,7 +2763,9 @@
     "note": "Widely used as LGBTQ+ pride symbol and in civil rights contexts.",
     "flags": {
       "sensitive": true
-    }
+    },
+    "primaryCategory": "political-ideological",
+    "contextualNote": "Widely used as LGBTQ+ pride symbol and in civil rights contexts."
   },
   {
     "id": "transgender-flag",
@@ -2616,7 +2791,9 @@
     "note": "Widely used in transgender rights and identity contexts.",
     "flags": {
       "sensitive": true
-    }
+    },
+    "primaryCategory": "political-ideological",
+    "contextualNote": "Widely used in transgender rights and identity contexts."
   },
   {
     "id": "raised-fist",
@@ -2638,7 +2815,9 @@
     "note": "General solidarity/protest gesture with context-dependent political meaning.",
     "flags": {
       "sensitive": true
-    }
+    },
+    "primaryCategory": "political-ideological",
+    "contextualNote": "General solidarity/protest gesture with context-dependent political meaning."
   },
   {
     "id": "latin-cross-symbol",
@@ -2660,7 +2839,9 @@
     "note": "Christian symbol used in liturgy and identity.",
     "flags": {
       "sensitive": true
-    }
+    },
+    "primaryCategory": "religious-spiritual",
+    "contextualNote": "Christian symbol used in liturgy and identity."
   },
   {
     "id": "star-and-crescent",
@@ -2682,7 +2863,9 @@
     "note": "Commonly associated with Islam in modern usage.",
     "flags": {
       "sensitive": true
-    }
+    },
+    "primaryCategory": "religious-spiritual",
+    "contextualNote": "Commonly associated with Islam in modern usage."
   },
   {
     "id": "om-symbol",
@@ -2704,7 +2887,9 @@
     "note": "Sacred symbol in several Dharmic traditions including Hinduism.",
     "flags": {
       "sensitive": true
-    }
+    },
+    "primaryCategory": "religious-spiritual",
+    "contextualNote": "Sacred symbol in several Dharmic traditions including Hinduism."
   },
   {
     "id": "dharma-wheel",
@@ -2726,7 +2911,9 @@
     "note": "Buddhist and Dharmic symbol of teachings/path.",
     "flags": {
       "sensitive": true
-    }
+    },
+    "primaryCategory": "religious-spiritual",
+    "contextualNote": "Buddhist and Dharmic symbol of teachings/path."
   },
   {
     "id": "star-of-david",
@@ -2748,7 +2935,9 @@
     "note": "Jewish religious/cultural symbol.",
     "flags": {
       "sensitive": true
-    }
+    },
+    "primaryCategory": "religious-spiritual",
+    "contextualNote": "Jewish religious/cultural symbol."
   },
   {
     "id": "khanda",
@@ -2770,7 +2959,9 @@
     "note": "Primary Sikh emblem.",
     "flags": {
       "sensitive": true
-    }
+    },
+    "primaryCategory": "religious-spiritual",
+    "contextualNote": "Primary Sikh emblem."
   },
   {
     "id": "yin-yang",
@@ -2792,7 +2983,9 @@
     "note": "Taoist philosophical and spiritual symbol.",
     "flags": {
       "sensitive": true
-    }
+    },
+    "primaryCategory": "religious-spiritual",
+    "contextualNote": "Taoist philosophical and spiritual symbol."
   },
   {
     "id": "menorah",
@@ -2814,6 +3007,1027 @@
     "note": "Jewish candelabrum symbol, often used around Hanukkah.",
     "flags": {
       "sensitive": true
-    }
+    },
+    "primaryCategory": "religious-spiritual",
+    "contextualNote": "Jewish candelabrum symbol, often used around Hanukkah."
+  },
+  {
+    "id": "left-parenthesis",
+    "char": "(",
+    "name": "Left Parenthesis",
+    "codepoints": [
+      "U+0028"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "brackets",
+      "grouping"
+    ],
+    "searchKeywords": [
+      "parenthesis",
+      "open paren",
+      "grouping"
+    ],
+    "curatedSets": [
+      "author-signal-pack"
+    ]
+  },
+  {
+    "id": "right-parenthesis",
+    "char": ")",
+    "name": "Right Parenthesis",
+    "codepoints": [
+      "U+0029"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "brackets",
+      "grouping"
+    ],
+    "searchKeywords": [
+      "parenthesis",
+      "close paren",
+      "grouping"
+    ],
+    "curatedSets": [
+      "author-signal-pack"
+    ]
+  },
+  {
+    "id": "tilde",
+    "char": "~",
+    "name": "Tilde",
+    "codepoints": [
+      "U+007E"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "ascii",
+      "operator"
+    ],
+    "searchKeywords": [
+      "tilde",
+      "approximate",
+      "wave dash"
+    ],
+    "curatedSets": [
+      "author-signal-pack"
+    ]
+  },
+  {
+    "id": "n-tilde-uppercase",
+    "char": "Ñ",
+    "name": "Latin Capital Letter N with Tilde",
+    "codepoints": [
+      "U+00D1"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "latin",
+      "letter"
+    ],
+    "searchKeywords": [
+      "enye",
+      "n tilde",
+      "spanish n"
+    ],
+    "curatedSets": [
+      "author-signal-pack"
+    ]
+  },
+  {
+    "id": "greek-capital-delta",
+    "char": "Δ",
+    "name": "Greek Capital Letter Delta",
+    "codepoints": [
+      "U+0394"
+    ],
+    "category": "math-symbols",
+    "primaryCategory": "math-symbols",
+    "tags": [
+      "greek",
+      "math"
+    ],
+    "searchKeywords": [
+      "delta",
+      "change",
+      "triangle"
+    ],
+    "curatedSets": [
+      "author-signal-pack"
+    ]
+  },
+  {
+    "id": "copyleft-symbol",
+    "char": "🄯",
+    "name": "Copyleft Symbol",
+    "codepoints": [
+      "U+1F12F"
+    ],
+    "category": "technical-computing",
+    "primaryCategory": "technical-computing",
+    "tags": [
+      "licensing",
+      "open-culture"
+    ],
+    "searchKeywords": [
+      "copyleft",
+      "copyright alternative",
+      "open source"
+    ],
+    "curatedSets": [
+      "author-signal-pack"
+    ]
+  },
+  {
+    "id": "rune-dagaz",
+    "char": "ᛞ",
+    "name": "Runic Letter Dagaz",
+    "codepoints": [
+      "U+16DE"
+    ],
+    "category": "religious-spiritual",
+    "primaryCategory": "religious-spiritual",
+    "tags": [
+      "runic",
+      "historical-script"
+    ],
+    "searchKeywords": [
+      "dagaz",
+      "rune",
+      "elder futhark"
+    ],
+    "curatedSets": [
+      "author-signal-pack"
+    ]
+  },
+  {
+    "id": "rune-wunjo",
+    "char": "ᚹ",
+    "name": "Runic Letter Wunjo",
+    "codepoints": [
+      "U+16B9"
+    ],
+    "category": "religious-spiritual",
+    "primaryCategory": "religious-spiritual",
+    "tags": [
+      "runic",
+      "historical-script"
+    ],
+    "searchKeywords": [
+      "wunjo",
+      "rune",
+      "elder futhark"
+    ],
+    "curatedSets": [
+      "author-signal-pack"
+    ]
+  },
+  {
+    "id": "rune-eihwaz",
+    "char": "ᛇ",
+    "name": "Runic Letter Eihwaz",
+    "codepoints": [
+      "U+16C7"
+    ],
+    "category": "religious-spiritual",
+    "primaryCategory": "religious-spiritual",
+    "tags": [
+      "runic",
+      "historical-script"
+    ],
+    "searchKeywords": [
+      "eihwaz",
+      "iwaz",
+      "rune",
+      "elder futhark"
+    ],
+    "curatedSets": [
+      "author-signal-pack"
+    ]
+  },
+  {
+    "id": "low-battery",
+    "char": "🪫",
+    "name": "Low Battery",
+    "codepoints": [
+      "U+1FAAB"
+    ],
+    "category": "emoji-objects",
+    "primaryCategory": "emoji-objects",
+    "tags": [
+      "battery",
+      "power"
+    ],
+    "searchKeywords": [
+      "battery low",
+      "power warning"
+    ]
+  },
+  {
+    "id": "studio-microphone",
+    "char": "🎙️",
+    "name": "Studio Microphone",
+    "codepoints": [
+      "U+1F399",
+      "U+FE0F"
+    ],
+    "category": "emoji-objects",
+    "primaryCategory": "emoji-objects",
+    "tags": [
+      "audio",
+      "recording"
+    ],
+    "searchKeywords": [
+      "microphone",
+      "podcast",
+      "studio"
+    ],
+    "curatedSets": [
+      "author-signal-pack"
+    ]
+  },
+  {
+    "id": "headphone",
+    "char": "🎧",
+    "name": "Headphone",
+    "codepoints": [
+      "U+1F3A7"
+    ],
+    "category": "emoji-objects",
+    "primaryCategory": "emoji-objects",
+    "tags": [
+      "audio",
+      "music"
+    ],
+    "searchKeywords": [
+      "headphones",
+      "monitoring"
+    ]
+  },
+  {
+    "id": "radio",
+    "char": "📻",
+    "name": "Radio",
+    "codepoints": [
+      "U+1F4FB"
+    ],
+    "category": "emoji-objects",
+    "primaryCategory": "emoji-objects",
+    "tags": [
+      "audio",
+      "broadcast"
+    ],
+    "searchKeywords": [
+      "radio",
+      "broadcast",
+      "fm"
+    ],
+    "curatedSets": [
+      "author-signal-pack"
+    ]
+  },
+  {
+    "id": "antenna-bars",
+    "char": "📶",
+    "name": "Antenna Bars",
+    "codepoints": [
+      "U+1F4F6"
+    ],
+    "category": "emoji-objects",
+    "primaryCategory": "emoji-objects",
+    "tags": [
+      "signal",
+      "network"
+    ],
+    "searchKeywords": [
+      "signal",
+      "reception",
+      "wifi bars"
+    ],
+    "curatedSets": [
+      "author-signal-pack"
+    ]
+  },
+  {
+    "id": "satellite-antenna",
+    "char": "📡",
+    "name": "Satellite Antenna",
+    "codepoints": [
+      "U+1F4E1"
+    ],
+    "category": "emoji-objects",
+    "primaryCategory": "emoji-objects",
+    "tags": [
+      "signal",
+      "broadcast"
+    ],
+    "searchKeywords": [
+      "satellite",
+      "uplink",
+      "dish"
+    ],
+    "curatedSets": [
+      "author-signal-pack"
+    ]
+  },
+  {
+    "id": "control-knobs",
+    "char": "🎛️",
+    "name": "Control Knobs",
+    "codepoints": [
+      "U+1F39B",
+      "U+FE0F"
+    ],
+    "category": "emoji-objects",
+    "primaryCategory": "emoji-objects",
+    "tags": [
+      "audio",
+      "synth"
+    ],
+    "searchKeywords": [
+      "mixing",
+      "synth",
+      "knobs"
+    ],
+    "curatedSets": [
+      "author-signal-pack"
+    ]
+  },
+  {
+    "id": "musical-keyboard",
+    "char": "🎹",
+    "name": "Musical Keyboard",
+    "codepoints": [
+      "U+1F3B9"
+    ],
+    "category": "emoji-objects",
+    "primaryCategory": "emoji-objects",
+    "tags": [
+      "music",
+      "instrument"
+    ],
+    "searchKeywords": [
+      "keyboard",
+      "piano",
+      "synth"
+    ],
+    "curatedSets": [
+      "author-signal-pack"
+    ]
+  },
+  {
+    "id": "level-slider",
+    "char": "🎚️",
+    "name": "Level Slider",
+    "codepoints": [
+      "U+1F39A",
+      "U+FE0F"
+    ],
+    "category": "emoji-objects",
+    "primaryCategory": "emoji-objects",
+    "tags": [
+      "audio",
+      "mixing"
+    ],
+    "searchKeywords": [
+      "slider",
+      "fader",
+      "level"
+    ]
+  },
+  {
+    "id": "play-button",
+    "char": "▶️",
+    "name": "Play Button",
+    "codepoints": [
+      "U+25B6",
+      "U+FE0F"
+    ],
+    "category": "emoji-objects",
+    "primaryCategory": "emoji-objects",
+    "tags": [
+      "media",
+      "control"
+    ],
+    "searchKeywords": [
+      "play",
+      "start",
+      "media control"
+    ],
+    "curatedSets": [
+      "author-signal-pack"
+    ]
+  },
+  {
+    "id": "pause-button",
+    "char": "⏸️",
+    "name": "Pause Button",
+    "codepoints": [
+      "U+23F8",
+      "U+FE0F"
+    ],
+    "category": "emoji-objects",
+    "primaryCategory": "emoji-objects",
+    "tags": [
+      "media",
+      "control"
+    ],
+    "searchKeywords": [
+      "pause",
+      "hold",
+      "media control"
+    ],
+    "curatedSets": [
+      "author-signal-pack"
+    ]
+  },
+  {
+    "id": "stop-button",
+    "char": "⏹️",
+    "name": "Stop Button",
+    "codepoints": [
+      "U+23F9",
+      "U+FE0F"
+    ],
+    "category": "emoji-objects",
+    "primaryCategory": "emoji-objects",
+    "tags": [
+      "media",
+      "control"
+    ],
+    "searchKeywords": [
+      "stop",
+      "end",
+      "media control"
+    ]
+  },
+  {
+    "id": "record-button",
+    "char": "⏺️",
+    "name": "Record Button",
+    "codepoints": [
+      "U+23FA",
+      "U+FE0F"
+    ],
+    "category": "emoji-objects",
+    "primaryCategory": "emoji-objects",
+    "tags": [
+      "media",
+      "control"
+    ],
+    "searchKeywords": [
+      "record",
+      "rec",
+      "media control"
+    ],
+    "curatedSets": [
+      "author-signal-pack"
+    ]
+  },
+  {
+    "id": "eject-button",
+    "char": "⏏️",
+    "name": "Eject Button",
+    "codepoints": [
+      "U+23CF",
+      "U+FE0F"
+    ],
+    "category": "emoji-objects",
+    "primaryCategory": "emoji-objects",
+    "tags": [
+      "media",
+      "control"
+    ],
+    "searchKeywords": [
+      "eject",
+      "media control"
+    ]
+  },
+  {
+    "id": "shuffle-tracks-button",
+    "char": "🔀",
+    "name": "Shuffle Tracks Button",
+    "codepoints": [
+      "U+1F500"
+    ],
+    "category": "emoji-objects",
+    "primaryCategory": "emoji-objects",
+    "tags": [
+      "media",
+      "control"
+    ],
+    "searchKeywords": [
+      "shuffle",
+      "random",
+      "playlist"
+    ]
+  },
+  {
+    "id": "repeat-button",
+    "char": "🔁",
+    "name": "Repeat Button",
+    "codepoints": [
+      "U+1F501"
+    ],
+    "category": "emoji-objects",
+    "primaryCategory": "emoji-objects",
+    "tags": [
+      "media",
+      "control"
+    ],
+    "searchKeywords": [
+      "repeat",
+      "loop"
+    ]
+  },
+  {
+    "id": "black-right-pointing-triangle",
+    "char": "▶",
+    "name": "Black Right-Pointing Triangle",
+    "codepoints": [
+      "U+25B6"
+    ],
+    "category": "technical-computing",
+    "primaryCategory": "technical-computing",
+    "tags": [
+      "ui",
+      "direction"
+    ],
+    "searchKeywords": [
+      "triangle",
+      "play icon"
+    ]
+  },
+  {
+    "id": "white-right-pointing-triangle",
+    "char": "▷",
+    "name": "White Right-Pointing Triangle",
+    "codepoints": [
+      "U+25B7"
+    ],
+    "category": "technical-computing",
+    "primaryCategory": "technical-computing",
+    "tags": [
+      "ui",
+      "direction"
+    ],
+    "searchKeywords": [
+      "triangle outline",
+      "play icon"
+    ]
+  },
+  {
+    "id": "blank-symbol",
+    "char": "␢",
+    "name": "Blank Symbol",
+    "codepoints": [
+      "U+2422"
+    ],
+    "category": "whitespace-invisible",
+    "primaryCategory": "whitespace-invisible",
+    "tags": [
+      "control-pictures",
+      "space"
+    ],
+    "searchKeywords": [
+      "visible space",
+      "blank symbol"
+    ]
+  },
+  {
+    "id": "open-box",
+    "char": "␣",
+    "name": "Open Box",
+    "codepoints": [
+      "U+2423"
+    ],
+    "category": "whitespace-invisible",
+    "primaryCategory": "whitespace-invisible",
+    "tags": [
+      "control-pictures",
+      "space"
+    ],
+    "searchKeywords": [
+      "open box",
+      "space symbol"
+    ]
+  },
+  {
+    "id": "narrow-no-break-space",
+    "char": " ",
+    "name": "Narrow No-Break Space",
+    "codepoints": [
+      "U+202F"
+    ],
+    "category": "whitespace-invisible",
+    "primaryCategory": "whitespace-invisible",
+    "tags": [
+      "space",
+      "layout"
+    ],
+    "searchKeywords": [
+      "nnbsp",
+      "thin nbsp"
+    ]
+  },
+  {
+    "id": "word-joiner",
+    "char": "⁠",
+    "name": "Word Joiner",
+    "codepoints": [
+      "U+2060"
+    ],
+    "category": "whitespace-invisible",
+    "primaryCategory": "whitespace-invisible",
+    "tags": [
+      "invisible",
+      "layout"
+    ],
+    "searchKeywords": [
+      "word joiner",
+      "no-break"
+    ]
+  },
+  {
+    "id": "north-east-arrow",
+    "char": "↗",
+    "name": "North East Arrow",
+    "codepoints": [
+      "U+2197"
+    ],
+    "category": "arrows",
+    "primaryCategory": "arrows",
+    "tags": [
+      "directional"
+    ],
+    "searchKeywords": [
+      "northeast arrow",
+      "diagonal arrow"
+    ]
+  },
+  {
+    "id": "south-west-arrow",
+    "char": "↙",
+    "name": "South West Arrow",
+    "codepoints": [
+      "U+2199"
+    ],
+    "category": "arrows",
+    "primaryCategory": "arrows",
+    "tags": [
+      "directional"
+    ],
+    "searchKeywords": [
+      "southwest arrow",
+      "diagonal arrow"
+    ]
+  },
+  {
+    "id": "approximately-equal",
+    "char": "≈",
+    "name": "Almost Equal To",
+    "codepoints": [
+      "U+2248"
+    ],
+    "category": "math-symbols",
+    "primaryCategory": "math-symbols",
+    "tags": [
+      "comparison"
+    ],
+    "searchKeywords": [
+      "approximately",
+      "approx equal"
+    ]
+  },
+  {
+    "id": "greater-or-equal",
+    "char": "≥",
+    "name": "Greater-Than or Equal To",
+    "codepoints": [
+      "U+2265"
+    ],
+    "category": "math-symbols",
+    "primaryCategory": "math-symbols",
+    "tags": [
+      "comparison"
+    ],
+    "searchKeywords": [
+      "greater equal",
+      "geq"
+    ]
+  },
+  {
+    "id": "less-or-equal",
+    "char": "≤",
+    "name": "Less-Than or Equal To",
+    "codepoints": [
+      "U+2264"
+    ],
+    "category": "math-symbols",
+    "primaryCategory": "math-symbols",
+    "tags": [
+      "comparison"
+    ],
+    "searchKeywords": [
+      "less equal",
+      "leq"
+    ]
+  },
+  {
+    "id": "therefore",
+    "char": "∴",
+    "name": "Therefore",
+    "codepoints": [
+      "U+2234"
+    ],
+    "category": "math-symbols",
+    "primaryCategory": "math-symbols",
+    "tags": [
+      "logic"
+    ],
+    "searchKeywords": [
+      "therefore",
+      "proof symbol"
+    ]
+  },
+  {
+    "id": "because",
+    "char": "∵",
+    "name": "Because",
+    "codepoints": [
+      "U+2235"
+    ],
+    "category": "math-symbols",
+    "primaryCategory": "math-symbols",
+    "tags": [
+      "logic"
+    ],
+    "searchKeywords": [
+      "because",
+      "proof symbol"
+    ]
+  },
+  {
+    "id": "bitcoin-sign",
+    "char": "₿",
+    "name": "Bitcoin Sign",
+    "codepoints": [
+      "U+20BF"
+    ],
+    "category": "currency",
+    "primaryCategory": "currency",
+    "tags": [
+      "digital-currency"
+    ],
+    "searchKeywords": [
+      "bitcoin",
+      "btc"
+    ]
+  },
+  {
+    "id": "indian-rupee-sign",
+    "char": "₹",
+    "name": "Indian Rupee Sign",
+    "codepoints": [
+      "U+20B9"
+    ],
+    "category": "currency",
+    "primaryCategory": "currency",
+    "tags": [
+      "fiat-currency"
+    ],
+    "searchKeywords": [
+      "rupee",
+      "inr"
+    ]
+  },
+  {
+    "id": "ruble-sign",
+    "char": "₽",
+    "name": "Ruble Sign",
+    "codepoints": [
+      "U+20BD"
+    ],
+    "category": "currency",
+    "primaryCategory": "currency",
+    "tags": [
+      "fiat-currency"
+    ],
+    "searchKeywords": [
+      "ruble",
+      "rub"
+    ]
+  },
+  {
+    "id": "won-sign",
+    "char": "₩",
+    "name": "Won Sign",
+    "codepoints": [
+      "U+20A9"
+    ],
+    "category": "currency",
+    "primaryCategory": "currency",
+    "tags": [
+      "fiat-currency"
+    ],
+    "searchKeywords": [
+      "won",
+      "krw"
+    ]
+  },
+  {
+    "id": "maltese-cross",
+    "char": "✠",
+    "name": "Maltese Cross",
+    "codepoints": [
+      "U+2720"
+    ],
+    "category": "crosses",
+    "primaryCategory": "crosses",
+    "tags": [
+      "ornamental",
+      "historic"
+    ],
+    "searchKeywords": [
+      "maltese",
+      "cross symbol"
+    ]
+  },
+  {
+    "id": "white-medium-star",
+    "char": "⭐",
+    "name": "White Medium Star",
+    "codepoints": [
+      "U+2B50"
+    ],
+    "category": "stars",
+    "primaryCategory": "stars",
+    "tags": [
+      "rating"
+    ],
+    "searchKeywords": [
+      "star",
+      "favorite"
+    ]
+  },
+  {
+    "id": "black-diamond",
+    "char": "◆",
+    "name": "Black Diamond",
+    "codepoints": [
+      "U+25C6"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "shape"
+    ],
+    "searchKeywords": [
+      "diamond",
+      "rhombus"
+    ]
+  },
+  {
+    "id": "white-diamond",
+    "char": "◇",
+    "name": "White Diamond",
+    "codepoints": [
+      "U+25C7"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "shape"
+    ],
+    "searchKeywords": [
+      "diamond outline"
+    ]
+  },
+  {
+    "id": "black-parallelogram",
+    "char": "▰",
+    "name": "Black Parallelogram",
+    "codepoints": [
+      "U+25B0"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "shape"
+    ],
+    "searchKeywords": [
+      "parallelogram"
+    ]
+  },
+  {
+    "id": "box-draw-double-horizontal",
+    "char": "═",
+    "name": "Box Drawings Double Horizontal",
+    "codepoints": [
+      "U+2550"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "double-line"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "double horizontal"
+    ]
+  },
+  {
+    "id": "box-draw-double-vertical",
+    "char": "║",
+    "name": "Box Drawings Double Vertical",
+    "codepoints": [
+      "U+2551"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "double-line"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "double vertical"
+    ]
+  },
+  {
+    "id": "box-draw-double-down-right",
+    "char": "╔",
+    "name": "Box Drawings Double Down and Right",
+    "codepoints": [
+      "U+2554"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "double-line",
+      "corner"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "top left corner"
+    ]
+  },
+  {
+    "id": "box-draw-double-down-left",
+    "char": "╗",
+    "name": "Box Drawings Double Down and Left",
+    "codepoints": [
+      "U+2557"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "double-line",
+      "corner"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "top right corner"
+    ]
+  },
+  {
+    "id": "box-draw-double-up-right",
+    "char": "╚",
+    "name": "Box Drawings Double Up and Right",
+    "codepoints": [
+      "U+255A"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "double-line",
+      "corner"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "bottom left corner"
+    ]
+  },
+  {
+    "id": "box-draw-double-up-left",
+    "char": "╝",
+    "name": "Box Drawings Double Up and Left",
+    "codepoints": [
+      "U+255D"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "double-line",
+      "corner"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "bottom right corner"
+    ]
   }
 ]

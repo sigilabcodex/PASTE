@@ -6,7 +6,7 @@ interface DetailDrawerProps {
   copiedId?: string;
 }
 
-const categoryLabel: Record<SymbolEntry['category'], string> = {
+const categoryLabel: Record<NonNullable<SymbolEntry['primaryCategory']>, string> = {
   punctuation: 'Punctuation',
   'quotation-marks': 'Quotation Marks',
   arrows: 'Arrows',
@@ -36,6 +36,8 @@ export function DetailDrawer({ selected, copiedId }: DetailDrawerProps) {
     return copiedId === selected.id ? 'Copied ✓' : 'Tap or click a card to copy.';
   }, [selected, copiedId]);
 
+  const activeCategory = selected ? selected.primaryCategory ?? selected.category : undefined;
+
   return (
     <aside className="detail-panel" aria-live="polite">
       <details className="detail-panel__mobile" open>
@@ -50,17 +52,17 @@ export function DetailDrawer({ selected, copiedId }: DetailDrawerProps) {
               <dt>Codepoint(s)</dt>
               <dd>{selected.codepoints.join(' ')}</dd>
               <dt>Category</dt>
-              <dd>{categoryLabel[selected.category]}</dd>
+              <dd>{activeCategory ? categoryLabel[activeCategory] : 'Uncategorized'}</dd>
               {!!selected.tags.length && (
                 <>
                   <dt>Tags</dt>
                   <dd>{selected.tags.join(', ')}</dd>
                 </>
               )}
-              {selected.note ? (
+              {selected.contextualNote || selected.note ? (
                 <>
                   <dt>Note</dt>
-                  <dd>{selected.note}</dd>
+                  <dd>{selected.contextualNote ?? selected.note}</dd>
                 </>
               ) : null}
             </dl>

@@ -30,9 +30,12 @@ export interface SymbolEntry {
   char: string;
   name: string;
   codepoints: string[];
-  category: SymbolCategory;
+  primaryCategory: SymbolCategory;
+  category?: SymbolCategory;
   tags: string[];
   searchKeywords: string[];
+  curatedSets?: string[];
+  contextualNote?: string;
   note?: string;
   featured?: boolean;
   flags?: SymbolFlags;
