@@ -5,6 +5,7 @@
     "name": "Grinning Face",
     "keywords": ["happy", "smile", "face", "joy"],
     "category": "emoji-smileys",
+    "tags": ["emotion", "positive"],
     "unicode": "U+1F600",
     "version": "6.1",
     "description": "A classic smiling face emoji."
@@ -15,6 +16,7 @@
     "name": "Sparkles",
     "keywords": ["magic", "shine", "stars"],
     "category": "emoji-smileys",
+    "tags": ["decorative"],
     "unicode": "U+2728"
   },
   {
@@ -23,6 +25,7 @@
     "name": "Rocket",
     "keywords": ["launch", "ship", "space", "fast"],
     "category": "emoji-travel",
+    "tags": ["transport"],
     "unicode": "U+1F680"
   },
   {
@@ -31,6 +34,7 @@
     "name": "Waving Hand",
     "keywords": ["hello", "hi", "greeting"],
     "category": "emoji-gestures",
+    "tags": ["greeting"],
     "unicode": "U+1F44B"
   },
   {
@@ -39,6 +43,7 @@
     "name": "Thumbs Up",
     "keywords": ["approve", "ok", "like"],
     "category": "emoji-gestures",
+    "tags": ["reaction"],
     "unicode": "U+1F44D"
   },
   {
@@ -47,6 +52,7 @@
     "name": "Dog Face",
     "keywords": ["pet", "animal", "puppy"],
     "category": "emoji-animals",
+    "tags": ["mammal"],
     "unicode": "U+1F436"
   },
   {
@@ -55,6 +61,7 @@
     "name": "Cat Face",
     "keywords": ["pet", "animal", "kitty"],
     "category": "emoji-animals",
+    "tags": ["mammal"],
     "unicode": "U+1F431"
   },
   {
@@ -63,6 +70,7 @@
     "name": "Pizza",
     "keywords": ["food", "slice", "cheese"],
     "category": "emoji-food",
+    "tags": ["meal"],
     "unicode": "U+1F355"
   },
   {
@@ -71,6 +79,7 @@
     "name": "Hot Beverage",
     "keywords": ["coffee", "tea", "drink"],
     "category": "emoji-food",
+    "tags": ["drink"],
     "unicode": "U+2615"
   },
   {
@@ -78,7 +87,8 @@
     "char": "✓",
     "name": "Check Mark",
     "keywords": ["done", "confirm", "tick"],
-    "category": "symbols-punctuation",
+    "category": "misc",
+    "tags": ["mark"],
     "unicode": "U+2713"
   },
   {
@@ -86,7 +96,8 @@
     "char": "✔",
     "name": "Heavy Check Mark",
     "keywords": ["done", "validation", "check"],
-    "category": "symbols-punctuation",
+    "category": "misc",
+    "tags": ["mark"],
     "unicode": "U+2714"
   },
   {
@@ -95,6 +106,7 @@
     "name": "Multiplication X",
     "keywords": ["close", "cancel", "times"],
     "category": "symbols-math",
+    "tags": ["operator"],
     "unicode": "U+2715"
   },
   {
@@ -103,6 +115,7 @@
     "name": "Infinity",
     "keywords": ["math", "endless", "forever"],
     "category": "symbols-math",
+    "tags": ["operator"],
     "unicode": "U+221E"
   },
   {
@@ -111,6 +124,7 @@
     "name": "Integral",
     "keywords": ["math", "calculus"],
     "category": "symbols-math",
+    "tags": ["operator"],
     "unicode": "U+222B"
   },
   {
@@ -119,6 +133,7 @@
     "name": "N-Ary Summation",
     "keywords": ["math", "sum", "sigma"],
     "category": "symbols-math",
+    "tags": ["operator"],
     "unicode": "U+2211"
   },
   {
@@ -127,6 +142,7 @@
     "name": "Euro Sign",
     "keywords": ["money", "currency", "eur"],
     "category": "symbols-currency",
+    "tags": ["finance"],
     "unicode": "U+20AC"
   },
   {
@@ -135,6 +151,7 @@
     "name": "Yen Sign",
     "keywords": ["money", "currency", "jpy"],
     "category": "symbols-currency",
+    "tags": ["finance"],
     "unicode": "U+00A5"
   },
   {
@@ -143,6 +160,7 @@
     "name": "Bitcoin Sign",
     "keywords": ["money", "currency", "crypto"],
     "category": "symbols-currency",
+    "tags": ["finance", "digital"],
     "unicode": "U+20BF"
   },
   {
@@ -151,6 +169,7 @@
     "name": "Leftwards Arrow",
     "keywords": ["direction", "back"],
     "category": "symbols-arrows",
+    "tags": ["navigation"],
     "unicode": "U+2190"
   },
   {
@@ -159,6 +178,7 @@
     "name": "Rightwards Arrow",
     "keywords": ["direction", "next", "forward"],
     "category": "symbols-arrows",
+    "tags": ["navigation"],
     "unicode": "U+2192"
   },
   {
@@ -167,6 +187,7 @@
     "name": "Upwards Arrow",
     "keywords": ["direction", "north"],
     "category": "symbols-arrows",
+    "tags": ["navigation"],
     "unicode": "U+2191"
   },
   {
@@ -175,6 +196,7 @@
     "name": "Downwards Arrow",
     "keywords": ["direction", "south"],
     "category": "symbols-arrows",
+    "tags": ["navigation"],
     "unicode": "U+2193"
   },
   {
@@ -183,6 +205,7 @@
     "name": "Micro Sign",
     "keywords": ["science", "unit"],
     "category": "symbols-technical",
+    "tags": ["measurement"],
     "unicode": "U+00B5"
   },
   {
@@ -191,6 +214,7 @@
     "name": "Degree Sign",
     "keywords": ["temperature", "angle"],
     "category": "symbols-technical",
+    "tags": ["measurement"],
     "unicode": "U+00B0"
   },
   {
@@ -199,6 +223,7 @@
     "name": "Section Sign",
     "keywords": ["legal", "document"],
     "category": "symbols-technical",
+    "tags": ["reference"],
     "unicode": "U+00A7"
   },
   {
@@ -207,6 +232,7 @@
     "name": "Flag: United States",
     "keywords": ["flag", "country", "us", "america"],
     "category": "flags",
+    "tags": ["nation"],
     "unicode": "U+1F1FA U+1F1F8"
   },
   {
@@ -215,25 +241,48 @@
     "name": "Flag: Japan",
     "keywords": ["flag", "country", "jp"],
     "category": "flags",
+    "tags": ["nation"],
     "unicode": "U+1F1EF U+1F1F5"
+  },
+  {
+    "id": "om-symbol",
+    "char": "ॐ",
+    "name": "Om Symbol",
+    "keywords": ["religion", "spiritual", "sacred", "mantra"],
+    "category": "religious-spiritual",
+    "tags": ["hinduism", "mantra", "culture"],
+    "unicode": "U+0950",
+    "flags": {
+      "contextual": true
+    },
+    "contextNote": "Used as a sacred symbol in Hindu traditions and related spiritual practices."
   },
   {
     "id": "swastika",
     "char": "卐",
     "name": "Swastika",
     "keywords": ["religion", "historic", "symbol"],
-    "category": "misc",
+    "category": "religious-spiritual",
+    "tags": ["historical", "context-dependent", "culture"],
     "unicode": "U+5350",
-    "controversial": true,
-    "description": "Context-dependent religious and historical symbol."
+    "flags": {
+      "sensitive": true,
+      "contextual": true
+    },
+    "contextNote": "Historically used in multiple cultures and religions; interpretation depends on context."
   },
   {
     "id": "hammer-and-sickle",
     "char": "☭",
     "name": "Hammer and Sickle",
     "keywords": ["historic", "politics", "symbol"],
-    "category": "misc",
+    "category": "political-ideological",
+    "tags": ["communism", "historical", "ideology"],
     "unicode": "U+262D",
-    "controversial": true
+    "flags": {
+      "sensitive": true,
+      "contextual": true
+    },
+    "contextNote": "Associated with communist political movements and historical state symbols."
   }
 ]
