@@ -1,5 +1,7 @@
-import { useMemo } from 'react';
+import { useMemo, useState } from 'react';
 import type { SymbolEntry } from '../types';
+import { copyText } from '../utils/clipboard';
+import { getEmojiVariantMetadata } from '../utils/emojiSkinTone';
 
 interface DetailDrawerProps {
   selected?: SymbolEntry;
@@ -33,12 +35,24 @@ const categoryLabel: Record<NonNullable<SymbolEntry['primaryCategory']>, string>
 };
 
 export function DetailDrawer({ selected, copiedId, favoriteIds, onToggleFavorite }: DetailDrawerProps) {
+  const [copiedVariant, setCopiedVariant] = useState<string>();
+
   const statusText = useMemo(() => {
     if (!selected) return 'Select any symbol to preview details and copy instantly.';
+    if (copiedVariant) return 'Variant copied ✓';
     return copiedId === selected.id ? 'Copied ✓' : 'Tap or click a card to copy.';
-  }, [selected, copiedId]);
+  }, [selected, copiedId, copiedVariant]);
 
   const activeCategory = selected ? selected.primaryCategory ?? selected.category : undefined;
+  const variants = selected ? getEmojiVariantMetadata(selected) : undefined;
+
+  const handleCopyVariant = async (variant: string) => {
+    const copied = await copyText(variant);
+    if (copied) {
+      setCopiedVariant(variant);
+      window.setTimeout(() => setCopiedVariant(undefined), 1200);
+    }
+  };
 
   return (
     <aside className="detail-panel" aria-live="polite">
@@ -103,6 +117,25 @@ export function DetailDrawer({ selected, copiedId, favoriteIds, onToggleFavorite
                 </>
               ) : null}
             </dl>
+            {variants?.supportsSkinTone && variants.generatedVariants.length > 0 ? (
+              <div className="emoji-variants" aria-label="Skin tone variants">
+                <p className="emoji-variants__label">Variants</p>
+                <div className="emoji-variants__list">
+                  {variants.generatedVariants.map((variant) => (
+                    <button
+                      key={variant}
+                      type="button"
+                      className="emoji-variant"
+                      onClick={() => handleCopyVariant(variant)}
+                      title="Copy variant"
+                      aria-label={`Copy ${selected.name} variant ${variant}`}
+                    >
+                      {variant}
+                    </button>
+                  ))}
+                </div>
+              </div>
+            ) : null}
             {selected.knowledge?.externalLinks?.length ? (
               <div className="detail-links">
                 <p className="detail-links__label">Read more</p>

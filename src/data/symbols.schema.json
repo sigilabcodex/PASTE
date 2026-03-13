@@ -83,6 +83,29 @@
     },
     "knowledge": {
       "$ref": "#/$defs/knowledge"
+    },
+    "supportsSkinTone": {
+      "type": "boolean",
+      "description": "Whether this emoji supports Unicode skin tone modifiers."
+    },
+    "generatedVariants": {
+      "type": "array",
+      "description": "Optional pre-generated Unicode variants (typically skin tone variants).",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "preferredDefaultSkinTone": {
+      "type": "string",
+      "enum": [
+        "🏻",
+        "🏼",
+        "🏽",
+        "🏾",
+        "🏿"
+      ],
+      "description": "Optional preferred default skin tone modifier for future personalization."
     }
   },
   "$defs": {
