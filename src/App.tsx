@@ -23,6 +23,8 @@ const categoryOptions: CategoryOption[] = [
   { id: 'symbols-arrows', label: 'Arrows' },
   { id: 'symbols-technical', label: 'Technical' },
   { id: 'flags', label: 'Flags' },
+  { id: 'political-ideological', label: 'Political / Ideological' },
+  { id: 'religious-spiritual', label: 'Religious / Spiritual' },
   { id: 'misc', label: 'Misc' }
 ];
 
@@ -32,7 +34,18 @@ function normalize(value: string): string {
 
 function matches(entry: SymbolEntry, query: string): boolean {
   if (!query) return true;
-  const haystack = `${entry.char} ${entry.name} ${entry.unicode} ${entry.keywords.join(' ')}`.toLowerCase();
+  const haystack = [
+    entry.char,
+    entry.name,
+    entry.unicode,
+    entry.category,
+    entry.keywords.join(' '),
+    entry.tags?.join(' ') ?? '',
+    entry.contextNote ?? ''
+  ]
+    .join(' ')
+    .toLowerCase();
+
   return haystack.includes(query);
 }
 
@@ -45,10 +58,7 @@ export default function App() {
 
   const query = normalize(search);
 
-  const featured = useMemo(
-    () => symbols.filter((item) => !item.controversial).slice(0, 12),
-    []
-  );
+  const featured = useMemo(() => symbols.filter((item) => !item.flags?.sensitive).slice(0, 12), []);
 
   const filtered = useMemo(() => {
     const byCategory =

@@ -8,9 +8,15 @@ export type SymbolCategory =
   | 'symbols-currency'
   | 'symbols-arrows'
   | 'symbols-technical'
-  | 'symbols-punctuation'
   | 'flags'
+  | 'political-ideological'
+  | 'religious-spiritual'
   | 'misc';
+
+export interface SymbolFlags {
+  sensitive?: boolean;
+  contextual?: boolean;
+}
 
 export interface SymbolEntry {
   id: string;
@@ -18,9 +24,11 @@ export interface SymbolEntry {
   name: string;
   keywords: string[];
   category: SymbolCategory;
+  tags?: string[];
+  flags?: SymbolFlags;
   unicode: string;
   version?: string;
-  controversial?: boolean;
+  contextNote?: string;
   description?: string;
 }
 

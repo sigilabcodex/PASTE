@@ -29,7 +29,7 @@ body {
 
 .app {
   margin: 0 auto;
-  max-width: 1160px;
+  max-width: 1440px;
   padding: 1rem;
 }
 
@@ -99,25 +99,31 @@ p { margin: 0.25rem 0 0; color: var(--muted); }
   font-size: 1rem;
 }
 
-.layout { display: grid; gap: 0.9rem; }
+.layout {
+  display: grid;
+  gap: 0.9rem;
+}
+
 .symbol-grid {
   display: grid;
   gap: 0.65rem;
   grid-template-columns: repeat(4, minmax(0, 1fr));
 }
+
 .symbol-card {
   border: 1px solid var(--border);
   background: var(--panel);
   color: var(--text);
   border-radius: 0.8rem;
-  min-height: 82px;
+  min-height: 86px;
   cursor: pointer;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 0.5rem;
+  padding: 0.55rem;
 }
+
 .symbol-card--selected { outline: 2px solid var(--accent); }
 .symbol-card__char { font-size: 1.55rem; line-height: 1; }
 .symbol-card__name {
@@ -131,10 +137,26 @@ p { margin: 0.25rem 0 0; color: var(--muted); }
   border: 1px solid var(--border);
   background: var(--panel);
   border-radius: 0.9rem;
-  padding: 1rem;
 }
+
+.detail-panel__mobile summary {
+  list-style: none;
+  cursor: pointer;
+  padding: 0.9rem 1rem;
+  font-weight: 600;
+}
+
+.detail-panel__mobile summary::-webkit-details-marker {
+  display: none;
+}
+
+.detail-panel__body,
+.detail-panel__mobile > p {
+  padding: 0 1rem 1rem;
+}
+
 .detail-panel__char { font-size: 2.2rem; }
-.detail-panel h2 { margin: 0.5rem 0 0; font-size: 1rem; }
+.detail-panel h2 { margin: 0.5rem 0 0.25rem; font-size: 1rem; }
 .detail-panel dl {
   margin: 0.8rem 0;
   display: grid;
@@ -151,18 +173,34 @@ p { margin: 0.25rem 0 0; color: var(--muted); }
   color: var(--muted);
 }
 
-@media (min-width: 720px) {
+@media (min-width: 900px) {
+  .app {
+    padding: 1.2rem 1.5rem;
+  }
+
   .symbol-grid {
-    grid-template-columns: repeat(6, minmax(0, 1fr));
+    grid-template-columns: repeat(8, minmax(0, 1fr));
   }
 
   .layout {
-    grid-template-columns: 1fr 300px;
+    grid-template-columns: minmax(0, 1fr) 340px;
     align-items: start;
   }
 
   .detail-panel {
     position: sticky;
     top: 1rem;
+  }
+
+  .detail-panel__mobile summary {
+    display: none;
+  }
+
+  .detail-panel__mobile[open] .detail-panel__body,
+  .detail-panel__mobile[open] > p,
+  .detail-panel__mobile:not([open]) .detail-panel__body,
+  .detail-panel__mobile:not([open]) > p {
+    display: block;
+    padding: 1rem;
   }
 }
