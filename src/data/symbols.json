@@ -2369,7 +2369,8 @@
       "ok"
     ],
     "featured": true,
-    "primaryCategory": "emoji-people"
+    "primaryCategory": "emoji-people",
+    "supportsSkinTone": true
   },
   {
     "id": "clapping-hands",
@@ -2402,7 +2403,31 @@
       "thanks",
       "please"
     ],
-    "primaryCategory": "emoji-people"
+    "primaryCategory": "emoji-people",
+    "supportsSkinTone": true
+  },
+  {
+    "id": "woman-technologist",
+    "char": "👩‍💻",
+    "name": "Woman Technologist",
+    "codepoints": [
+      "U+1F469",
+      "U+200D",
+      "U+1F4BB"
+    ],
+    "category": "emoji-people",
+    "tags": [
+      "person",
+      "technology"
+    ],
+    "searchKeywords": [
+      "developer",
+      "coder",
+      "engineer"
+    ],
+    "primaryCategory": "emoji-people",
+    "supportsSkinTone": true,
+    "contextualNote": "ZWJ sequence. Skin tone modifiers apply to the person component."
   },
   {
     "id": "red-heart",
@@ -2421,7 +2446,8 @@
       "heart"
     ],
     "featured": true,
-    "primaryCategory": "emoji-objects"
+    "primaryCategory": "emoji-objects",
+    "supportsSkinTone": false
   },
   {
     "id": "warning-sign",

@@ -68,6 +68,9 @@ export interface SymbolEntry {
   knowledge?: SymbolKnowledge;
   featured?: boolean;
   flags?: SymbolFlags;
+  supportsSkinTone?: boolean;
+  generatedVariants?: string[];
+  preferredDefaultSkinTone?: '🏻' | '🏼' | '🏽' | '🏾' | '🏿';
 }
 
 export interface CategoryOption {

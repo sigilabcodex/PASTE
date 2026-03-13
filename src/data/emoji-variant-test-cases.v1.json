@@ -1,0 +1,29 @@
+{
+  "cases": [
+    {
+      "id": "hand-thumbs-up",
+      "emoji": "👍",
+      "expectedSupportsSkinTone": true,
+      "expectedVariants": ["👍🏻", "👍🏼", "👍🏽", "👍🏾", "👍🏿"]
+    },
+    {
+      "id": "person-woman-technologist-zwj",
+      "emoji": "👩‍💻",
+      "expectedSupportsSkinTone": true,
+      "expectedVariants": ["👩🏻‍💻", "👩🏼‍💻", "👩🏽‍💻", "👩🏾‍💻", "👩🏿‍💻"]
+    },
+    {
+      "id": "emoji-without-tones",
+      "emoji": "❤️",
+      "expectedSupportsSkinTone": false,
+      "expectedVariants": []
+    },
+    {
+      "id": "handshake-edge-case-multiple-bases",
+      "emoji": "🤝",
+      "expectedSupportsSkinTone": true,
+      "expectedVariants": ["🤝🏻", "🤝🏼", "🤝🏽", "🤝🏾", "🤝🏿"],
+      "note": "Prototype app applies a single tone to all modifier-base components; mixed-tone handshake sequences are not generated yet."
+    }
+  ]
+}

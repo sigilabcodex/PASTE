@@ -265,6 +265,38 @@ p { margin: 0.25rem 0 0; color: var(--muted); }
   padding: 0.3rem 0.45rem;
 }
 
+
+.emoji-variants {
+  margin: 0.7rem 0;
+}
+
+.emoji-variants__label {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.82rem;
+}
+
+.emoji-variants__list {
+  margin-top: 0.35rem;
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 0.35rem;
+}
+
+.emoji-variant {
+  border: 1px solid var(--border);
+  background: transparent;
+  border-radius: 0.5rem;
+  padding: 0.3rem;
+  font-size: 1.1rem;
+  line-height: 1.2;
+  cursor: pointer;
+}
+
+.emoji-variant:hover {
+  border-color: var(--accent);
+}
+
 .detail-links {
   margin: 0.7rem 0;
 }
