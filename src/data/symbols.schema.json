@@ -80,6 +80,9 @@
         }
       },
       "additionalProperties": false
+    },
+    "knowledge": {
+      "$ref": "#/$defs/knowledge"
     }
   },
   "$defs": {
@@ -108,6 +111,69 @@
         "political-ideological",
         "religious-spiritual"
       ]
+    },
+    "sourceType": {
+      "type": "string",
+      "enum": [
+        "editorial",
+        "unicode",
+        "cldr",
+        "wikidata",
+        "dbpedia",
+        "open-data",
+        "other"
+      ]
+    },
+    "externalLink": {
+      "type": "object",
+      "required": [
+        "label",
+        "url"
+      ],
+      "properties": {
+        "label": {
+          "type": "string",
+          "minLength": 1
+        },
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "sourceType": {
+          "$ref": "#/$defs/sourceType"
+        }
+      },
+      "additionalProperties": false
+    },
+    "knowledge": {
+      "type": "object",
+      "properties": {
+        "description": {
+          "type": "string"
+        },
+        "history": {
+          "type": "string"
+        },
+        "culturalContext": {
+          "type": "string"
+        },
+        "notes": {
+          "type": "string"
+        },
+        "externalLinks": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/externalLink"
+          }
+        },
+        "sourceLabels": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "additionalProperties": false
     }
   },
   "additionalProperties": false

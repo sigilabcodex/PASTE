@@ -18,7 +18,29 @@
       "end"
     ],
     "featured": true,
-    "primaryCategory": "punctuation"
+    "primaryCategory": "punctuation",
+    "knowledge": {
+      "description": "Standard punctuation mark used to end declarative sentences in many writing systems.",
+      "history": "Derived from ancient Greek punctuation traditions and normalized in modern typography.",
+      "culturalContext": "Sentence-final punctuation conventions differ across languages and scripts.",
+      "notes": "In technical contexts, a period may indicate file extensions, decimal notation, or dot-path syntax.",
+      "sourceLabels": [
+        "Unicode",
+        "Editorial"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code chart reference",
+          "url": "https://www.unicode.org/charts/PDF/U0000.pdf",
+          "sourceType": "unicode"
+        },
+        {
+          "label": "CLDR punctuation guidance",
+          "url": "https://cldr.unicode.org/translation/characters/punctuation",
+          "sourceType": "cldr"
+        }
+      ]
+    }
   },
   {
     "id": "comma",
@@ -618,7 +640,28 @@
       "add"
     ],
     "featured": true,
-    "primaryCategory": "math-symbols"
+    "primaryCategory": "math-symbols",
+    "knowledge": {
+      "description": "Mathematical operator representing addition and positive quantity.",
+      "history": "The modern plus glyph became widespread in European mathematics during the 15th century.",
+      "notes": "Also reused in medicine, blood typing, and interface labels to indicate increase/addition.",
+      "sourceLabels": [
+        "Unicode",
+        "Wikidata"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode math operators block",
+          "url": "https://www.unicode.org/charts/PDF/U2200.pdf",
+          "sourceType": "unicode"
+        },
+        {
+          "label": "Wikidata: plus and minus signs",
+          "url": "https://www.wikidata.org/wiki/Q1307280",
+          "sourceType": "wikidata"
+        }
+      ]
+    }
   },
   {
     "id": "minus",
@@ -873,7 +916,28 @@
       "currency"
     ],
     "featured": true,
-    "primaryCategory": "currency"
+    "primaryCategory": "currency",
+    "knowledge": {
+      "description": "Currency sign associated with multiple currencies, including USD and several peso-denominated systems.",
+      "history": "Commonly linked to historical abbreviations for peso and real in colonial accounting records.",
+      "culturalContext": "Interpretation depends on locale; ISO currency codes are preferred in multilingual interfaces.",
+      "sourceLabels": [
+        "Unicode",
+        "DBpedia"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode Currency Symbols block",
+          "url": "https://www.unicode.org/charts/PDF/U20A0.pdf",
+          "sourceType": "unicode"
+        },
+        {
+          "label": "DBpedia: Dollar sign",
+          "url": "https://dbpedia.org/page/Dollar_sign",
+          "sourceType": "dbpedia"
+        }
+      ]
+    }
   },
   {
     "id": "euro",
@@ -2094,7 +2158,28 @@
       "happy"
     ],
     "featured": true,
-    "primaryCategory": "emoji-smileys"
+    "primaryCategory": "emoji-smileys",
+    "knowledge": {
+      "description": "Emoji representing happiness, friendliness, or positive tone in short-form digital text.",
+      "history": "Added in early Unicode emoji sets and standardized with broad cross-platform support.",
+      "notes": "Rendering style varies by platform; perceived emotional intensity can differ by glyph design.",
+      "sourceLabels": [
+        "Unicode",
+        "CLDR"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode Emoji chart",
+          "url": "https://www.unicode.org/emoji/charts/full-emoji-list.html",
+          "sourceType": "unicode"
+        },
+        {
+          "label": "CLDR annotations",
+          "url": "https://unicode-org.github.io/cldr-staging/charts/latest/annotations/emoji-annotations.html",
+          "sourceType": "cldr"
+        }
+      ]
+    }
   },
   {
     "id": "beaming-face",
@@ -2638,7 +2723,30 @@
       "sensitive": true
     },
     "primaryCategory": "political-ideological",
-    "contextualNote": "Peace and anti-war symbol used across movements."
+    "contextualNote": "Peace and anti-war symbol used across movements.",
+    "knowledge": {
+      "description": "Symbol adopted by anti-war and nuclear disarmament movements and later by broader peace activism.",
+      "history": "Designed in 1958 for the British Campaign for Nuclear Disarmament and spread globally in protest culture.",
+      "culturalContext": "May carry different political meanings based on region, era, and movement context.",
+      "notes": "Treat as historically sensitive in educational or moderation-sensitive contexts.",
+      "sourceLabels": [
+        "Unicode",
+        "Wikidata",
+        "Editorial"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode Miscellaneous Symbols block",
+          "url": "https://www.unicode.org/charts/PDF/U2600.pdf",
+          "sourceType": "unicode"
+        },
+        {
+          "label": "Wikidata: peace symbol",
+          "url": "https://www.wikidata.org/wiki/Q1065093",
+          "sourceType": "wikidata"
+        }
+      ]
+    }
   },
   {
     "id": "anarchy-symbol",
@@ -2841,7 +2949,28 @@
       "sensitive": true
     },
     "primaryCategory": "religious-spiritual",
-    "contextualNote": "Christian symbol used in liturgy and identity."
+    "contextualNote": "Christian symbol used in liturgy and identity.",
+    "knowledge": {
+      "description": "Cross shape widely used as a Christian religious symbol.",
+      "history": "Cross symbolism evolved from late antiquity into many liturgical, civic, and artistic traditions.",
+      "culturalContext": "Can appear in religious, cultural, memorial, and healthcare-adjacent contexts depending on usage.",
+      "sourceLabels": [
+        "Unicode",
+        "Wikidata"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode Dingbats and symbols references",
+          "url": "https://www.unicode.org/charts/PDF/U2700.pdf",
+          "sourceType": "unicode"
+        },
+        {
+          "label": "Wikidata: Christian cross",
+          "url": "https://www.wikidata.org/wiki/Q163249",
+          "sourceType": "wikidata"
+        }
+      ]
+    }
   },
   {
     "id": "star-and-crescent",
@@ -3163,7 +3292,29 @@
     ],
     "curatedSets": [
       "author-signal-pack"
-    ]
+    ],
+    "knowledge": {
+      "description": "Runic letter Dagaz (ᛞ), associated with the Elder Futhark script.",
+      "history": "Runic alphabets were used across Germanic-speaking regions from late antiquity into the medieval period.",
+      "culturalContext": "Modern usage appears in linguistics, historical study, and neo-pagan or revival contexts.",
+      "sourceLabels": [
+        "Unicode",
+        "Wikidata",
+        "Open data"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode Runic block",
+          "url": "https://www.unicode.org/charts/PDF/U16A0.pdf",
+          "sourceType": "unicode"
+        },
+        {
+          "label": "Wikidata: Dagaz",
+          "url": "https://www.wikidata.org/wiki/Q793497",
+          "sourceType": "wikidata"
+        }
+      ]
+    }
   },
   {
     "id": "rune-wunjo",

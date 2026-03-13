@@ -13,6 +13,7 @@ import { copyText } from './utils/clipboard';
 const symbols = symbolsData as SymbolEntry[];
 const featuredIds = new Set((featuredData as { featuredIds: string[] }).featuredIds);
 const RECENT_STORAGE_KEY = 'unicode-map:recent-symbols';
+const FAVORITES_STORAGE_KEY = 'unicode-map:favorites';
 const RECENT_LIMIT = 24;
 
 const symbolById = new Map(symbols.map((symbol) => [symbol.id, symbol]));
@@ -50,6 +51,7 @@ function normalize(value: string): string {
 function matches(entry: SymbolEntry, query: string): boolean {
   if (!query) return true;
   const category = entry.primaryCategory ?? entry.category;
+  const links = entry.knowledge?.externalLinks?.map((item) => `${item.label} ${item.sourceType ?? ''}`).join(' ') ?? '';
   const haystack = [
     entry.char,
     entry.name,
@@ -58,7 +60,13 @@ function matches(entry: SymbolEntry, query: string): boolean {
     entry.searchKeywords.join(' '),
     entry.tags.join(' '),
     entry.contextualNote ?? '',
-    entry.note ?? ''
+    entry.note ?? '',
+    entry.knowledge?.description ?? '',
+    entry.knowledge?.history ?? '',
+    entry.knowledge?.culturalContext ?? '',
+    entry.knowledge?.notes ?? '',
+    entry.knowledge?.sourceLabels?.join(' ') ?? '',
+    links
   ]
     .join(' ')
     .toLowerCase();
@@ -66,11 +74,11 @@ function matches(entry: SymbolEntry, query: string): boolean {
   return haystack.includes(query);
 }
 
-function readRecentSymbolIds(): string[] {
+function readStoredSymbolIds(key: string): string[] {
   if (typeof window === 'undefined') return [];
 
   try {
-    const raw = window.localStorage.getItem(RECENT_STORAGE_KEY);
+    const raw = window.localStorage.getItem(key);
     if (!raw) return [];
 
     const parsed = JSON.parse(raw);
@@ -82,10 +90,10 @@ function readRecentSymbolIds(): string[] {
   }
 }
 
-function writeRecentSymbolIds(ids: string[]): void {
+function writeStoredSymbolIds(key: string, ids: string[]): void {
   if (typeof window === 'undefined') return;
 
-  window.localStorage.setItem(RECENT_STORAGE_KEY, JSON.stringify(ids));
+  window.localStorage.setItem(key, JSON.stringify(ids));
 }
 
 export default function App() {
@@ -94,7 +102,10 @@ export default function App() {
   const [selectedCategory, setSelectedCategory] = useState<CategoryOption['id']>('featured');
   const [selected, setSelected] = useState<SymbolEntry | undefined>();
   const [copiedId, setCopiedId] = useState<string>();
-  const [recentSymbolIds, setRecentSymbolIds] = useState<string[]>(() => readRecentSymbolIds());
+  const [recentSymbolIds, setRecentSymbolIds] = useState<string[]>(() => readStoredSymbolIds(RECENT_STORAGE_KEY));
+  const [favoriteSymbolIds, setFavoriteSymbolIds] = useState<string[]>(() =>
+    readStoredSymbolIds(FAVORITES_STORAGE_KEY)
+  );
 
   const query = normalize(search);
 
@@ -111,6 +122,14 @@ export default function App() {
     [recentSymbolIds]
   );
 
+  const favorites = useMemo(
+    () =>
+      favoriteSymbolIds
+        .map((id) => symbolById.get(id))
+        .filter((entry): entry is SymbolEntry => Boolean(entry)),
+    [favoriteSymbolIds]
+  );
+
   const filtered = useMemo(() => {
     const byCategory =
       selectedCategory === 'featured'
@@ -122,12 +141,21 @@ export default function App() {
     return byCategory.filter((entry) => matches(entry, query));
   }, [featured, query, selectedCategory]);
 
-  const display = filtered;
+  const favoriteIdSet = useMemo(() => new Set(favoriteSymbolIds), [favoriteSymbolIds]);
 
   const rememberRecentSymbol = (entry: SymbolEntry) => {
     setRecentSymbolIds((current) => {
       const next = [entry.id, ...current.filter((id) => id !== entry.id)].slice(0, RECENT_LIMIT);
-      writeRecentSymbolIds(next);
+      writeStoredSymbolIds(RECENT_STORAGE_KEY, next);
+      return next;
+    });
+  };
+
+  const handleToggleFavorite = (entry: SymbolEntry) => {
+    setFavoriteSymbolIds((current) => {
+      const isFavorite = current.includes(entry.id);
+      const next = isFavorite ? current.filter((id) => id !== entry.id) : [entry.id, ...current.filter((id) => id !== entry.id)];
+      writeStoredSymbolIds(FAVORITES_STORAGE_KEY, next);
       return next;
     });
   };
@@ -143,6 +171,7 @@ export default function App() {
   };
 
   const shouldShowRecentSection = selectedCategory === 'featured' && !query && recent.length > 0;
+  const shouldShowFavoritesSection = selectedCategory === 'featured' && !query && favorites.length > 0;
 
   return (
     <main className="app">
@@ -163,19 +192,49 @@ export default function App() {
 
       <section className="layout">
         <div className="content-stack">
+          {shouldShowFavoritesSection ? (
+            <section>
+              <h2 className="section-title">Favorites</h2>
+              <SymbolGrid
+                items={favorites}
+                onSelect={handleSelect}
+                onToggleFavorite={handleToggleFavorite}
+                favoriteIds={favoriteIdSet}
+                selectedId={selected?.id}
+              />
+            </section>
+          ) : null}
+
           {shouldShowRecentSection ? (
             <section>
               <h2 className="section-title">Recently Used</h2>
-              <SymbolGrid items={recent} onSelect={handleSelect} selectedId={selected?.id} />
+              <SymbolGrid
+                items={recent}
+                onSelect={handleSelect}
+                onToggleFavorite={handleToggleFavorite}
+                favoriteIds={favoriteIdSet}
+                selectedId={selected?.id}
+              />
             </section>
           ) : null}
 
           <section>
             <h2 className="section-title">{selectedCategory === 'featured' && !query ? 'Featured' : 'Results'}</h2>
-            <SymbolGrid items={display} onSelect={handleSelect} selectedId={selected?.id} />
+            <SymbolGrid
+              items={filtered}
+              onSelect={handleSelect}
+              onToggleFavorite={handleToggleFavorite}
+              favoriteIds={favoriteIdSet}
+              selectedId={selected?.id}
+            />
           </section>
         </div>
-        <DetailDrawer selected={selected} copiedId={copiedId} />
+        <DetailDrawer
+          selected={selected}
+          copiedId={copiedId}
+          favoriteIds={favoriteIdSet}
+          onToggleFavorite={handleToggleFavorite}
+        />
       </section>
     </main>
   );

@@ -25,6 +25,30 @@ export interface SymbolFlags {
   sensitive?: boolean;
 }
 
+export type KnowledgeSourceType =
+  | 'editorial'
+  | 'unicode'
+  | 'cldr'
+  | 'wikidata'
+  | 'dbpedia'
+  | 'open-data'
+  | 'other';
+
+export interface ExternalLink {
+  label: string;
+  url: string;
+  sourceType?: KnowledgeSourceType;
+}
+
+export interface SymbolKnowledge {
+  description?: string;
+  history?: string;
+  culturalContext?: string;
+  notes?: string;
+  externalLinks?: ExternalLink[];
+  sourceLabels?: string[];
+}
+
 export interface SymbolEntry {
   id: string;
   char: string;
@@ -37,6 +61,7 @@ export interface SymbolEntry {
   curatedSets?: string[];
   contextualNote?: string;
   note?: string;
+  knowledge?: SymbolKnowledge;
   featured?: boolean;
   flags?: SymbolFlags;
 }
