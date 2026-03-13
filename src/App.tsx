@@ -10,8 +10,13 @@ import type { CategoryOption, SymbolEntry } from './types';
 import { copyText } from './utils/clipboard';
 
 const symbols = symbolsData as SymbolEntry[];
+const RECENT_STORAGE_KEY = 'unicode-map:recent-symbols';
+const RECENT_LIMIT = 24;
+
+const symbolById = new Map(symbols.map((symbol) => [symbol.id, symbol]));
 
 const categoryOptions: CategoryOption[] = [
+  { id: 'featured', label: 'Featured' },
   { id: 'all', label: 'All' },
   { id: 'punctuation', label: 'Punctuation' },
   { id: 'quotation-marks', label: 'Quotation Marks' },
@@ -57,36 +62,80 @@ function matches(entry: SymbolEntry, query: string): boolean {
   return haystack.includes(query);
 }
 
+function readRecentSymbolIds(): string[] {
+  if (typeof window === 'undefined') return [];
+
+  try {
+    const raw = window.localStorage.getItem(RECENT_STORAGE_KEY);
+    if (!raw) return [];
+
+    const parsed = JSON.parse(raw);
+    if (!Array.isArray(parsed)) return [];
+
+    return parsed.filter((item): item is string => typeof item === 'string');
+  } catch {
+    return [];
+  }
+}
+
+function writeRecentSymbolIds(ids: string[]): void {
+  if (typeof window === 'undefined') return;
+
+  window.localStorage.setItem(RECENT_STORAGE_KEY, JSON.stringify(ids));
+}
+
 export default function App() {
   const { theme, toggleTheme } = useTheme();
   const [search, setSearch] = useState('');
-  const [selectedCategory, setSelectedCategory] = useState<CategoryOption['id']>('all');
+  const [selectedCategory, setSelectedCategory] = useState<CategoryOption['id']>('featured');
   const [selected, setSelected] = useState<SymbolEntry | undefined>();
   const [copiedId, setCopiedId] = useState<string>();
+  const [recentSymbolIds, setRecentSymbolIds] = useState<string[]>(() => readRecentSymbolIds());
 
   const query = normalize(search);
 
   const featured = useMemo(() => symbols.filter((item) => item.featured).slice(0, 16), []);
 
+  const recent = useMemo(
+    () =>
+      recentSymbolIds
+        .map((id) => symbolById.get(id))
+        .filter((entry): entry is SymbolEntry => Boolean(entry)),
+    [recentSymbolIds]
+  );
+
   const filtered = useMemo(() => {
     const byCategory =
-      selectedCategory === 'all'
-        ? symbols
-        : symbols.filter((entry) => entry.category === selectedCategory);
+      selectedCategory === 'featured'
+        ? featured
+        : selectedCategory === 'all'
+          ? symbols
+          : symbols.filter((entry) => entry.category === selectedCategory);
 
     return byCategory.filter((entry) => matches(entry, query));
-  }, [query, selectedCategory]);
+  }, [featured, query, selectedCategory]);
 
-  const display = query || selectedCategory !== 'all' ? filtered : featured;
+  const display = filtered;
+
+  const rememberRecentSymbol = (entry: SymbolEntry) => {
+    setRecentSymbolIds((current) => {
+      const next = [entry.id, ...current.filter((id) => id !== entry.id)].slice(0, RECENT_LIMIT);
+      writeRecentSymbolIds(next);
+      return next;
+    });
+  };
 
   const handleSelect = async (entry: SymbolEntry) => {
     setSelected(entry);
     const copied = await copyText(entry.char);
     if (copied) {
+      rememberRecentSymbol(entry);
       setCopiedId(entry.id);
       window.setTimeout(() => setCopiedId(undefined), 1200);
     }
   };
+
+  const shouldShowRecentSection = selectedCategory === 'featured' && !query && recent.length > 0;
 
   return (
     <main className="app">
@@ -105,9 +154,20 @@ export default function App() {
         onChange={setSelectedCategory}
       />
 
-      {!query && selectedCategory === 'all' ? <h2 className="section-title">Featured</h2> : null}
       <section className="layout">
-        <SymbolGrid items={display} onSelect={handleSelect} selectedId={selected?.id} />
+        <div className="content-stack">
+          {shouldShowRecentSection ? (
+            <section>
+              <h2 className="section-title">Recently Used</h2>
+              <SymbolGrid items={recent} onSelect={handleSelect} selectedId={selected?.id} />
+            </section>
+          ) : null}
+
+          <section>
+            <h2 className="section-title">{selectedCategory === 'featured' && !query ? 'Featured' : 'Results'}</h2>
+            <SymbolGrid items={display} onSelect={handleSelect} selectedId={selected?.id} />
+          </section>
+        </div>
         <DetailDrawer selected={selected} copiedId={copiedId} />
       </section>
     </main>
