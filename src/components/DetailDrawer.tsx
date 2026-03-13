@@ -32,6 +32,12 @@ const categoryLabel: Record<NonNullable<SymbolEntry['primaryCategory']>, string>
   'religious-spiritual': 'Religious / Spiritual'
 };
 
+
+const curatedSetLabel: Record<string, string> = {
+  'author-signal-pack': 'Author Signal Pack',
+  'based-codex-pack': 'Based Codex'
+};
+
 export function DetailDrawer({ selected, copiedId, favoriteIds, onToggleFavorite }: DetailDrawerProps) {
   const statusText = useMemo(() => {
     if (!selected) return 'Select any symbol to preview details and copy instantly.';
@@ -72,6 +78,12 @@ export function DetailDrawer({ selected, copiedId, favoriteIds, onToggleFavorite
                   <dd>{selected.tags.join(', ')}</dd>
                 </>
               )}
+              {selected.curatedSets?.length ? (
+                <>
+                  <dt>Curated Packs</dt>
+                  <dd>{selected.curatedSets.map((setId) => curatedSetLabel[setId] ?? setId).join(', ')}</dd>
+                </>
+              ) : null}
               {selected.knowledge?.description ? (
                 <>
                   <dt>Description</dt>

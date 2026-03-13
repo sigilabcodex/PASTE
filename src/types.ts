@@ -21,6 +21,10 @@ export type SymbolCategory =
   | 'political-ideological'
   | 'religious-spiritual';
 
+export type CuratedSetId = 'author-signal-pack' | 'based-codex-pack';
+
+export type CategoryFilterId = 'featured' | 'all' | SymbolCategory | `curated:${CuratedSetId}`;
+
 export interface SymbolFlags {
   sensitive?: boolean;
 }
@@ -58,7 +62,7 @@ export interface SymbolEntry {
   category?: SymbolCategory;
   tags: string[];
   searchKeywords: string[];
-  curatedSets?: string[];
+  curatedSets?: CuratedSetId[];
   contextualNote?: string;
   note?: string;
   knowledge?: SymbolKnowledge;
@@ -67,6 +71,6 @@ export interface SymbolEntry {
 }
 
 export interface CategoryOption {
-  id: 'featured' | 'all' | SymbolCategory;
+  id: CategoryFilterId;
   label: string;
 }

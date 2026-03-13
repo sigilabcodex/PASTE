@@ -7,7 +7,7 @@ import { SearchBar } from './components/SearchBar';
 import { SymbolGrid } from './components/SymbolGrid';
 import { ThemeToggle } from './components/ThemeToggle';
 import { useTheme } from './hooks/useTheme';
-import type { CategoryOption, SymbolEntry } from './types';
+import type { CategoryFilterId, CategoryOption, CuratedSetId, SymbolEntry } from './types';
 import { copyText } from './utils/clipboard';
 
 const symbols = symbolsData as SymbolEntry[];
@@ -21,6 +21,7 @@ const symbolById = new Map(symbols.map((symbol) => [symbol.id, symbol]));
 const categoryOptions: CategoryOption[] = [
   { id: 'featured', label: 'Featured' },
   { id: 'all', label: 'All' },
+  { id: 'curated:based-codex-pack', label: 'Based Codex' },
   { id: 'punctuation', label: 'Punctuation' },
   { id: 'quotation-marks', label: 'Quotation Marks' },
   { id: 'arrows', label: 'Arrows' },
@@ -43,6 +44,12 @@ const categoryOptions: CategoryOption[] = [
   { id: 'political-ideological', label: 'Political / Ideological' },
   { id: 'religious-spiritual', label: 'Religious / Spiritual' }
 ];
+
+
+function getCuratedSetId(categoryId: CategoryFilterId): CuratedSetId | undefined {
+  if (!categoryId.startsWith('curated:')) return undefined;
+  return categoryId.slice('curated:'.length) as CuratedSetId;
+}
 
 function normalize(value: string): string {
   return value.toLowerCase().trim();
@@ -131,8 +138,10 @@ export default function App() {
   );
 
   const filtered = useMemo(() => {
-    const byCategory =
-      selectedCategory === 'featured'
+    const curatedSetId = getCuratedSetId(selectedCategory);
+    const byCategory = curatedSetId
+      ? symbols.filter((entry) => entry.curatedSets?.includes(curatedSetId))
+      : selectedCategory === 'featured'
         ? featured
         : selectedCategory === 'all'
           ? symbols

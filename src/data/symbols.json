@@ -1798,7 +1798,10 @@
       "cmd"
     ],
     "featured": true,
-    "primaryCategory": "technical-computing"
+    "primaryCategory": "technical-computing",
+    "curatedSets": [
+      "based-codex-pack"
+    ]
   },
   {
     "id": "option-key",
@@ -1816,7 +1819,10 @@
       "option key",
       "alt"
     ],
-    "primaryCategory": "technical-computing"
+    "primaryCategory": "technical-computing",
+    "curatedSets": [
+      "based-codex-pack"
+    ]
   },
   {
     "id": "shift-key",
@@ -1832,7 +1838,10 @@
     "searchKeywords": [
       "shift key"
     ],
-    "primaryCategory": "technical-computing"
+    "primaryCategory": "technical-computing",
+    "curatedSets": [
+      "based-codex-pack"
+    ]
   },
   {
     "id": "enter-key",
@@ -1850,7 +1859,10 @@
       "return"
     ],
     "featured": true,
-    "primaryCategory": "technical-computing"
+    "primaryCategory": "technical-computing",
+    "curatedSets": [
+      "based-codex-pack"
+    ]
   },
   {
     "id": "escape-key",
@@ -1867,7 +1879,10 @@
       "escape key",
       "esc"
     ],
-    "primaryCategory": "technical-computing"
+    "primaryCategory": "technical-computing",
+    "curatedSets": [
+      "based-codex-pack"
+    ]
   },
   {
     "id": "power-symbol",
@@ -1885,7 +1900,10 @@
       "power"
     ],
     "featured": true,
-    "primaryCategory": "technical-computing"
+    "primaryCategory": "technical-computing",
+    "curatedSets": [
+      "based-codex-pack"
+    ]
   },
   {
     "id": "eject-symbol",
@@ -1901,7 +1919,10 @@
     "searchKeywords": [
       "eject"
     ],
-    "primaryCategory": "technical-computing"
+    "primaryCategory": "technical-computing",
+    "curatedSets": [
+      "based-codex-pack"
+    ]
   },
   {
     "id": "gear",
@@ -1919,7 +1940,10 @@
       "preferences"
     ],
     "featured": true,
-    "primaryCategory": "technical-computing"
+    "primaryCategory": "technical-computing",
+    "curatedSets": [
+      "based-codex-pack"
+    ]
   },
   {
     "id": "keyboard",
@@ -1935,7 +1959,10 @@
     "searchKeywords": [
       "keyboard device"
     ],
-    "primaryCategory": "technical-computing"
+    "primaryCategory": "technical-computing",
+    "curatedSets": [
+      "based-codex-pack"
+    ]
   },
   {
     "id": "desktop-computer",
@@ -1952,7 +1979,10 @@
       "pc",
       "computer"
     ],
-    "primaryCategory": "technical-computing"
+    "primaryCategory": "technical-computing",
+    "curatedSets": [
+      "based-codex-pack"
+    ]
   },
   {
     "id": "floppy-disk",
@@ -1986,7 +2016,10 @@
       "hyperlink",
       "url"
     ],
-    "primaryCategory": "technical-computing"
+    "primaryCategory": "technical-computing",
+    "curatedSets": [
+      "based-codex-pack"
+    ]
   },
   {
     "id": "space",
@@ -3269,7 +3302,8 @@
       "open source"
     ],
     "curatedSets": [
-      "author-signal-pack"
+      "author-signal-pack",
+      "based-codex-pack"
     ]
   },
   {
@@ -3571,7 +3605,8 @@
       "media control"
     ],
     "curatedSets": [
-      "author-signal-pack"
+      "author-signal-pack",
+      "based-codex-pack"
     ]
   },
   {
@@ -3594,7 +3629,8 @@
       "media control"
     ],
     "curatedSets": [
-      "author-signal-pack"
+      "author-signal-pack",
+      "based-codex-pack"
     ]
   },
   {
@@ -3637,7 +3673,8 @@
       "media control"
     ],
     "curatedSets": [
-      "author-signal-pack"
+      "author-signal-pack",
+      "based-codex-pack"
     ]
   },
   {
@@ -3712,6 +3749,9 @@
     "searchKeywords": [
       "triangle",
       "play icon"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
     ]
   },
   {
@@ -3730,6 +3770,9 @@
     "searchKeywords": [
       "triangle outline",
       "play icon"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
     ]
   },
   {
