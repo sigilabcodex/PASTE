@@ -1,5 +1,6 @@
 import { useMemo, useState } from 'react';
 import symbolsData from './data/symbols.json';
+import curatedSetsData from './data/curated-sets.v1.json';
 import featuredData from './data/featured.v1.json';
 import { CategoryFilters } from './components/CategoryFilters';
 import { DetailDrawer } from './components/DetailDrawer';
@@ -7,17 +8,20 @@ import { SearchBar } from './components/SearchBar';
 import { SymbolGrid } from './components/SymbolGrid';
 import { ThemeToggle } from './components/ThemeToggle';
 import { useTheme } from './hooks/useTheme';
-import type { CategoryOption, SymbolEntry } from './types';
+import type { CategoryOption, CuratedSet, CuratedSetsFile, SymbolEntry } from './types';
 import { copyText } from './utils/clipboard';
 
 const symbols = symbolsData as SymbolEntry[];
+const curatedSets = (curatedSetsData as CuratedSetsFile).sets;
 const featuredIds = new Set((featuredData as { featuredIds: string[] }).featuredIds);
 const RECENT_STORAGE_KEY = 'unicode-map:recent-symbols';
+const FAVORITES_STORAGE_KEY = 'unicode-map:favorites';
 const RECENT_LIMIT = 24;
+const FAVORITES_LIMIT = 48;
 
 const symbolById = new Map(symbols.map((symbol) => [symbol.id, symbol]));
 
-const categoryOptions: CategoryOption[] = [
+const BASE_CATEGORY_OPTIONS: CategoryOption[] = [
   { id: 'featured', label: 'Featured' },
   { id: 'all', label: 'All' },
   { id: 'punctuation', label: 'Punctuation' },
@@ -66,11 +70,11 @@ function matches(entry: SymbolEntry, query: string): boolean {
   return haystack.includes(query);
 }
 
-function readRecentSymbolIds(): string[] {
+function readStoredIds(storageKey: string): string[] {
   if (typeof window === 'undefined') return [];
 
   try {
-    const raw = window.localStorage.getItem(RECENT_STORAGE_KEY);
+    const raw = window.localStorage.getItem(storageKey);
     if (!raw) return [];
 
     const parsed = JSON.parse(raw);
@@ -82,10 +86,21 @@ function readRecentSymbolIds(): string[] {
   }
 }
 
-function writeRecentSymbolIds(ids: string[]): void {
+function writeStoredIds(storageKey: string, ids: string[]): void {
   if (typeof window === 'undefined') return;
 
-  window.localStorage.setItem(RECENT_STORAGE_KEY, JSON.stringify(ids));
+  window.localStorage.setItem(storageKey, JSON.stringify(ids));
+}
+
+function toSymbolEntries(ids: string[]): SymbolEntry[] {
+  return ids.map((id) => symbolById.get(id)).filter((entry): entry is SymbolEntry => Boolean(entry));
+}
+
+function getCuratedSetByCategory(category: CategoryOption['id']): CuratedSet | undefined {
+  if (!category.startsWith('curated:')) return undefined;
+
+  const curatedId = category.slice('curated:'.length);
+  return curatedSets.find((set) => set.id === curatedId);
 }
 
 export default function App() {
@@ -94,26 +109,42 @@ export default function App() {
   const [selectedCategory, setSelectedCategory] = useState<CategoryOption['id']>('featured');
   const [selected, setSelected] = useState<SymbolEntry | undefined>();
   const [copiedId, setCopiedId] = useState<string>();
-  const [recentSymbolIds, setRecentSymbolIds] = useState<string[]>(() => readRecentSymbolIds());
+  const [recentSymbolIds, setRecentSymbolIds] = useState<string[]>(() => readStoredIds(RECENT_STORAGE_KEY));
+  const [favoriteSymbolIds, setFavoriteSymbolIds] = useState<string[]>(() =>
+    readStoredIds(FAVORITES_STORAGE_KEY)
+  );
 
   const query = normalize(search);
+
+  const basedCodexSet = useMemo(
+    () => curatedSets.find((set) => set.id === 'based-codex-v1'),
+    []
+  );
+
+  const categoryOptions = useMemo(() => {
+    const authorSetOption = basedCodexSet
+      ? [{ id: `curated:${basedCodexSet.id}` as const, label: basedCodexSet.name }]
+      : [];
+
+    return [BASE_CATEGORY_OPTIONS[0], ...authorSetOption, ...BASE_CATEGORY_OPTIONS.slice(1)];
+  }, [basedCodexSet]);
 
   const featured = useMemo(
     () => symbols.filter((item) => featuredIds.has(item.id) || item.featured).slice(0, 24),
     []
   );
 
-  const recent = useMemo(
-    () =>
-      recentSymbolIds
-        .map((id) => symbolById.get(id))
-        .filter((entry): entry is SymbolEntry => Boolean(entry)),
-    [recentSymbolIds]
-  );
+  const favorites = useMemo(() => toSymbolEntries(favoriteSymbolIds), [favoriteSymbolIds]);
+
+  const recent = useMemo(() => toSymbolEntries(recentSymbolIds), [recentSymbolIds]);
 
   const filtered = useMemo(() => {
-    const byCategory =
-      selectedCategory === 'featured'
+    const curatedSet = getCuratedSetByCategory(selectedCategory);
+    const byCategory = curatedSet
+      ? curatedSet.symbolIds
+          .map((symbolId) => symbolById.get(symbolId))
+          .filter((entry): entry is SymbolEntry => Boolean(entry))
+      : selectedCategory === 'featured'
         ? featured
         : selectedCategory === 'all'
           ? symbols
@@ -127,7 +158,19 @@ export default function App() {
   const rememberRecentSymbol = (entry: SymbolEntry) => {
     setRecentSymbolIds((current) => {
       const next = [entry.id, ...current.filter((id) => id !== entry.id)].slice(0, RECENT_LIMIT);
-      writeRecentSymbolIds(next);
+      writeStoredIds(RECENT_STORAGE_KEY, next);
+      return next;
+    });
+  };
+
+  const toggleFavoriteSymbol = (entry: SymbolEntry) => {
+    setFavoriteSymbolIds((current) => {
+      const hasEntry = current.includes(entry.id);
+      const next = hasEntry
+        ? current.filter((id) => id !== entry.id)
+        : [entry.id, ...current].slice(0, FAVORITES_LIMIT);
+
+      writeStoredIds(FAVORITES_STORAGE_KEY, next);
       return next;
     });
   };
@@ -142,6 +185,8 @@ export default function App() {
     }
   };
 
+  const isSelectedFavorite = selected ? favoriteSymbolIds.includes(selected.id) : false;
+  const shouldShowFavoriteSection = selectedCategory === 'featured' && !query && favorites.length > 0;
   const shouldShowRecentSection = selectedCategory === 'featured' && !query && recent.length > 0;
 
   return (
@@ -163,6 +208,13 @@ export default function App() {
 
       <section className="layout">
         <div className="content-stack">
+          {shouldShowFavoriteSection ? (
+            <section>
+              <h2 className="section-title">Favorites</h2>
+              <SymbolGrid items={favorites} onSelect={handleSelect} selectedId={selected?.id} />
+            </section>
+          ) : null}
+
           {shouldShowRecentSection ? (
             <section>
               <h2 className="section-title">Recently Used</h2>
@@ -175,7 +227,12 @@ export default function App() {
             <SymbolGrid items={display} onSelect={handleSelect} selectedId={selected?.id} />
           </section>
         </div>
-        <DetailDrawer selected={selected} copiedId={copiedId} />
+        <DetailDrawer
+          selected={selected}
+          copiedId={copiedId}
+          isFavorite={isSelectedFavorite}
+          onToggleFavorite={selected ? () => toggleFavoriteSymbol(selected) : undefined}
+        />
       </section>
     </main>
   );

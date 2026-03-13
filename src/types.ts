@@ -25,6 +25,21 @@ export interface SymbolFlags {
   sensitive?: boolean;
 }
 
+export type CuratedSetType = 'featured' | 'author-curated';
+
+export interface CuratedSet {
+  id: string;
+  type: CuratedSetType;
+  name: string;
+  description: string;
+  symbolIds: string[];
+}
+
+export interface CuratedSetsFile {
+  version: string;
+  sets: CuratedSet[];
+}
+
 export interface SymbolEntry {
   id: string;
   char: string;
@@ -42,6 +57,6 @@ export interface SymbolEntry {
 }
 
 export interface CategoryOption {
-  id: 'featured' | 'all' | SymbolCategory;
+  id: 'featured' | 'all' | SymbolCategory | `curated:${string}`;
   label: string;
 }

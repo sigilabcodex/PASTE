@@ -145,7 +145,10 @@
       "interrobang",
       "question exclamation"
     ],
-    "primaryCategory": "punctuation"
+    "primaryCategory": "punctuation",
+    "curatedSets": [
+      "based-codex-v1"
+    ]
   },
   {
     "id": "middle-dot",
@@ -163,7 +166,10 @@
       "dot operator",
       "bullet"
     ],
-    "primaryCategory": "punctuation"
+    "primaryCategory": "punctuation",
+    "curatedSets": [
+      "based-codex-v1"
+    ]
   },
   {
     "id": "section-sign",
@@ -180,7 +186,10 @@
       "section",
       "legal"
     ],
-    "primaryCategory": "punctuation"
+    "primaryCategory": "punctuation",
+    "curatedSets": [
+      "based-codex-v1"
+    ]
   },
   {
     "id": "pilcrow",
@@ -197,7 +206,10 @@
       "paragraph",
       "pilcrow"
     ],
-    "primaryCategory": "punctuation"
+    "primaryCategory": "punctuation",
+    "curatedSets": [
+      "based-codex-v1"
+    ]
   },
   {
     "id": "inverted-question",
@@ -336,7 +348,8 @@
     ],
     "primaryCategory": "quotation-marks",
     "curatedSets": [
-      "author-signal-pack"
+      "author-signal-pack",
+      "based-codex-v1"
     ]
   },
   {
@@ -356,7 +369,8 @@
     ],
     "primaryCategory": "quotation-marks",
     "curatedSets": [
-      "author-signal-pack"
+      "author-signal-pack",
+      "based-codex-v1"
     ]
   },
   {
@@ -408,7 +422,10 @@
       "arrow"
     ],
     "featured": true,
-    "primaryCategory": "arrows"
+    "primaryCategory": "arrows",
+    "curatedSets": [
+      "based-codex-v1"
+    ]
   },
   {
     "id": "up-arrow",
@@ -425,7 +442,10 @@
       "up",
       "arrow"
     ],
-    "primaryCategory": "arrows"
+    "primaryCategory": "arrows",
+    "curatedSets": [
+      "based-codex-v1"
+    ]
   },
   {
     "id": "right-arrow",
@@ -444,7 +464,10 @@
       "arrow"
     ],
     "featured": true,
-    "primaryCategory": "arrows"
+    "primaryCategory": "arrows",
+    "curatedSets": [
+      "based-codex-v1"
+    ]
   },
   {
     "id": "down-arrow",
@@ -461,7 +484,10 @@
       "down",
       "arrow"
     ],
-    "primaryCategory": "arrows"
+    "primaryCategory": "arrows",
+    "curatedSets": [
+      "based-codex-v1"
+    ]
   },
   {
     "id": "left-right-arrow",
@@ -479,7 +505,10 @@
       "swap",
       "arrow"
     ],
-    "primaryCategory": "arrows"
+    "primaryCategory": "arrows",
+    "curatedSets": [
+      "based-codex-v1"
+    ]
   },
   {
     "id": "up-down-arrow",
@@ -530,7 +559,10 @@
       "diagonal",
       "ne arrow"
     ],
-    "primaryCategory": "arrows"
+    "primaryCategory": "arrows",
+    "curatedSets": [
+      "based-codex-v1"
+    ]
   },
   {
     "id": "southeast-arrow",
@@ -547,7 +579,10 @@
       "diagonal",
       "se arrow"
     ],
-    "primaryCategory": "arrows"
+    "primaryCategory": "arrows",
+    "curatedSets": [
+      "based-codex-v1"
+    ]
   },
   {
     "id": "southwest-arrow",
@@ -703,7 +738,10 @@
       "not equal",
       "inequality"
     ],
-    "primaryCategory": "math-symbols"
+    "primaryCategory": "math-symbols",
+    "curatedSets": [
+      "based-codex-v1"
+    ]
   },
   {
     "id": "approx",
@@ -720,7 +758,10 @@
       "approximately",
       "approx"
     ],
-    "primaryCategory": "math-symbols"
+    "primaryCategory": "math-symbols",
+    "curatedSets": [
+      "based-codex-v1"
+    ]
   },
   {
     "id": "plus-minus",
@@ -754,7 +795,10 @@
       "unbounded"
     ],
     "featured": true,
-    "primaryCategory": "math-symbols"
+    "primaryCategory": "math-symbols",
+    "curatedSets": [
+      "based-codex-v1"
+    ]
   },
   {
     "id": "integral",
@@ -770,7 +814,10 @@
     "searchKeywords": [
       "integral"
     ],
-    "primaryCategory": "math-symbols"
+    "primaryCategory": "math-symbols",
+    "curatedSets": [
+      "based-codex-v1"
+    ]
   },
   {
     "id": "summation",
@@ -788,7 +835,10 @@
       "sigma",
       "summation"
     ],
-    "primaryCategory": "math-symbols"
+    "primaryCategory": "math-symbols",
+    "curatedSets": [
+      "based-codex-v1"
+    ]
   },
   {
     "id": "product",
@@ -1102,7 +1152,10 @@
       "done"
     ],
     "featured": true,
-    "primaryCategory": "check-marks"
+    "primaryCategory": "check-marks",
+    "curatedSets": [
+      "based-codex-v1"
+    ]
   },
   {
     "id": "check-box",
@@ -1206,7 +1259,10 @@
       "error"
     ],
     "featured": true,
-    "primaryCategory": "crosses"
+    "primaryCategory": "crosses",
+    "curatedSets": [
+      "based-codex-v1"
+    ]
   },
   {
     "id": "cross-mark-button",
@@ -1326,7 +1382,10 @@
       "shine"
     ],
     "featured": true,
-    "primaryCategory": "stars"
+    "primaryCategory": "stars",
+    "curatedSets": [
+      "based-codex-v1"
+    ]
   },
   {
     "id": "eight-pointed-star",
@@ -1821,7 +1880,10 @@
       "power"
     ],
     "featured": true,
-    "primaryCategory": "technical-computing"
+    "primaryCategory": "technical-computing",
+    "curatedSets": [
+      "based-codex-v1"
+    ]
   },
   {
     "id": "eject-symbol",
@@ -2145,7 +2207,10 @@
     "searchKeywords": [
       "wink"
     ],
-    "primaryCategory": "emoji-smileys"
+    "primaryCategory": "emoji-smileys",
+    "curatedSets": [
+      "based-codex-v1"
+    ]
   },
   {
     "id": "smiling-heart-eyes",
@@ -2179,7 +2244,10 @@
       "hmm",
       "thinking"
     ],
-    "primaryCategory": "emoji-smileys"
+    "primaryCategory": "emoji-smileys",
+    "curatedSets": [
+      "based-codex-v1"
+    ]
   },
   {
     "id": "party-popper",
@@ -2638,7 +2706,10 @@
       "sensitive": true
     },
     "primaryCategory": "political-ideological",
-    "contextualNote": "Peace and anti-war symbol used across movements."
+    "contextualNote": "Peace and anti-war symbol used across movements.",
+    "curatedSets": [
+      "based-codex-v1"
+    ]
   },
   {
     "id": "anarchy-symbol",
@@ -2664,7 +2735,8 @@
     "primaryCategory": "political-ideological",
     "contextualNote": "Commonly used as an anarchy symbol in political contexts.",
     "curatedSets": [
-      "author-signal-pack"
+      "author-signal-pack",
+      "based-codex-v1"
     ]
   },
   {
@@ -2985,7 +3057,10 @@
       "sensitive": true
     },
     "primaryCategory": "religious-spiritual",
-    "contextualNote": "Taoist philosophical and spiritual symbol."
+    "contextualNote": "Taoist philosophical and spiritual symbol.",
+    "curatedSets": [
+      "based-codex-v1"
+    ]
   },
   {
     "id": "menorah",
@@ -3074,7 +3149,8 @@
       "wave dash"
     ],
     "curatedSets": [
-      "author-signal-pack"
+      "author-signal-pack",
+      "based-codex-v1"
     ]
   },
   {
@@ -3096,7 +3172,8 @@
       "spanish n"
     ],
     "curatedSets": [
-      "author-signal-pack"
+      "author-signal-pack",
+      "based-codex-v1"
     ]
   },
   {
@@ -3118,7 +3195,8 @@
       "triangle"
     ],
     "curatedSets": [
-      "author-signal-pack"
+      "author-signal-pack",
+      "based-codex-v1"
     ]
   },
   {
@@ -3140,7 +3218,8 @@
       "open source"
     ],
     "curatedSets": [
-      "author-signal-pack"
+      "author-signal-pack",
+      "based-codex-v1"
     ]
   },
   {
@@ -3162,7 +3241,8 @@
       "elder futhark"
     ],
     "curatedSets": [
-      "author-signal-pack"
+      "author-signal-pack",
+      "based-codex-v1"
     ]
   },
   {
@@ -3184,7 +3264,8 @@
       "elder futhark"
     ],
     "curatedSets": [
-      "author-signal-pack"
+      "author-signal-pack",
+      "based-codex-v1"
     ]
   },
   {
@@ -3207,7 +3288,8 @@
       "elder futhark"
     ],
     "curatedSets": [
-      "author-signal-pack"
+      "author-signal-pack",
+      "based-codex-v1"
     ]
   },
   {
@@ -3248,7 +3330,8 @@
       "studio"
     ],
     "curatedSets": [
-      "author-signal-pack"
+      "author-signal-pack",
+      "based-codex-v1"
     ]
   },
   {
@@ -3267,6 +3350,9 @@
     "searchKeywords": [
       "headphones",
       "monitoring"
+    ],
+    "curatedSets": [
+      "based-codex-v1"
     ]
   },
   {
@@ -3288,7 +3374,8 @@
       "fm"
     ],
     "curatedSets": [
-      "author-signal-pack"
+      "author-signal-pack",
+      "based-codex-v1"
     ]
   },
   {
@@ -3332,7 +3419,8 @@
       "dish"
     ],
     "curatedSets": [
-      "author-signal-pack"
+      "author-signal-pack",
+      "based-codex-v1"
     ]
   },
   {
@@ -3355,7 +3443,8 @@
       "knobs"
     ],
     "curatedSets": [
-      "author-signal-pack"
+      "author-signal-pack",
+      "based-codex-v1"
     ]
   },
   {
@@ -3377,7 +3466,8 @@
       "synth"
     ],
     "curatedSets": [
-      "author-signal-pack"
+      "author-signal-pack",
+      "based-codex-v1"
     ]
   },
   {
@@ -3398,6 +3488,9 @@
       "slider",
       "fader",
       "level"
+    ],
+    "curatedSets": [
+      "based-codex-v1"
     ]
   },
   {
@@ -3486,7 +3579,8 @@
       "media control"
     ],
     "curatedSets": [
-      "author-signal-pack"
+      "author-signal-pack",
+      "based-codex-v1"
     ]
   },
   {
@@ -3753,6 +3847,9 @@
     "searchKeywords": [
       "therefore",
       "proof symbol"
+    ],
+    "curatedSets": [
+      "based-codex-v1"
     ]
   },
   {
@@ -3770,6 +3867,9 @@
     "searchKeywords": [
       "because",
       "proof symbol"
+    ],
+    "curatedSets": [
+      "based-codex-v1"
     ]
   },
   {

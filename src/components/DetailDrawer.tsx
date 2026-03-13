@@ -4,6 +4,8 @@ import type { SymbolEntry } from '../types';
 interface DetailDrawerProps {
   selected?: SymbolEntry;
   copiedId?: string;
+  isFavorite?: boolean;
+  onToggleFavorite?: () => void;
 }
 
 const categoryLabel: Record<NonNullable<SymbolEntry['primaryCategory']>, string> = {
@@ -30,7 +32,7 @@ const categoryLabel: Record<NonNullable<SymbolEntry['primaryCategory']>, string>
   'religious-spiritual': 'Religious / Spiritual'
 };
 
-export function DetailDrawer({ selected, copiedId }: DetailDrawerProps) {
+export function DetailDrawer({ selected, copiedId, isFavorite = false, onToggleFavorite }: DetailDrawerProps) {
   const statusText = useMemo(() => {
     if (!selected) return 'Select any symbol to preview details and copy instantly.';
     return copiedId === selected.id ? 'Copied ✓' : 'Tap or click a card to copy.';
@@ -48,6 +50,11 @@ export function DetailDrawer({ selected, copiedId }: DetailDrawerProps) {
           <div className="detail-panel__body">
             <div className="detail-panel__char">{selected.char}</div>
             <h2>{selected.name}</h2>
+            {onToggleFavorite ? (
+              <button className="favorite-toggle" type="button" onClick={onToggleFavorite}>
+                {isFavorite ? '★ Remove from favorites' : '☆ Add to favorites'}
+              </button>
+            ) : null}
             <dl>
               <dt>Codepoint(s)</dt>
               <dd>{selected.codepoints.join(' ')}</dd>
