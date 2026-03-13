@@ -1,5 +1,6 @@
 import { useMemo, useState } from 'react';
 import symbolsData from './data/symbols.json';
+import featuredData from './data/featured.v1.json';
 import { CategoryFilters } from './components/CategoryFilters';
 import { DetailDrawer } from './components/DetailDrawer';
 import { SearchBar } from './components/SearchBar';
@@ -10,6 +11,7 @@ import type { CategoryOption, SymbolEntry } from './types';
 import { copyText } from './utils/clipboard';
 
 const symbols = symbolsData as SymbolEntry[];
+const featuredIds = new Set((featuredData as { featuredIds: string[] }).featuredIds);
 const RECENT_STORAGE_KEY = 'unicode-map:recent-symbols';
 const RECENT_LIMIT = 24;
 
@@ -47,13 +49,15 @@ function normalize(value: string): string {
 
 function matches(entry: SymbolEntry, query: string): boolean {
   if (!query) return true;
+  const category = entry.primaryCategory ?? entry.category;
   const haystack = [
     entry.char,
     entry.name,
     entry.codepoints.join(' '),
-    entry.category,
+    category,
     entry.searchKeywords.join(' '),
     entry.tags.join(' '),
+    entry.contextualNote ?? '',
     entry.note ?? ''
   ]
     .join(' ')
@@ -94,7 +98,10 @@ export default function App() {
 
   const query = normalize(search);
 
-  const featured = useMemo(() => symbols.filter((item) => item.featured).slice(0, 16), []);
+  const featured = useMemo(
+    () => symbols.filter((item) => featuredIds.has(item.id) || item.featured).slice(0, 24),
+    []
+  );
 
   const recent = useMemo(
     () =>
@@ -110,7 +117,7 @@ export default function App() {
         ? featured
         : selectedCategory === 'all'
           ? symbols
-          : symbols.filter((entry) => entry.category === selectedCategory);
+          : symbols.filter((entry) => (entry.primaryCategory ?? entry.category) === selectedCategory);
 
     return byCategory.filter((entry) => matches(entry, query));
   }, [featured, query, selectedCategory]);
