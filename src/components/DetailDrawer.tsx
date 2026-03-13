@@ -7,19 +7,27 @@ interface DetailDrawerProps {
 }
 
 const categoryLabel: Record<SymbolEntry['category'], string> = {
-  'emoji-smileys': 'Smileys',
-  'emoji-gestures': 'Gestures',
-  'emoji-animals': 'Animals',
-  'emoji-food': 'Food',
-  'emoji-travel': 'Travel',
-  'symbols-math': 'Math',
-  'symbols-currency': 'Currency',
-  'symbols-arrows': 'Arrows',
-  'symbols-technical': 'Technical',
+  punctuation: 'Punctuation',
+  'quotation-marks': 'Quotation Marks',
+  arrows: 'Arrows',
+  'math-symbols': 'Math Symbols',
+  currency: 'Currency',
+  'check-marks': 'Check Marks',
+  crosses: 'Crosses',
+  stars: 'Stars',
+  'geometric-shapes': 'Geometric Shapes',
+  'box-drawing': 'Box Drawing',
+  'technical-computing': 'Technical / Computing',
+  'whitespace-invisible': 'Whitespace / Invisible',
+  'emoji-smileys': 'Emoji: Smileys',
+  'emoji-people': 'Emoji: People',
+  'emoji-nature': 'Emoji: Nature',
+  'emoji-food': 'Emoji: Food',
+  'emoji-travel': 'Emoji: Travel',
+  'emoji-objects': 'Emoji: Objects',
   flags: 'Flags',
   'political-ideological': 'Political / Ideological',
-  'religious-spiritual': 'Religious / Spiritual',
-  misc: 'Misc'
+  'religious-spiritual': 'Religious / Spiritual'
 };
 
 export function DetailDrawer({ selected, copiedId }: DetailDrawerProps) {
@@ -39,20 +47,20 @@ export function DetailDrawer({ selected, copiedId }: DetailDrawerProps) {
             <div className="detail-panel__char">{selected.char}</div>
             <h2>{selected.name}</h2>
             <dl>
-              <dt>Unicode</dt>
-              <dd>{selected.unicode}</dd>
+              <dt>Codepoint(s)</dt>
+              <dd>{selected.codepoints.join(' ')}</dd>
               <dt>Category</dt>
               <dd>{categoryLabel[selected.category]}</dd>
-              {selected.tags?.length ? (
+              {!!selected.tags.length && (
                 <>
                   <dt>Tags</dt>
                   <dd>{selected.tags.join(', ')}</dd>
                 </>
-              ) : null}
-              {selected.contextNote ? (
+              )}
+              {selected.note ? (
                 <>
-                  <dt>Context</dt>
-                  <dd>{selected.contextNote}</dd>
+                  <dt>Note</dt>
+                  <dd>{selected.note}</dd>
                 </>
               ) : null}
             </dl>
