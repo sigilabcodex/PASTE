@@ -4,6 +4,8 @@ import type { SymbolEntry } from '../types';
 interface DetailDrawerProps {
   selected?: SymbolEntry;
   copiedId?: string;
+  favoriteIds: Set<string>;
+  onToggleFavorite: (entry: SymbolEntry) => void;
 }
 
 const categoryLabel: Record<NonNullable<SymbolEntry['primaryCategory']>, string> = {
@@ -30,7 +32,7 @@ const categoryLabel: Record<NonNullable<SymbolEntry['primaryCategory']>, string>
   'religious-spiritual': 'Religious / Spiritual'
 };
 
-export function DetailDrawer({ selected, copiedId }: DetailDrawerProps) {
+export function DetailDrawer({ selected, copiedId, favoriteIds, onToggleFavorite }: DetailDrawerProps) {
   const statusText = useMemo(() => {
     if (!selected) return 'Select any symbol to preview details and copy instantly.';
     return copiedId === selected.id ? 'Copied ✓' : 'Tap or click a card to copy.';
@@ -46,7 +48,18 @@ export function DetailDrawer({ selected, copiedId }: DetailDrawerProps) {
           <p>{statusText}</p>
         ) : (
           <div className="detail-panel__body">
-            <div className="detail-panel__char">{selected.char}</div>
+            <div className="detail-panel__header">
+              <div className="detail-panel__char">{selected.char}</div>
+              <button
+                className={`favorite-toggle ${favoriteIds.has(selected.id) ? 'favorite-toggle--active' : ''}`}
+                onClick={() => onToggleFavorite(selected)}
+                aria-label={favoriteIds.has(selected.id) ? 'Remove from favorites' : 'Add to favorites'}
+                aria-pressed={favoriteIds.has(selected.id)}
+                title={favoriteIds.has(selected.id) ? 'Remove from favorites' : 'Add to favorites'}
+              >
+                ★
+              </button>
+            </div>
             <h2>{selected.name}</h2>
             <dl>
               <dt>Codepoint(s)</dt>
@@ -59,13 +72,51 @@ export function DetailDrawer({ selected, copiedId }: DetailDrawerProps) {
                   <dd>{selected.tags.join(', ')}</dd>
                 </>
               )}
-              {selected.contextualNote || selected.note ? (
+              {selected.knowledge?.description ? (
                 <>
-                  <dt>Note</dt>
-                  <dd>{selected.contextualNote ?? selected.note}</dd>
+                  <dt>Description</dt>
+                  <dd>{selected.knowledge.description}</dd>
+                </>
+              ) : null}
+              {selected.knowledge?.history ? (
+                <>
+                  <dt>History</dt>
+                  <dd>{selected.knowledge.history}</dd>
+                </>
+              ) : null}
+              {selected.knowledge?.culturalContext || selected.contextualNote || selected.note ? (
+                <>
+                  <dt>Context</dt>
+                  <dd>{selected.knowledge?.culturalContext ?? selected.contextualNote ?? selected.note}</dd>
+                </>
+              ) : null}
+              {selected.knowledge?.notes ? (
+                <>
+                  <dt>Notes</dt>
+                  <dd>{selected.knowledge.notes}</dd>
+                </>
+              ) : null}
+              {selected.knowledge?.sourceLabels?.length ? (
+                <>
+                  <dt>Sources</dt>
+                  <dd>{selected.knowledge.sourceLabels.join(', ')}</dd>
                 </>
               ) : null}
             </dl>
+            {selected.knowledge?.externalLinks?.length ? (
+              <div className="detail-links">
+                <p className="detail-links__label">Read more</p>
+                <ul>
+                  {selected.knowledge.externalLinks.map((link) => (
+                    <li key={link.url}>
+                      <a href={link.url} target="_blank" rel="noreferrer">
+                        {link.label}
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ) : null}
             <p className="copy-status">{statusText}</p>
           </div>
         )}
