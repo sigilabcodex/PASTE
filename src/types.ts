@@ -39,6 +39,6 @@ export interface SymbolEntry {
 }
 
 export interface CategoryOption {
-  id: 'all' | SymbolCategory;
+  id: 'featured' | 'all' | SymbolCategory;
   label: string;
 }
