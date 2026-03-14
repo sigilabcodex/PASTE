@@ -167,7 +167,10 @@
       "interrobang",
       "question exclamation"
     ],
-    "primaryCategory": "punctuation"
+    "primaryCategory": "punctuation",
+    "curatedSets": [
+      "based-codex-pack"
+    ]
   },
   {
     "id": "middle-dot",
@@ -185,7 +188,10 @@
       "dot operator",
       "bullet"
     ],
-    "primaryCategory": "punctuation"
+    "primaryCategory": "punctuation",
+    "curatedSets": [
+      "based-codex-pack"
+    ]
   },
   {
     "id": "section-sign",
@@ -202,7 +208,10 @@
       "section",
       "legal"
     ],
-    "primaryCategory": "punctuation"
+    "primaryCategory": "punctuation",
+    "curatedSets": [
+      "based-codex-pack"
+    ]
   },
   {
     "id": "pilcrow",
@@ -219,7 +228,10 @@
       "paragraph",
       "pilcrow"
     ],
-    "primaryCategory": "punctuation"
+    "primaryCategory": "punctuation",
+    "curatedSets": [
+      "based-codex-pack"
+    ]
   },
   {
     "id": "inverted-question",
@@ -358,7 +370,8 @@
     ],
     "primaryCategory": "quotation-marks",
     "curatedSets": [
-      "author-signal-pack"
+      "author-signal-pack",
+      "based-codex-pack"
     ]
   },
   {
@@ -378,7 +391,8 @@
     ],
     "primaryCategory": "quotation-marks",
     "curatedSets": [
-      "author-signal-pack"
+      "author-signal-pack",
+      "based-codex-pack"
     ]
   },
   {
@@ -395,7 +409,10 @@
     "searchKeywords": [
       "single guillemet left"
     ],
-    "primaryCategory": "quotation-marks"
+    "primaryCategory": "quotation-marks",
+    "curatedSets": [
+      "based-codex-pack"
+    ]
   },
   {
     "id": "single-guillemet-right",
@@ -411,7 +428,10 @@
     "searchKeywords": [
       "single guillemet right"
     ],
-    "primaryCategory": "quotation-marks"
+    "primaryCategory": "quotation-marks",
+    "curatedSets": [
+      "based-codex-pack"
+    ]
   },
   {
     "id": "left-arrow",
@@ -746,7 +766,10 @@
       "not equal",
       "inequality"
     ],
-    "primaryCategory": "math-symbols"
+    "primaryCategory": "math-symbols",
+    "curatedSets": [
+      "based-codex-pack"
+    ]
   },
   {
     "id": "approx",
@@ -763,7 +786,10 @@
       "approximately",
       "approx"
     ],
-    "primaryCategory": "math-symbols"
+    "primaryCategory": "math-symbols",
+    "curatedSets": [
+      "based-codex-pack"
+    ]
   },
   {
     "id": "plus-minus",
@@ -797,7 +823,10 @@
       "unbounded"
     ],
     "featured": true,
-    "primaryCategory": "math-symbols"
+    "primaryCategory": "math-symbols",
+    "curatedSets": [
+      "based-codex-pack"
+    ]
   },
   {
     "id": "integral",
@@ -1798,10 +1827,7 @@
       "cmd"
     ],
     "featured": true,
-    "primaryCategory": "technical-computing",
-    "curatedSets": [
-      "based-codex-pack"
-    ]
+    "primaryCategory": "technical-computing"
   },
   {
     "id": "option-key",
@@ -1819,10 +1845,7 @@
       "option key",
       "alt"
     ],
-    "primaryCategory": "technical-computing",
-    "curatedSets": [
-      "based-codex-pack"
-    ]
+    "primaryCategory": "technical-computing"
   },
   {
     "id": "shift-key",
@@ -1838,10 +1861,7 @@
     "searchKeywords": [
       "shift key"
     ],
-    "primaryCategory": "technical-computing",
-    "curatedSets": [
-      "based-codex-pack"
-    ]
+    "primaryCategory": "technical-computing"
   },
   {
     "id": "enter-key",
@@ -1859,10 +1879,7 @@
       "return"
     ],
     "featured": true,
-    "primaryCategory": "technical-computing",
-    "curatedSets": [
-      "based-codex-pack"
-    ]
+    "primaryCategory": "technical-computing"
   },
   {
     "id": "escape-key",
@@ -1879,10 +1896,7 @@
       "escape key",
       "esc"
     ],
-    "primaryCategory": "technical-computing",
-    "curatedSets": [
-      "based-codex-pack"
-    ]
+    "primaryCategory": "technical-computing"
   },
   {
     "id": "power-symbol",
@@ -1900,10 +1914,7 @@
       "power"
     ],
     "featured": true,
-    "primaryCategory": "technical-computing",
-    "curatedSets": [
-      "based-codex-pack"
-    ]
+    "primaryCategory": "technical-computing"
   },
   {
     "id": "eject-symbol",
@@ -1919,10 +1930,7 @@
     "searchKeywords": [
       "eject"
     ],
-    "primaryCategory": "technical-computing",
-    "curatedSets": [
-      "based-codex-pack"
-    ]
+    "primaryCategory": "technical-computing"
   },
   {
     "id": "gear",
@@ -1940,10 +1948,7 @@
       "preferences"
     ],
     "featured": true,
-    "primaryCategory": "technical-computing",
-    "curatedSets": [
-      "based-codex-pack"
-    ]
+    "primaryCategory": "technical-computing"
   },
   {
     "id": "keyboard",
@@ -1959,10 +1964,7 @@
     "searchKeywords": [
       "keyboard device"
     ],
-    "primaryCategory": "technical-computing",
-    "curatedSets": [
-      "based-codex-pack"
-    ]
+    "primaryCategory": "technical-computing"
   },
   {
     "id": "desktop-computer",
@@ -1979,10 +1981,7 @@
       "pc",
       "computer"
     ],
-    "primaryCategory": "technical-computing",
-    "curatedSets": [
-      "based-codex-pack"
-    ]
+    "primaryCategory": "technical-computing"
   },
   {
     "id": "floppy-disk",
@@ -2016,10 +2015,7 @@
       "hyperlink",
       "url"
     ],
-    "primaryCategory": "technical-computing",
-    "curatedSets": [
-      "based-codex-pack"
-    ]
+    "primaryCategory": "technical-computing"
   },
   {
     "id": "space",
@@ -2333,7 +2329,10 @@
       "hot"
     ],
     "featured": true,
-    "primaryCategory": "emoji-objects"
+    "primaryCategory": "emoji-objects",
+    "curatedSets": [
+      "based-codex-pack"
+    ]
   },
   {
     "id": "rocket",
@@ -2351,7 +2350,10 @@
       "space"
     ],
     "featured": true,
-    "primaryCategory": "emoji-travel"
+    "primaryCategory": "emoji-travel",
+    "curatedSets": [
+      "based-codex-pack"
+    ]
   },
   {
     "id": "thumbs-up",
@@ -2568,7 +2570,10 @@
       "coffee",
       "tea"
     ],
-    "primaryCategory": "emoji-food"
+    "primaryCategory": "emoji-food",
+    "curatedSets": [
+      "based-codex-pack"
+    ]
   },
   {
     "id": "flag-us",
@@ -2805,7 +2810,10 @@
           "sourceType": "wikidata"
         }
       ]
-    }
+    },
+    "curatedSets": [
+      "based-codex-pack"
+    ]
   },
   {
     "id": "anarchy-symbol",
@@ -2831,7 +2839,8 @@
     "primaryCategory": "political-ideological",
     "contextualNote": "Commonly used as an anarchy symbol in political contexts.",
     "curatedSets": [
-      "author-signal-pack"
+      "author-signal-pack",
+      "based-codex-pack"
     ]
   },
   {
@@ -3173,7 +3182,10 @@
       "sensitive": true
     },
     "primaryCategory": "religious-spiritual",
-    "contextualNote": "Taoist philosophical and spiritual symbol."
+    "contextualNote": "Taoist philosophical and spiritual symbol.",
+    "curatedSets": [
+      "based-codex-pack"
+    ]
   },
   {
     "id": "menorah",
@@ -3262,7 +3274,8 @@
       "wave dash"
     ],
     "curatedSets": [
-      "author-signal-pack"
+      "author-signal-pack",
+      "based-codex-pack"
     ]
   },
   {
@@ -3284,7 +3297,8 @@
       "spanish n"
     ],
     "curatedSets": [
-      "author-signal-pack"
+      "author-signal-pack",
+      "based-codex-pack"
     ]
   },
   {
@@ -3306,7 +3320,8 @@
       "triangle"
     ],
     "curatedSets": [
-      "author-signal-pack"
+      "author-signal-pack",
+      "based-codex-pack"
     ]
   },
   {
@@ -3328,8 +3343,7 @@
       "open source"
     ],
     "curatedSets": [
-      "author-signal-pack",
-      "based-codex-pack"
+      "author-signal-pack"
     ]
   },
   {
@@ -3351,7 +3365,8 @@
       "elder futhark"
     ],
     "curatedSets": [
-      "author-signal-pack"
+      "author-signal-pack",
+      "based-codex-pack"
     ],
     "knowledge": {
       "description": "Runic letter Dagaz (ᛞ), associated with the Elder Futhark script.",
@@ -3395,7 +3410,8 @@
       "elder futhark"
     ],
     "curatedSets": [
-      "author-signal-pack"
+      "author-signal-pack",
+      "based-codex-pack"
     ]
   },
   {
@@ -3418,7 +3434,8 @@
       "elder futhark"
     ],
     "curatedSets": [
-      "author-signal-pack"
+      "author-signal-pack",
+      "based-codex-pack"
     ]
   },
   {
@@ -3478,6 +3495,9 @@
     "searchKeywords": [
       "headphones",
       "monitoring"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
     ]
   },
   {
@@ -3499,7 +3519,8 @@
       "fm"
     ],
     "curatedSets": [
-      "author-signal-pack"
+      "author-signal-pack",
+      "based-codex-pack"
     ]
   },
   {
@@ -3543,7 +3564,8 @@
       "dish"
     ],
     "curatedSets": [
-      "author-signal-pack"
+      "author-signal-pack",
+      "based-codex-pack"
     ]
   },
   {
@@ -3566,7 +3588,8 @@
       "knobs"
     ],
     "curatedSets": [
-      "author-signal-pack"
+      "author-signal-pack",
+      "based-codex-pack"
     ]
   },
   {
@@ -3609,6 +3632,9 @@
       "slider",
       "fader",
       "level"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
     ]
   },
   {
@@ -3631,8 +3657,7 @@
       "media control"
     ],
     "curatedSets": [
-      "author-signal-pack",
-      "based-codex-pack"
+      "author-signal-pack"
     ]
   },
   {
@@ -3655,8 +3680,7 @@
       "media control"
     ],
     "curatedSets": [
-      "author-signal-pack",
-      "based-codex-pack"
+      "author-signal-pack"
     ]
   },
   {
@@ -3699,8 +3723,7 @@
       "media control"
     ],
     "curatedSets": [
-      "author-signal-pack",
-      "based-codex-pack"
+      "author-signal-pack"
     ]
   },
   {
@@ -3775,9 +3798,6 @@
     "searchKeywords": [
       "triangle",
       "play icon"
-    ],
-    "curatedSets": [
-      "based-codex-pack"
     ]
   },
   {
@@ -3796,9 +3816,6 @@
     "searchKeywords": [
       "triangle outline",
       "play icon"
-    ],
-    "curatedSets": [
-      "based-codex-pack"
     ]
   },
   {
@@ -3973,6 +3990,9 @@
     "searchKeywords": [
       "therefore",
       "proof symbol"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
     ]
   },
   {
@@ -4248,6 +4268,1705 @@
     "searchKeywords": [
       "box drawing",
       "bottom right corner"
+    ]
+  },
+  {
+    "id": "u-1f409",
+    "char": "🐉",
+    "name": "Symbol U+1F409",
+    "codepoints": [
+      "U+1F409"
+    ],
+    "primaryCategory": "emoji-nature",
+    "category": "emoji-nature",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "🐉",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f9d9-200d-2642-fe0f",
+    "char": "🧙‍♂️",
+    "name": "Symbol U+1F9D9 U+200D U+2642 U+FE0F",
+    "codepoints": [
+      "U+1F9D9",
+      "U+200D",
+      "U+2642",
+      "U+FE0F"
+    ],
+    "primaryCategory": "emoji-people",
+    "category": "emoji-people",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "🧙‍♂️",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f441",
+    "char": "👁",
+    "name": "Symbol U+1F441",
+    "codepoints": [
+      "U+1F441"
+    ],
+    "primaryCategory": "emoji-objects",
+    "category": "emoji-objects",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "👁",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f16f",
+    "char": "🅯",
+    "name": "Symbol U+1F16F",
+    "codepoints": [
+      "U+1F16F"
+    ],
+    "primaryCategory": "emoji-objects",
+    "category": "emoji-objects",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "🅯",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1d302",
+    "char": "𝌂",
+    "name": "Symbol U+1D302",
+    "codepoints": [
+      "U+1D302"
+    ],
+    "primaryCategory": "math-symbols",
+    "category": "math-symbols",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "𝌂",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-2637",
+    "char": "☷",
+    "name": "Symbol U+2637",
+    "codepoints": [
+      "U+2637"
+    ],
+    "primaryCategory": "emoji-objects",
+    "category": "emoji-objects",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "☷",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1fab4",
+    "char": "🪴",
+    "name": "Symbol U+1FAB4",
+    "codepoints": [
+      "U+1FAB4"
+    ],
+    "primaryCategory": "emoji-nature",
+    "category": "emoji-nature",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "🪴",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1fa90",
+    "char": "🪐",
+    "name": "Symbol U+1FA90",
+    "codepoints": [
+      "U+1FA90"
+    ],
+    "primaryCategory": "emoji-nature",
+    "category": "emoji-nature",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "🪐",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f6f0-fe0f",
+    "char": "🛰️",
+    "name": "Symbol U+1F6F0 U+FE0F",
+    "codepoints": [
+      "U+1F6F0",
+      "U+FE0F"
+    ],
+    "primaryCategory": "emoji-travel",
+    "category": "emoji-travel",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "🛰️",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f913",
+    "char": "🤓",
+    "name": "Symbol U+1F913",
+    "codepoints": [
+      "U+1F913"
+    ],
+    "primaryCategory": "emoji-people",
+    "category": "emoji-people",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "🤓",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-210f",
+    "char": "ℏ",
+    "name": "Symbol U+210F",
+    "codepoints": [
+      "U+210F"
+    ],
+    "primaryCategory": "math-symbols",
+    "category": "math-symbols",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "ℏ",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1d6ab",
+    "char": "𝚫",
+    "name": "Symbol U+1D6AB",
+    "codepoints": [
+      "U+1D6AB"
+    ],
+    "primaryCategory": "math-symbols",
+    "category": "math-symbols",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "𝚫",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f47e",
+    "char": "👾",
+    "name": "Symbol U+1F47E",
+    "codepoints": [
+      "U+1F47E"
+    ],
+    "primaryCategory": "emoji-objects",
+    "category": "emoji-objects",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "👾",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f926-200d-2642-fe0f",
+    "char": "🤦‍♂️",
+    "name": "Symbol U+1F926 U+200D U+2642 U+FE0F",
+    "codepoints": [
+      "U+1F926",
+      "U+200D",
+      "U+2642",
+      "U+FE0F"
+    ],
+    "primaryCategory": "emoji-people",
+    "category": "emoji-people",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "🤦‍♂️",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f343",
+    "char": "🍃",
+    "name": "Symbol U+1F343",
+    "codepoints": [
+      "U+1F343"
+    ],
+    "primaryCategory": "emoji-nature",
+    "category": "emoji-nature",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "🍃",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f605",
+    "char": "😅",
+    "name": "Symbol U+1F605",
+    "codepoints": [
+      "U+1F605"
+    ],
+    "primaryCategory": "emoji-smileys",
+    "category": "emoji-smileys",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "😅",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1fae0",
+    "char": "🫠",
+    "name": "Symbol U+1FAE0",
+    "codepoints": [
+      "U+1FAE0"
+    ],
+    "primaryCategory": "emoji-smileys",
+    "category": "emoji-smileys",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "🫠",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f972",
+    "char": "🥲",
+    "name": "Symbol U+1F972",
+    "codepoints": [
+      "U+1F972"
+    ],
+    "primaryCategory": "emoji-smileys",
+    "category": "emoji-smileys",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "🥲",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f636-200d-1f32b-fe0f",
+    "char": "😶‍🌫️",
+    "name": "Symbol U+1F636 U+200D U+1F32B U+FE0F",
+    "codepoints": [
+      "U+1F636",
+      "U+200D",
+      "U+1F32B",
+      "U+FE0F"
+    ],
+    "primaryCategory": "emoji-smileys",
+    "category": "emoji-smileys",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "😶‍🌫️",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f982",
+    "char": "🦂",
+    "name": "Symbol U+1F982",
+    "codepoints": [
+      "U+1F982"
+    ],
+    "primaryCategory": "emoji-nature",
+    "category": "emoji-nature",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "🦂",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-264f",
+    "char": "♏",
+    "name": "Symbol U+264F",
+    "codepoints": [
+      "U+264F"
+    ],
+    "primaryCategory": "emoji-objects",
+    "category": "emoji-objects",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "♏",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f920",
+    "char": "🤠",
+    "name": "Symbol U+1F920",
+    "codepoints": [
+      "U+1F920"
+    ],
+    "primaryCategory": "emoji-people",
+    "category": "emoji-people",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "🤠",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f996",
+    "char": "🦖",
+    "name": "Symbol U+1F996",
+    "codepoints": [
+      "U+1F996"
+    ],
+    "primaryCategory": "emoji-nature",
+    "category": "emoji-nature",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "🦖",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f480",
+    "char": "💀",
+    "name": "Symbol U+1F480",
+    "codepoints": [
+      "U+1F480"
+    ],
+    "primaryCategory": "emoji-nature",
+    "category": "emoji-nature",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "💀",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f47d",
+    "char": "👽",
+    "name": "Symbol U+1F47D",
+    "codepoints": [
+      "U+1F47D"
+    ],
+    "primaryCategory": "emoji-nature",
+    "category": "emoji-nature",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "👽",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f987",
+    "char": "🦇",
+    "name": "Symbol U+1F987",
+    "codepoints": [
+      "U+1F987"
+    ],
+    "primaryCategory": "emoji-nature",
+    "category": "emoji-nature",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "🦇",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f41c",
+    "char": "🐜",
+    "name": "Symbol U+1F41C",
+    "codepoints": [
+      "U+1F41C"
+    ],
+    "primaryCategory": "emoji-nature",
+    "category": "emoji-nature",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "🐜",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f956",
+    "char": "🥖",
+    "name": "Symbol U+1F956",
+    "codepoints": [
+      "U+1F956"
+    ],
+    "primaryCategory": "emoji-food",
+    "category": "emoji-food",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "🥖",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f426-200d-2b1b",
+    "char": "🐦‍⬛",
+    "name": "Symbol U+1F426 U+200D U+2B1B",
+    "codepoints": [
+      "U+1F426",
+      "U+200D",
+      "U+2B1B"
+    ],
+    "primaryCategory": "emoji-nature",
+    "category": "emoji-nature",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "🐦‍⬛",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f988",
+    "char": "🦈",
+    "name": "Symbol U+1F988",
+    "codepoints": [
+      "U+1F988"
+    ],
+    "primaryCategory": "emoji-nature",
+    "category": "emoji-nature",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "🦈",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f331",
+    "char": "🌱",
+    "name": "Symbol U+1F331",
+    "codepoints": [
+      "U+1F331"
+    ],
+    "primaryCategory": "emoji-nature",
+    "category": "emoji-nature",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "🌱",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f419",
+    "char": "🐙",
+    "name": "Symbol U+1F419",
+    "codepoints": [
+      "U+1F419"
+    ],
+    "primaryCategory": "emoji-nature",
+    "category": "emoji-nature",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "🐙",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f9a0",
+    "char": "🦠",
+    "name": "Symbol U+1F9A0",
+    "codepoints": [
+      "U+1F9A0"
+    ],
+    "primaryCategory": "emoji-nature",
+    "category": "emoji-nature",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "🦠",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f33e",
+    "char": "🌾",
+    "name": "Symbol U+1F33E",
+    "codepoints": [
+      "U+1F33E"
+    ],
+    "primaryCategory": "emoji-nature",
+    "category": "emoji-nature",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "🌾",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f335",
+    "char": "🌵",
+    "name": "Symbol U+1F335",
+    "codepoints": [
+      "U+1F335"
+    ],
+    "primaryCategory": "emoji-nature",
+    "category": "emoji-nature",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "🌵",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f37a",
+    "char": "🍺",
+    "name": "Symbol U+1F37A",
+    "codepoints": [
+      "U+1F37A"
+    ],
+    "primaryCategory": "emoji-food",
+    "category": "emoji-food",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "🍺",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f52a",
+    "char": "🔪",
+    "name": "Symbol U+1F52A",
+    "codepoints": [
+      "U+1F52A"
+    ],
+    "primaryCategory": "emoji-objects",
+    "category": "emoji-objects",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "🔪",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f31d",
+    "char": "🌝",
+    "name": "Symbol U+1F31D",
+    "codepoints": [
+      "U+1F31D"
+    ],
+    "primaryCategory": "emoji-nature",
+    "category": "emoji-nature",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "🌝",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f31e",
+    "char": "🌞",
+    "name": "Symbol U+1F31E",
+    "codepoints": [
+      "U+1F31E"
+    ],
+    "primaryCategory": "emoji-nature",
+    "category": "emoji-nature",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "🌞",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f32b-fe0f",
+    "char": "🌫️",
+    "name": "Symbol U+1F32B U+FE0F",
+    "codepoints": [
+      "U+1F32B",
+      "U+FE0F"
+    ],
+    "primaryCategory": "emoji-nature",
+    "category": "emoji-nature",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "🌫️",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f30c",
+    "char": "🌌",
+    "name": "Symbol U+1F30C",
+    "codepoints": [
+      "U+1F30C"
+    ],
+    "primaryCategory": "emoji-nature",
+    "category": "emoji-nature",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "🌌",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f3b2",
+    "char": "🎲",
+    "name": "Symbol U+1F3B2",
+    "codepoints": [
+      "U+1F3B2"
+    ],
+    "primaryCategory": "emoji-objects",
+    "category": "emoji-objects",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "🎲",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f451",
+    "char": "👑",
+    "name": "Symbol U+1F451",
+    "codepoints": [
+      "U+1F451"
+    ],
+    "primaryCategory": "emoji-objects",
+    "category": "emoji-objects",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "👑",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f1f2-1f1fd",
+    "char": "🇲🇽",
+    "name": "Symbol U+1F1F2 U+1F1FD",
+    "codepoints": [
+      "U+1F1F2",
+      "U+1F1FD"
+    ],
+    "primaryCategory": "flags",
+    "category": "flags",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "🇲🇽",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1fa88",
+    "char": "🪈",
+    "name": "Symbol U+1FA88",
+    "codepoints": [
+      "U+1FA88"
+    ],
+    "primaryCategory": "emoji-objects",
+    "category": "emoji-objects",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "🪈",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f4fa",
+    "char": "📺",
+    "name": "Symbol U+1F4FA",
+    "codepoints": [
+      "U+1F4FA"
+    ],
+    "primaryCategory": "emoji-objects",
+    "category": "emoji-objects",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "📺",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f4a1",
+    "char": "💡",
+    "name": "Symbol U+1F4A1",
+    "codepoints": [
+      "U+1F4A1"
+    ],
+    "primaryCategory": "emoji-objects",
+    "category": "emoji-objects",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "💡",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f579-fe0f",
+    "char": "🕹️",
+    "name": "Symbol U+1F579 U+FE0F",
+    "codepoints": [
+      "U+1F579",
+      "U+FE0F"
+    ],
+    "primaryCategory": "emoji-objects",
+    "category": "emoji-objects",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "🕹️",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f9e0",
+    "char": "🧠",
+    "name": "Symbol U+1F9E0",
+    "codepoints": [
+      "U+1F9E0"
+    ],
+    "primaryCategory": "emoji-objects",
+    "category": "emoji-objects",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "🧠",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f441-fe0f",
+    "char": "👁️",
+    "name": "Symbol U+1F441 U+FE0F",
+    "codepoints": [
+      "U+1F441",
+      "U+FE0F"
+    ],
+    "primaryCategory": "emoji-objects",
+    "category": "emoji-objects",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "👁️",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-26a1",
+    "char": "⚡",
+    "name": "Symbol U+26A1",
+    "codepoints": [
+      "U+26A1"
+    ],
+    "primaryCategory": "emoji-objects",
+    "category": "emoji-objects",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "⚡",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f310",
+    "char": "🌐",
+    "name": "Symbol U+1F310",
+    "codepoints": [
+      "U+1F310"
+    ],
+    "primaryCategory": "emoji-objects",
+    "category": "emoji-objects",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "🌐",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f6f8",
+    "char": "🛸",
+    "name": "Symbol U+1F6F8",
+    "codepoints": [
+      "U+1F6F8"
+    ],
+    "primaryCategory": "emoji-nature",
+    "category": "emoji-nature",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "🛸",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f50d",
+    "char": "🔍",
+    "name": "Symbol U+1F50D",
+    "codepoints": [
+      "U+1F50D"
+    ],
+    "primaryCategory": "emoji-objects",
+    "category": "emoji-objects",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "🔍",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-2642-fe0f",
+    "char": "♂️",
+    "name": "Symbol U+2642 U+FE0F",
+    "codepoints": [
+      "U+2642",
+      "U+FE0F"
+    ],
+    "primaryCategory": "emoji-objects",
+    "category": "emoji-objects",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "♂️",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f4d3",
+    "char": "📓",
+    "name": "Symbol U+1F4D3",
+    "codepoints": [
+      "U+1F4D3"
+    ],
+    "primaryCategory": "emoji-objects",
+    "category": "emoji-objects",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "📓",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f4b8",
+    "char": "💸",
+    "name": "Symbol U+1F4B8",
+    "codepoints": [
+      "U+1F4B8"
+    ],
+    "primaryCategory": "emoji-objects",
+    "category": "emoji-objects",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "💸",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f52c",
+    "char": "🔬",
+    "name": "Symbol U+1F52C",
+    "codepoints": [
+      "U+1F52C"
+    ],
+    "primaryCategory": "emoji-objects",
+    "category": "emoji-objects",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "🔬",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f52d",
+    "char": "🔭",
+    "name": "Symbol U+1F52D",
+    "codepoints": [
+      "U+1F52D"
+    ],
+    "primaryCategory": "emoji-objects",
+    "category": "emoji-objects",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "🔭",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1fa7b",
+    "char": "🩻",
+    "name": "Symbol U+1FA7B",
+    "codepoints": [
+      "U+1FA7B"
+    ],
+    "primaryCategory": "emoji-objects",
+    "category": "emoji-objects",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "🩻",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1fa9e",
+    "char": "🪞",
+    "name": "Symbol U+1FA9E",
+    "codepoints": [
+      "U+1FA9E"
+    ],
+    "primaryCategory": "emoji-objects",
+    "category": "emoji-objects",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "🪞",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-271d-fe0f",
+    "char": "✝️",
+    "name": "Symbol U+271D U+FE0F",
+    "codepoints": [
+      "U+271D",
+      "U+FE0F"
+    ],
+    "primaryCategory": "emoji-objects",
+    "category": "emoji-objects",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "✝️",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-267e-fe0f",
+    "char": "♾️",
+    "name": "Symbol U+267E U+FE0F",
+    "codepoints": [
+      "U+267E",
+      "U+FE0F"
+    ],
+    "primaryCategory": "emoji-objects",
+    "category": "emoji-objects",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "♾️",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-2994",
+    "char": "⦔",
+    "name": "Symbol U+2994",
+    "codepoints": [
+      "U+2994"
+    ],
+    "primaryCategory": "math-symbols",
+    "category": "math-symbols",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "⦔",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-2e19",
+    "char": "⸙",
+    "name": "Symbol U+2E19",
+    "codepoints": [
+      "U+2E19"
+    ],
+    "primaryCategory": "math-symbols",
+    "category": "math-symbols",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "⸙",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-115cb",
+    "char": "𑗋",
+    "name": "Symbol U+115CB",
+    "codepoints": [
+      "U+115CB"
+    ],
+    "primaryCategory": "math-symbols",
+    "category": "math-symbols",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "𑗋",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-27f3",
+    "char": "⟳",
+    "name": "Symbol U+27F3",
+    "codepoints": [
+      "U+27F3"
+    ],
+    "primaryCategory": "math-symbols",
+    "category": "math-symbols",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "⟳",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-2941",
+    "char": "⥁",
+    "name": "Symbol U+2941",
+    "codepoints": [
+      "U+2941"
+    ],
+    "primaryCategory": "math-symbols",
+    "category": "math-symbols",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "⥁",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-2704",
+    "char": "✄",
+    "name": "Symbol U+2704",
+    "codepoints": [
+      "U+2704"
+    ],
+    "primaryCategory": "emoji-objects",
+    "category": "emoji-objects",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "✄",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-2735",
+    "char": "✵",
+    "name": "Symbol U+2735",
+    "codepoints": [
+      "U+2735"
+    ],
+    "primaryCategory": "math-symbols",
+    "category": "math-symbols",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "✵",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f4fe",
+    "char": "📾",
+    "name": "Symbol U+1F4FE",
+    "codepoints": [
+      "U+1F4FE"
+    ],
+    "primaryCategory": "emoji-objects",
+    "category": "emoji-objects",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "📾",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-1f5a7",
+    "char": "🖧",
+    "name": "Symbol U+1F5A7",
+    "codepoints": [
+      "U+1F5A7"
+    ],
+    "primaryCategory": "emoji-objects",
+    "category": "emoji-objects",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "🖧",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-229e",
+    "char": "⊞",
+    "name": "Symbol U+229E",
+    "codepoints": [
+      "U+229E"
+    ],
+    "primaryCategory": "math-symbols",
+    "category": "math-symbols",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "⊞",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-f0",
+    "char": "ð",
+    "name": "Symbol U+00F0",
+    "codepoints": [
+      "U+00F0"
+    ],
+    "primaryCategory": "math-symbols",
+    "category": "math-symbols",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "ð",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-e6",
+    "char": "æ",
+    "name": "Symbol U+00E6",
+    "codepoints": [
+      "U+00E6"
+    ],
+    "primaryCategory": "math-symbols",
+    "category": "math-symbols",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "æ",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-f1",
+    "char": "ñ",
+    "name": "Symbol U+00F1",
+    "codepoints": [
+      "U+00F1"
+    ],
+    "primaryCategory": "math-symbols",
+    "category": "math-symbols",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "ñ",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-ac",
+    "char": "¬",
+    "name": "Symbol U+00AC",
+    "codepoints": [
+      "U+00AC"
+    ],
+    "primaryCategory": "math-symbols",
+    "category": "math-symbols",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "¬",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-2022",
+    "char": "•",
+    "name": "Symbol U+2022",
+    "codepoints": [
+      "U+2022"
+    ],
+    "primaryCategory": "math-symbols",
+    "category": "math-symbols",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "•",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-2020",
+    "char": "†",
+    "name": "Symbol U+2020",
+    "codepoints": [
+      "U+2020"
+    ],
+    "primaryCategory": "math-symbols",
+    "category": "math-symbols",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "†",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-2021",
+    "char": "‡",
+    "name": "Symbol U+2021",
+    "codepoints": [
+      "U+2021"
+    ],
+    "primaryCategory": "math-symbols",
+    "category": "math-symbols",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "‡",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-b0",
+    "char": "°",
+    "name": "Symbol U+00B0",
+    "codepoints": [
+      "U+00B0"
+    ],
+    "primaryCategory": "math-symbols",
+    "category": "math-symbols",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "°",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-2030",
+    "char": "‰",
+    "name": "Symbol U+2030",
+    "codepoints": [
+      "U+2030"
+    ],
+    "primaryCategory": "math-symbols",
+    "category": "math-symbols",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "‰",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-2295",
+    "char": "⊕",
+    "name": "Symbol U+2295",
+    "codepoints": [
+      "U+2295"
+    ],
+    "primaryCategory": "math-symbols",
+    "category": "math-symbols",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "⊕",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
+    ]
+  },
+  {
+    "id": "u-2202",
+    "char": "∂",
+    "name": "Symbol U+2202",
+    "codepoints": [
+      "U+2202"
+    ],
+    "primaryCategory": "math-symbols",
+    "category": "math-symbols",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "∂",
+      "based codex"
+    ],
+    "curatedSets": [
+      "based-codex-pack"
     ]
   }
 ]
