@@ -1084,14 +1084,22 @@
     ],
     "category": "currency",
     "tags": [
-      "money",
-      "crypto"
+      "crypto",
+      "finance",
+      "money"
     ],
     "searchKeywords": [
+      "bitcoin",
       "btc",
-      "bitcoin"
+      "crypto",
+      "finance",
+      "money"
     ],
-    "primaryCategory": "currency"
+    "primaryCategory": "currency",
+    "aliases": [
+      "btc",
+      "bitcoin currency"
+    ]
   },
   {
     "id": "cent",
@@ -1327,13 +1335,22 @@
     ],
     "category": "crosses",
     "tags": [
+      "christian",
+      "religion",
       "shape"
     ],
     "searchKeywords": [
+      "christian",
+      "church",
+      "cross",
       "cross shape",
       "dagger cross"
     ],
-    "primaryCategory": "crosses"
+    "primaryCategory": "crosses",
+    "aliases": [
+      "christian cross",
+      "western cross"
+    ]
   },
   {
     "id": "black-star",
@@ -3004,13 +3021,18 @@
     ],
     "category": "religious-spiritual",
     "tags": [
+      "christian",
       "contextual",
+      "religion",
       "religious"
     ],
     "searchKeywords": [
+      "christian",
+      "church",
+      "cross",
+      "latin cross",
       "religion",
-      "spiritual",
-      "latin cross"
+      "spiritual"
     ],
     "note": "Christian symbol used in liturgy and identity.",
     "flags": {
@@ -3038,7 +3060,10 @@
           "sourceType": "wikidata"
         }
       ]
-    }
+    },
+    "aliases": [
+      "christian cross emoji"
+    ]
   },
   {
     "id": "star-and-crescent",
@@ -3312,16 +3337,25 @@
     "primaryCategory": "math-symbols",
     "tags": [
       "greek",
-      "math"
+      "math",
+      "science"
     ],
     "searchKeywords": [
-      "delta",
       "change",
+      "delta",
+      "difference",
+      "greek",
+      "math",
+      "science",
       "triangle"
     ],
     "curatedSets": [
       "author-signal-pack",
       "based-codex-pack"
+    ],
+    "aliases": [
+      "delta",
+      "Δ"
     ]
   },
   {
@@ -3356,13 +3390,17 @@
     "category": "religious-spiritual",
     "primaryCategory": "religious-spiritual",
     "tags": [
-      "runic",
-      "historical-script"
+      "historical-script",
+      "norse",
+      "rune",
+      "runic"
     ],
     "searchKeywords": [
       "dagaz",
+      "elder futhark",
+      "norse",
       "rune",
-      "elder futhark"
+      "runic"
     ],
     "curatedSets": [
       "author-signal-pack",
@@ -3389,7 +3427,11 @@
           "sourceType": "wikidata"
         }
       ]
-    }
+    },
+    "aliases": [
+      "ᛞ",
+      "dagaz rune"
+    ]
   },
   {
     "id": "rune-wunjo",
@@ -3401,17 +3443,25 @@
     "category": "religious-spiritual",
     "primaryCategory": "religious-spiritual",
     "tags": [
-      "runic",
-      "historical-script"
+      "historical-script",
+      "norse",
+      "rune",
+      "runic"
     ],
     "searchKeywords": [
-      "wunjo",
+      "elder futhark",
+      "norse",
       "rune",
-      "elder futhark"
+      "runic",
+      "wunjo"
     ],
     "curatedSets": [
       "author-signal-pack",
       "based-codex-pack"
+    ],
+    "aliases": [
+      "ᚹ",
+      "wunjo rune"
     ]
   },
   {
@@ -3424,18 +3474,26 @@
     "category": "religious-spiritual",
     "primaryCategory": "religious-spiritual",
     "tags": [
-      "runic",
-      "historical-script"
+      "historical-script",
+      "norse",
+      "rune",
+      "runic"
     ],
     "searchKeywords": [
       "eihwaz",
+      "elder futhark",
       "iwaz",
+      "norse",
       "rune",
-      "elder futhark"
+      "runic"
     ],
     "curatedSets": [
       "author-signal-pack",
       "based-codex-pack"
+    ],
+    "aliases": [
+      "ᛇ",
+      "eihwaz rune"
     ]
   },
   {
@@ -4273,22 +4331,36 @@
   {
     "id": "u-1f409",
     "char": "🐉",
-    "name": "Symbol U+1F409",
+    "name": "Dragon",
     "codepoints": [
       "U+1F409"
     ],
     "primaryCategory": "emoji-nature",
     "category": "emoji-nature",
     "tags": [
-      "based-codex"
+      "based-codex",
+      "dragon",
+      "emoji-nature",
+      "mythical-creature"
     ],
     "searchKeywords": [
-      "🐉",
-      "based codex"
+      "based codex",
+      "creature",
+      "dragon",
+      "fantasy",
+      "mythical",
+      "🐉"
     ],
     "curatedSets": [
       "based-codex-pack"
-    ]
+    ],
+    "aliases": [
+      "dragon emoji",
+      "mythical dragon"
+    ],
+    "knowledge": {
+      "description": "Dragon emoji for fantasy, power, or mythic themes."
+    }
   },
   {
     "id": "u-1f9d9-200d-2642-fe0f",
@@ -4436,7 +4508,7 @@
   {
     "id": "u-1f6f0-fe0f",
     "char": "🛰️",
-    "name": "Symbol U+1F6F0 U+FE0F",
+    "name": "Satellite",
     "codepoints": [
       "U+1F6F0",
       "U+FE0F"
@@ -4444,15 +4516,30 @@
     "primaryCategory": "emoji-travel",
     "category": "emoji-travel",
     "tags": [
-      "based-codex"
+      "based-codex",
+      "communication",
+      "satellite",
+      "space"
     ],
     "searchKeywords": [
-      "🛰️",
-      "based codex"
+      "based codex",
+      "communications",
+      "orbital",
+      "radio",
+      "satellite",
+      "space",
+      "🛰️"
     ],
     "curatedSets": [
       "based-codex-pack"
-    ]
+    ],
+    "aliases": [
+      "satellite antenna",
+      "space satellite"
+    ],
+    "knowledge": {
+      "description": "Satellite symbol often used for space or communication topics."
+    }
   },
   {
     "id": "u-1f913",
@@ -4560,22 +4647,36 @@
   {
     "id": "u-1f343",
     "char": "🍃",
-    "name": "Symbol U+1F343",
+    "name": "Leaf Fluttering in Wind",
     "codepoints": [
       "U+1F343"
     ],
     "primaryCategory": "emoji-nature",
     "category": "emoji-nature",
     "tags": [
-      "based-codex"
+      "based-codex",
+      "leaf",
+      "nature",
+      "plant"
     ],
     "searchKeywords": [
-      "🍃",
-      "based codex"
+      "based codex",
+      "botany",
+      "green",
+      "leaf",
+      "plant",
+      "🍃"
     ],
     "curatedSets": [
       "based-codex-pack"
-    ]
+    ],
+    "aliases": [
+      "leaf",
+      "plant leaf"
+    ],
+    "knowledge": {
+      "description": "Leaf emoji used for plants, growth, and nature."
+    }
   },
   {
     "id": "u-1f605",
@@ -4743,22 +4844,36 @@
   {
     "id": "u-1f480",
     "char": "💀",
-    "name": "Symbol U+1F480",
+    "name": "Skull",
     "codepoints": [
       "U+1F480"
     ],
     "primaryCategory": "emoji-nature",
     "category": "emoji-nature",
     "tags": [
-      "based-codex"
+      "based-codex",
+      "death",
+      "skull",
+      "spooky"
     ],
     "searchKeywords": [
-      "💀",
-      "based codex"
+      "based codex",
+      "danger",
+      "death",
+      "skull",
+      "spooky",
+      "💀"
     ],
     "curatedSets": [
       "based-codex-pack"
-    ]
+    ],
+    "aliases": [
+      "skull emoji",
+      "death skull"
+    ],
+    "knowledge": {
+      "description": "Skull emoji often used for danger, dark humor, or spooky themes."
+    }
   },
   {
     "id": "u-1f47d",
@@ -4885,22 +5000,36 @@
   {
     "id": "u-1f331",
     "char": "🌱",
-    "name": "Symbol U+1F331",
+    "name": "Seedling",
     "codepoints": [
       "U+1F331"
     ],
     "primaryCategory": "emoji-nature",
     "category": "emoji-nature",
     "tags": [
-      "based-codex"
+      "based-codex",
+      "growth",
+      "nature",
+      "plant"
     ],
     "searchKeywords": [
-      "🌱",
-      "based codex"
+      "based codex",
+      "botany",
+      "plant",
+      "seedling",
+      "sprout",
+      "🌱"
     ],
     "curatedSets": [
       "based-codex-pack"
-    ]
+    ],
+    "aliases": [
+      "sprout",
+      "young plant"
+    ],
+    "knowledge": {
+      "description": "Seedling emoji representing growth, gardening, or new beginnings."
+    }
   },
   {
     "id": "u-1f419",
@@ -4945,22 +5074,36 @@
   {
     "id": "u-1f33e",
     "char": "🌾",
-    "name": "Symbol U+1F33E",
+    "name": "Sheaf of Rice",
     "codepoints": [
       "U+1F33E"
     ],
     "primaryCategory": "emoji-nature",
     "category": "emoji-nature",
     "tags": [
-      "based-codex"
+      "agriculture",
+      "based-codex",
+      "grain",
+      "plant"
     ],
     "searchKeywords": [
-      "🌾",
-      "based codex"
+      "based codex",
+      "crop",
+      "farm",
+      "plant",
+      "rice",
+      "🌾"
     ],
     "curatedSets": [
       "based-codex-pack"
-    ]
+    ],
+    "aliases": [
+      "rice plant",
+      "grain"
+    ],
+    "knowledge": {
+      "description": "Sheaf of rice emoji for agriculture, harvest, and crops."
+    }
   },
   {
     "id": "u-1f335",
@@ -5410,62 +5553,103 @@
   {
     "id": "u-1f4b8",
     "char": "💸",
-    "name": "Symbol U+1F4B8",
+    "name": "Money with Wings",
     "codepoints": [
       "U+1F4B8"
     ],
     "primaryCategory": "emoji-objects",
     "category": "emoji-objects",
     "tags": [
-      "based-codex"
+      "based-codex",
+      "finance",
+      "money"
     ],
     "searchKeywords": [
-      "💸",
-      "based codex"
+      "based codex",
+      "cash",
+      "expense",
+      "finance",
+      "money",
+      "💸"
     ],
     "curatedSets": [
       "based-codex-pack"
-    ]
+    ],
+    "aliases": [
+      "flying money",
+      "cash loss"
+    ],
+    "knowledge": {
+      "description": "Money with wings emoji used for spending or financial loss."
+    }
   },
   {
     "id": "u-1f52c",
     "char": "🔬",
-    "name": "Symbol U+1F52C",
+    "name": "Microscope",
     "codepoints": [
       "U+1F52C"
     ],
     "primaryCategory": "emoji-objects",
     "category": "emoji-objects",
     "tags": [
-      "based-codex"
+      "based-codex",
+      "lab",
+      "research",
+      "science"
     ],
     "searchKeywords": [
-      "🔬",
-      "based codex"
+      "based codex",
+      "biology",
+      "laboratory",
+      "microscope",
+      "science",
+      "🔬"
     ],
     "curatedSets": [
       "based-codex-pack"
-    ]
+    ],
+    "aliases": [
+      "lab microscope",
+      "science tool"
+    ],
+    "knowledge": {
+      "description": "Microscope emoji representing science, research, and lab work."
+    }
   },
   {
     "id": "u-1f52d",
     "char": "🔭",
-    "name": "Symbol U+1F52D",
+    "name": "Telescope",
     "codepoints": [
       "U+1F52D"
     ],
     "primaryCategory": "emoji-objects",
     "category": "emoji-objects",
     "tags": [
-      "based-codex"
+      "astronomy",
+      "based-codex",
+      "science",
+      "space"
     ],
     "searchKeywords": [
-      "🔭",
-      "based codex"
+      "astronomy",
+      "based codex",
+      "science",
+      "space",
+      "telescope",
+      "🔭"
     ],
     "curatedSets": [
       "based-codex-pack"
-    ]
+    ],
+    "aliases": [
+      "astronomy telescope",
+      "stargazing"
+    ],
+    "knowledge": {
+      "description": "Telescope emoji used for astronomy, observation, and discovery."
+    }
   },
   {
     "id": "u-1fa7b",
@@ -5510,7 +5694,7 @@
   {
     "id": "u-271d-fe0f",
     "char": "✝️",
-    "name": "Symbol U+271D U+FE0F",
+    "name": "Latin Cross",
     "codepoints": [
       "U+271D",
       "U+FE0F"
@@ -5518,20 +5702,34 @@
     "primaryCategory": "emoji-objects",
     "category": "emoji-objects",
     "tags": [
-      "based-codex"
+      "based-codex",
+      "christian",
+      "cross",
+      "religion"
     ],
     "searchKeywords": [
-      "✝️",
-      "based codex"
+      "based codex",
+      "christian",
+      "church",
+      "cross",
+      "faith",
+      "✝️"
     ],
     "curatedSets": [
       "based-codex-pack"
-    ]
+    ],
+    "aliases": [
+      "christian cross",
+      "cross emoji"
+    ],
+    "knowledge": {
+      "description": "Latin cross emoji commonly used in Christian contexts."
+    }
   },
   {
     "id": "u-267e-fe0f",
     "char": "♾️",
-    "name": "Symbol U+267E U+FE0F",
+    "name": "Infinity",
     "codepoints": [
       "U+267E",
       "U+FE0F"
@@ -5539,15 +5737,29 @@
     "primaryCategory": "emoji-objects",
     "category": "emoji-objects",
     "tags": [
-      "based-codex"
+      "based-codex",
+      "infinity",
+      "math",
+      "symbol"
     ],
     "searchKeywords": [
-      "♾️",
-      "based codex"
+      "based codex",
+      "continuous",
+      "endless",
+      "infinity",
+      "math",
+      "♾️"
     ],
     "curatedSets": [
       "based-codex-pack"
-    ]
+    ],
+    "aliases": [
+      "infinity symbol",
+      "lemniscate"
+    ],
+    "knowledge": {
+      "description": "Infinity symbol used in mathematics and to indicate something endless."
+    }
   },
   {
     "id": "u-2994",
@@ -5692,42 +5904,70 @@
   {
     "id": "u-1f4fe",
     "char": "📾",
-    "name": "Symbol U+1F4FE",
+    "name": "Portable Stereo",
     "codepoints": [
       "U+1F4FE"
     ],
     "primaryCategory": "emoji-objects",
     "category": "emoji-objects",
     "tags": [
-      "based-codex"
+      "audio",
+      "based-codex",
+      "music",
+      "radio"
     ],
     "searchKeywords": [
-      "📾",
-      "based codex"
+      "audio",
+      "based codex",
+      "boombox",
+      "radio",
+      "stereo",
+      "📾"
     ],
     "curatedSets": [
       "based-codex-pack"
-    ]
+    ],
+    "aliases": [
+      "radio cassette",
+      "boombox"
+    ],
+    "knowledge": {
+      "description": "Portable stereo emoji used for radio, music, and audio gear."
+    }
   },
   {
     "id": "u-1f5a7",
     "char": "🖧",
-    "name": "Symbol U+1F5A7",
+    "name": "Network Symbol",
     "codepoints": [
       "U+1F5A7"
     ],
     "primaryCategory": "emoji-objects",
     "category": "emoji-objects",
     "tags": [
-      "based-codex"
+      "based-codex",
+      "communication",
+      "network",
+      "technical"
     ],
     "searchKeywords": [
-      "🖧",
-      "based codex"
+      "based codex",
+      "communication",
+      "internet",
+      "network",
+      "technical",
+      "🖧"
     ],
     "curatedSets": [
       "based-codex-pack"
-    ]
+    ],
+    "aliases": [
+      "network",
+      "computer network"
+    ],
+    "knowledge": {
+      "description": "Network symbol used for connectivity and technical communication."
+    }
   },
   {
     "id": "u-229e",
