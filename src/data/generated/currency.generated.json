@@ -1,0 +1,1363 @@
+[
+  {
+    "id": "dollar",
+    "char": "$",
+    "name": "DOLLAR SIGN",
+    "codepoints": [
+      "U+0024"
+    ],
+    "category": "currency",
+    "primaryCategory": "currency",
+    "tags": [
+      "money"
+    ],
+    "searchKeywords": [
+      "usd",
+      "dollar",
+      "currency"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-currency-core"
+    ],
+    "knowledge": {
+      "description": "Currency sign associated with multiple currencies, including USD and several peso-denominated systems.",
+      "history": "Commonly linked to historical abbreviations for peso and real in colonial accounting records.",
+      "culturalContext": "Interpretation depends on locale; ISO currency codes are preferred in multilingual interfaces.",
+      "sourceLabels": [
+        "Unicode",
+        "DBpedia"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode Currency Symbols block",
+          "url": "https://www.unicode.org/charts/PDF/U20A0.pdf",
+          "sourceType": "unicode"
+        },
+        {
+          "label": "DBpedia: Dollar sign",
+          "url": "https://dbpedia.org/page/Dollar_sign",
+          "sourceType": "dbpedia"
+        }
+      ]
+    },
+    "featured": true
+  },
+  {
+    "id": "cent",
+    "char": "¢",
+    "name": "CENT SIGN",
+    "codepoints": [
+      "U+00A2"
+    ],
+    "category": "currency",
+    "primaryCategory": "currency",
+    "tags": [
+      "money"
+    ],
+    "searchKeywords": [
+      "cent"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-currency-core"
+    ],
+    "knowledge": {
+      "description": "Unicode currency character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "pound",
+    "char": "£",
+    "name": "POUND SIGN",
+    "codepoints": [
+      "U+00A3"
+    ],
+    "category": "currency",
+    "primaryCategory": "currency",
+    "tags": [
+      "money"
+    ],
+    "searchKeywords": [
+      "gbp",
+      "pound sterling"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-currency-core"
+    ],
+    "knowledge": {
+      "description": "Unicode currency character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    },
+    "featured": true
+  },
+  {
+    "id": "currency-sign",
+    "char": "¤",
+    "name": "CURRENCY SIGN",
+    "codepoints": [
+      "U+00A4"
+    ],
+    "category": "currency",
+    "primaryCategory": "currency",
+    "tags": [
+      "money"
+    ],
+    "searchKeywords": [
+      "generic currency"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-currency-core"
+    ],
+    "knowledge": {
+      "description": "Unicode currency character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "yen",
+    "char": "¥",
+    "name": "YEN SIGN",
+    "codepoints": [
+      "U+00A5"
+    ],
+    "category": "currency",
+    "primaryCategory": "currency",
+    "tags": [
+      "money"
+    ],
+    "searchKeywords": [
+      "jpy",
+      "yen",
+      "yuan"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-currency-core"
+    ],
+    "knowledge": {
+      "description": "Unicode currency character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    },
+    "featured": true
+  },
+  {
+    "id": "euro-currency-sign",
+    "char": "₠",
+    "name": "EURO-CURRENCY SIGN",
+    "codepoints": [
+      "U+20A0"
+    ],
+    "category": "currency",
+    "primaryCategory": "currency",
+    "tags": [
+      "currency",
+      "gc:sc"
+    ],
+    "searchKeywords": [
+      "currency",
+      "euro-currency sign",
+      "Sc"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-currency-core"
+    ],
+    "knowledge": {
+      "description": "Unicode currency character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "colon-sign",
+    "char": "₡",
+    "name": "COLON SIGN",
+    "codepoints": [
+      "U+20A1"
+    ],
+    "category": "currency",
+    "primaryCategory": "currency",
+    "tags": [
+      "currency",
+      "gc:sc"
+    ],
+    "searchKeywords": [
+      "currency",
+      "colon sign",
+      "Sc"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-currency-core"
+    ],
+    "knowledge": {
+      "description": "Unicode currency character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cruzeiro-sign",
+    "char": "₢",
+    "name": "CRUZEIRO SIGN",
+    "codepoints": [
+      "U+20A2"
+    ],
+    "category": "currency",
+    "primaryCategory": "currency",
+    "tags": [
+      "currency",
+      "gc:sc"
+    ],
+    "searchKeywords": [
+      "currency",
+      "cruzeiro sign",
+      "Sc"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-currency-core"
+    ],
+    "knowledge": {
+      "description": "Unicode currency character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "french-franc-sign",
+    "char": "₣",
+    "name": "FRENCH FRANC SIGN",
+    "codepoints": [
+      "U+20A3"
+    ],
+    "category": "currency",
+    "primaryCategory": "currency",
+    "tags": [
+      "currency",
+      "gc:sc"
+    ],
+    "searchKeywords": [
+      "currency",
+      "french franc sign",
+      "Sc"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-currency-core"
+    ],
+    "knowledge": {
+      "description": "Unicode currency character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lira-sign",
+    "char": "₤",
+    "name": "LIRA SIGN",
+    "codepoints": [
+      "U+20A4"
+    ],
+    "category": "currency",
+    "primaryCategory": "currency",
+    "tags": [
+      "currency",
+      "gc:sc"
+    ],
+    "searchKeywords": [
+      "currency",
+      "lira sign",
+      "Sc"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-currency-core"
+    ],
+    "knowledge": {
+      "description": "Unicode currency character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "mill-sign",
+    "char": "₥",
+    "name": "MILL SIGN",
+    "codepoints": [
+      "U+20A5"
+    ],
+    "category": "currency",
+    "primaryCategory": "currency",
+    "tags": [
+      "currency",
+      "gc:sc"
+    ],
+    "searchKeywords": [
+      "currency",
+      "mill sign",
+      "Sc"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-currency-core"
+    ],
+    "knowledge": {
+      "description": "Unicode currency character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "naira-sign",
+    "char": "₦",
+    "name": "NAIRA SIGN",
+    "codepoints": [
+      "U+20A6"
+    ],
+    "category": "currency",
+    "primaryCategory": "currency",
+    "tags": [
+      "currency",
+      "gc:sc"
+    ],
+    "searchKeywords": [
+      "currency",
+      "naira sign",
+      "Sc"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-currency-core"
+    ],
+    "knowledge": {
+      "description": "Unicode currency character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "peseta-sign",
+    "char": "₧",
+    "name": "PESETA SIGN",
+    "codepoints": [
+      "U+20A7"
+    ],
+    "category": "currency",
+    "primaryCategory": "currency",
+    "tags": [
+      "currency",
+      "gc:sc"
+    ],
+    "searchKeywords": [
+      "currency",
+      "peseta sign",
+      "Sc"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-currency-core"
+    ],
+    "knowledge": {
+      "description": "Unicode currency character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "rupee-sign",
+    "char": "₨",
+    "name": "RUPEE SIGN",
+    "codepoints": [
+      "U+20A8"
+    ],
+    "category": "currency",
+    "primaryCategory": "currency",
+    "tags": [
+      "currency",
+      "gc:sc"
+    ],
+    "searchKeywords": [
+      "currency",
+      "rupee sign",
+      "Sc"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-currency-core"
+    ],
+    "knowledge": {
+      "description": "Unicode currency character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "won-sign",
+    "char": "₩",
+    "name": "WON SIGN",
+    "codepoints": [
+      "U+20A9"
+    ],
+    "category": "currency",
+    "primaryCategory": "currency",
+    "tags": [
+      "fiat-currency"
+    ],
+    "searchKeywords": [
+      "won",
+      "krw"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-currency-core"
+    ],
+    "knowledge": {
+      "description": "Unicode currency character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "new-sheqel-sign",
+    "char": "₪",
+    "name": "NEW SHEQEL SIGN",
+    "codepoints": [
+      "U+20AA"
+    ],
+    "category": "currency",
+    "primaryCategory": "currency",
+    "tags": [
+      "currency",
+      "gc:sc"
+    ],
+    "searchKeywords": [
+      "currency",
+      "new sheqel sign",
+      "Sc"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-currency-core"
+    ],
+    "knowledge": {
+      "description": "Unicode currency character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dong-sign",
+    "char": "₫",
+    "name": "DONG SIGN",
+    "codepoints": [
+      "U+20AB"
+    ],
+    "category": "currency",
+    "primaryCategory": "currency",
+    "tags": [
+      "currency",
+      "gc:sc"
+    ],
+    "searchKeywords": [
+      "currency",
+      "dong sign",
+      "Sc"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-currency-core"
+    ],
+    "knowledge": {
+      "description": "Unicode currency character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "euro",
+    "char": "€",
+    "name": "EURO SIGN",
+    "codepoints": [
+      "U+20AC"
+    ],
+    "category": "currency",
+    "primaryCategory": "currency",
+    "tags": [
+      "money"
+    ],
+    "searchKeywords": [
+      "eur",
+      "euro",
+      "currency"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-currency-core"
+    ],
+    "knowledge": {
+      "description": "Unicode currency character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    },
+    "featured": true
+  },
+  {
+    "id": "kip-sign",
+    "char": "₭",
+    "name": "KIP SIGN",
+    "codepoints": [
+      "U+20AD"
+    ],
+    "category": "currency",
+    "primaryCategory": "currency",
+    "tags": [
+      "currency",
+      "gc:sc"
+    ],
+    "searchKeywords": [
+      "currency",
+      "kip sign",
+      "Sc"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-currency-core"
+    ],
+    "knowledge": {
+      "description": "Unicode currency character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tugrik-sign",
+    "char": "₮",
+    "name": "TUGRIK SIGN",
+    "codepoints": [
+      "U+20AE"
+    ],
+    "category": "currency",
+    "primaryCategory": "currency",
+    "tags": [
+      "currency",
+      "gc:sc"
+    ],
+    "searchKeywords": [
+      "currency",
+      "tugrik sign",
+      "Sc"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-currency-core"
+    ],
+    "knowledge": {
+      "description": "Unicode currency character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "drachma-sign",
+    "char": "₯",
+    "name": "DRACHMA SIGN",
+    "codepoints": [
+      "U+20AF"
+    ],
+    "category": "currency",
+    "primaryCategory": "currency",
+    "tags": [
+      "currency",
+      "gc:sc"
+    ],
+    "searchKeywords": [
+      "currency",
+      "drachma sign",
+      "Sc"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-currency-core"
+    ],
+    "knowledge": {
+      "description": "Unicode currency character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "german-penny-sign",
+    "char": "₰",
+    "name": "GERMAN PENNY SIGN",
+    "codepoints": [
+      "U+20B0"
+    ],
+    "category": "currency",
+    "primaryCategory": "currency",
+    "tags": [
+      "currency",
+      "gc:sc"
+    ],
+    "searchKeywords": [
+      "currency",
+      "german penny sign",
+      "Sc"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-currency-core"
+    ],
+    "knowledge": {
+      "description": "Unicode currency character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "peso-sign",
+    "char": "₱",
+    "name": "PESO SIGN",
+    "codepoints": [
+      "U+20B1"
+    ],
+    "category": "currency",
+    "primaryCategory": "currency",
+    "tags": [
+      "currency",
+      "gc:sc"
+    ],
+    "searchKeywords": [
+      "currency",
+      "peso sign",
+      "Sc"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-currency-core"
+    ],
+    "knowledge": {
+      "description": "Unicode currency character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "guarani-sign",
+    "char": "₲",
+    "name": "GUARANI SIGN",
+    "codepoints": [
+      "U+20B2"
+    ],
+    "category": "currency",
+    "primaryCategory": "currency",
+    "tags": [
+      "currency",
+      "gc:sc"
+    ],
+    "searchKeywords": [
+      "currency",
+      "guarani sign",
+      "Sc"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-currency-core"
+    ],
+    "knowledge": {
+      "description": "Unicode currency character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "austral-sign",
+    "char": "₳",
+    "name": "AUSTRAL SIGN",
+    "codepoints": [
+      "U+20B3"
+    ],
+    "category": "currency",
+    "primaryCategory": "currency",
+    "tags": [
+      "currency",
+      "gc:sc"
+    ],
+    "searchKeywords": [
+      "currency",
+      "austral sign",
+      "Sc"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-currency-core"
+    ],
+    "knowledge": {
+      "description": "Unicode currency character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hryvnia-sign",
+    "char": "₴",
+    "name": "HRYVNIA SIGN",
+    "codepoints": [
+      "U+20B4"
+    ],
+    "category": "currency",
+    "primaryCategory": "currency",
+    "tags": [
+      "currency",
+      "gc:sc"
+    ],
+    "searchKeywords": [
+      "currency",
+      "hryvnia sign",
+      "Sc"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-currency-core"
+    ],
+    "knowledge": {
+      "description": "Unicode currency character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cedi-sign",
+    "char": "₵",
+    "name": "CEDI SIGN",
+    "codepoints": [
+      "U+20B5"
+    ],
+    "category": "currency",
+    "primaryCategory": "currency",
+    "tags": [
+      "currency",
+      "gc:sc"
+    ],
+    "searchKeywords": [
+      "currency",
+      "cedi sign",
+      "Sc"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-currency-core"
+    ],
+    "knowledge": {
+      "description": "Unicode currency character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "livre-tournois-sign",
+    "char": "₶",
+    "name": "LIVRE TOURNOIS SIGN",
+    "codepoints": [
+      "U+20B6"
+    ],
+    "category": "currency",
+    "primaryCategory": "currency",
+    "tags": [
+      "currency",
+      "gc:sc"
+    ],
+    "searchKeywords": [
+      "currency",
+      "livre tournois sign",
+      "Sc"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-currency-core"
+    ],
+    "knowledge": {
+      "description": "Unicode currency character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "spesmilo-sign",
+    "char": "₷",
+    "name": "SPESMILO SIGN",
+    "codepoints": [
+      "U+20B7"
+    ],
+    "category": "currency",
+    "primaryCategory": "currency",
+    "tags": [
+      "currency",
+      "gc:sc"
+    ],
+    "searchKeywords": [
+      "currency",
+      "spesmilo sign",
+      "Sc"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-currency-core"
+    ],
+    "knowledge": {
+      "description": "Unicode currency character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tenge-sign",
+    "char": "₸",
+    "name": "TENGE SIGN",
+    "codepoints": [
+      "U+20B8"
+    ],
+    "category": "currency",
+    "primaryCategory": "currency",
+    "tags": [
+      "currency",
+      "gc:sc"
+    ],
+    "searchKeywords": [
+      "currency",
+      "tenge sign",
+      "Sc"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-currency-core"
+    ],
+    "knowledge": {
+      "description": "Unicode currency character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "indian-rupee-sign",
+    "char": "₹",
+    "name": "INDIAN RUPEE SIGN",
+    "codepoints": [
+      "U+20B9"
+    ],
+    "category": "currency",
+    "primaryCategory": "currency",
+    "tags": [
+      "fiat-currency"
+    ],
+    "searchKeywords": [
+      "rupee",
+      "inr"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-currency-core"
+    ],
+    "knowledge": {
+      "description": "Unicode currency character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "turkish-lira-sign",
+    "char": "₺",
+    "name": "TURKISH LIRA SIGN",
+    "codepoints": [
+      "U+20BA"
+    ],
+    "category": "currency",
+    "primaryCategory": "currency",
+    "tags": [
+      "currency",
+      "gc:sc"
+    ],
+    "searchKeywords": [
+      "currency",
+      "turkish lira sign",
+      "Sc"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-currency-core"
+    ],
+    "knowledge": {
+      "description": "Unicode currency character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "nordic-mark-sign",
+    "char": "₻",
+    "name": "NORDIC MARK SIGN",
+    "codepoints": [
+      "U+20BB"
+    ],
+    "category": "currency",
+    "primaryCategory": "currency",
+    "tags": [
+      "currency",
+      "gc:sc"
+    ],
+    "searchKeywords": [
+      "currency",
+      "nordic mark sign",
+      "Sc"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-currency-core"
+    ],
+    "knowledge": {
+      "description": "Unicode currency character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "manat-sign",
+    "char": "₼",
+    "name": "MANAT SIGN",
+    "codepoints": [
+      "U+20BC"
+    ],
+    "category": "currency",
+    "primaryCategory": "currency",
+    "tags": [
+      "currency",
+      "gc:sc"
+    ],
+    "searchKeywords": [
+      "currency",
+      "manat sign",
+      "Sc"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-currency-core"
+    ],
+    "knowledge": {
+      "description": "Unicode currency character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ruble-sign",
+    "char": "₽",
+    "name": "RUBLE SIGN",
+    "codepoints": [
+      "U+20BD"
+    ],
+    "category": "currency",
+    "primaryCategory": "currency",
+    "tags": [
+      "fiat-currency"
+    ],
+    "searchKeywords": [
+      "ruble",
+      "rub"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-currency-core"
+    ],
+    "knowledge": {
+      "description": "Unicode currency character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lari-sign",
+    "char": "₾",
+    "name": "LARI SIGN",
+    "codepoints": [
+      "U+20BE"
+    ],
+    "category": "currency",
+    "primaryCategory": "currency",
+    "tags": [
+      "currency",
+      "gc:sc"
+    ],
+    "searchKeywords": [
+      "currency",
+      "lari sign",
+      "Sc"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-currency-core"
+    ],
+    "knowledge": {
+      "description": "Unicode currency character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bitcoin-sign",
+    "char": "₿",
+    "name": "BITCOIN SIGN",
+    "codepoints": [
+      "U+20BF"
+    ],
+    "category": "currency",
+    "primaryCategory": "currency",
+    "tags": [
+      "digital-currency"
+    ],
+    "searchKeywords": [
+      "bitcoin",
+      "btc"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-currency-core"
+    ],
+    "knowledge": {
+      "description": "Unicode currency character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  }
+]

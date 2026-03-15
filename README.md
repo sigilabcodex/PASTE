@@ -49,7 +49,7 @@ Most symbol pickers are either hard to search, overloaded with decorative conten
 - No account system, cloud backup, or collaborative curation
 - English-first metadata
 - Favorites UX is planned but not implemented yet
-- No Unicode auto-ingestion pipeline yet (dataset is currently maintained in-repo)
+- Unicode ingestion pipeline available via `npm run generate:unicode` for expanded generated datasets
 
 ## Privacy principles
 
@@ -97,6 +97,17 @@ To preview the production build locally:
 ```bash
 npm run preview
 ```
+
+
+## Unicode ingestion
+
+Generate Unicode-backed dataset shards:
+
+```bash
+npm run generate:unicode
+```
+
+See `docs/unicode-ingestion.md` for source modes, output files, and regeneration workflow.
 
 ## Deploy to GitHub Pages
 

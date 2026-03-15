@@ -1,0 +1,4730 @@
+[
+  {
+    "id": "box-light-h",
+    "char": "─",
+    "name": "BOX DRAWINGS LIGHT HORIZONTAL",
+    "codepoints": [
+      "U+2500"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "terminal",
+      "ui"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "line art",
+      "table"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-heavy-horizontal",
+    "char": "━",
+    "name": "BOX DRAWINGS HEAVY HORIZONTAL",
+    "codepoints": [
+      "U+2501"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings heavy horizontal",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-light-v",
+    "char": "│",
+    "name": "BOX DRAWINGS LIGHT VERTICAL",
+    "codepoints": [
+      "U+2502"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "terminal",
+      "ui"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "line art",
+      "table"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-heavy-vertical",
+    "char": "┃",
+    "name": "BOX DRAWINGS HEAVY VERTICAL",
+    "codepoints": [
+      "U+2503"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings heavy vertical",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-light-triple-dash-horizontal",
+    "char": "┄",
+    "name": "BOX DRAWINGS LIGHT TRIPLE DASH HORIZONTAL",
+    "codepoints": [
+      "U+2504"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings light triple dash horizontal",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-heavy-triple-dash-horizontal",
+    "char": "┅",
+    "name": "BOX DRAWINGS HEAVY TRIPLE DASH HORIZONTAL",
+    "codepoints": [
+      "U+2505"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings heavy triple dash horizontal",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-light-triple-dash-vertical",
+    "char": "┆",
+    "name": "BOX DRAWINGS LIGHT TRIPLE DASH VERTICAL",
+    "codepoints": [
+      "U+2506"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings light triple dash vertical",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-heavy-triple-dash-vertical",
+    "char": "┇",
+    "name": "BOX DRAWINGS HEAVY TRIPLE DASH VERTICAL",
+    "codepoints": [
+      "U+2507"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings heavy triple dash vertical",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-light-quadruple-dash-horizontal",
+    "char": "┈",
+    "name": "BOX DRAWINGS LIGHT QUADRUPLE DASH HORIZONTAL",
+    "codepoints": [
+      "U+2508"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings light quadruple dash horizontal",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-heavy-quadruple-dash-horizontal",
+    "char": "┉",
+    "name": "BOX DRAWINGS HEAVY QUADRUPLE DASH HORIZONTAL",
+    "codepoints": [
+      "U+2509"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings heavy quadruple dash horizontal",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-light-quadruple-dash-vertical",
+    "char": "┊",
+    "name": "BOX DRAWINGS LIGHT QUADRUPLE DASH VERTICAL",
+    "codepoints": [
+      "U+250A"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings light quadruple dash vertical",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-heavy-quadruple-dash-vertical",
+    "char": "┋",
+    "name": "BOX DRAWINGS HEAVY QUADRUPLE DASH VERTICAL",
+    "codepoints": [
+      "U+250B"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings heavy quadruple dash vertical",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-light-down-right",
+    "char": "┌",
+    "name": "BOX DRAWINGS LIGHT DOWN AND RIGHT",
+    "codepoints": [
+      "U+250C"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "terminal",
+      "ui"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "line art",
+      "table"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-down-light-and-right-heavy",
+    "char": "┍",
+    "name": "BOX DRAWINGS DOWN LIGHT AND RIGHT HEAVY",
+    "codepoints": [
+      "U+250D"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings down light and right heavy",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-down-heavy-and-right-light",
+    "char": "┎",
+    "name": "BOX DRAWINGS DOWN HEAVY AND RIGHT LIGHT",
+    "codepoints": [
+      "U+250E"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings down heavy and right light",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-heavy-down-and-right",
+    "char": "┏",
+    "name": "BOX DRAWINGS HEAVY DOWN AND RIGHT",
+    "codepoints": [
+      "U+250F"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings heavy down and right",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-light-down-left",
+    "char": "┐",
+    "name": "BOX DRAWINGS LIGHT DOWN AND LEFT",
+    "codepoints": [
+      "U+2510"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "terminal",
+      "ui"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "line art",
+      "table"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-down-light-and-left-heavy",
+    "char": "┑",
+    "name": "BOX DRAWINGS DOWN LIGHT AND LEFT HEAVY",
+    "codepoints": [
+      "U+2511"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings down light and left heavy",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-down-heavy-and-left-light",
+    "char": "┒",
+    "name": "BOX DRAWINGS DOWN HEAVY AND LEFT LIGHT",
+    "codepoints": [
+      "U+2512"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings down heavy and left light",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-heavy-down-and-left",
+    "char": "┓",
+    "name": "BOX DRAWINGS HEAVY DOWN AND LEFT",
+    "codepoints": [
+      "U+2513"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings heavy down and left",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-light-up-right",
+    "char": "└",
+    "name": "BOX DRAWINGS LIGHT UP AND RIGHT",
+    "codepoints": [
+      "U+2514"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "terminal",
+      "ui"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "line art",
+      "table"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-up-light-and-right-heavy",
+    "char": "┕",
+    "name": "BOX DRAWINGS UP LIGHT AND RIGHT HEAVY",
+    "codepoints": [
+      "U+2515"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings up light and right heavy",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-up-heavy-and-right-light",
+    "char": "┖",
+    "name": "BOX DRAWINGS UP HEAVY AND RIGHT LIGHT",
+    "codepoints": [
+      "U+2516"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings up heavy and right light",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-heavy-up-and-right",
+    "char": "┗",
+    "name": "BOX DRAWINGS HEAVY UP AND RIGHT",
+    "codepoints": [
+      "U+2517"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings heavy up and right",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-light-up-left",
+    "char": "┘",
+    "name": "BOX DRAWINGS LIGHT UP AND LEFT",
+    "codepoints": [
+      "U+2518"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "terminal",
+      "ui"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "line art",
+      "table"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-up-light-and-left-heavy",
+    "char": "┙",
+    "name": "BOX DRAWINGS UP LIGHT AND LEFT HEAVY",
+    "codepoints": [
+      "U+2519"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings up light and left heavy",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-up-heavy-and-left-light",
+    "char": "┚",
+    "name": "BOX DRAWINGS UP HEAVY AND LEFT LIGHT",
+    "codepoints": [
+      "U+251A"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings up heavy and left light",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-heavy-up-and-left",
+    "char": "┛",
+    "name": "BOX DRAWINGS HEAVY UP AND LEFT",
+    "codepoints": [
+      "U+251B"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings heavy up and left",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-light-vertical-right",
+    "char": "├",
+    "name": "BOX DRAWINGS LIGHT VERTICAL AND RIGHT",
+    "codepoints": [
+      "U+251C"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "terminal",
+      "ui"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "line art",
+      "table"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-vertical-light-and-right-heavy",
+    "char": "┝",
+    "name": "BOX DRAWINGS VERTICAL LIGHT AND RIGHT HEAVY",
+    "codepoints": [
+      "U+251D"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings vertical light and right heavy",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-up-heavy-and-right-down-light",
+    "char": "┞",
+    "name": "BOX DRAWINGS UP HEAVY AND RIGHT DOWN LIGHT",
+    "codepoints": [
+      "U+251E"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings up heavy and right down light",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-down-heavy-and-right-up-light",
+    "char": "┟",
+    "name": "BOX DRAWINGS DOWN HEAVY AND RIGHT UP LIGHT",
+    "codepoints": [
+      "U+251F"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings down heavy and right up light",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-vertical-heavy-and-right-light",
+    "char": "┠",
+    "name": "BOX DRAWINGS VERTICAL HEAVY AND RIGHT LIGHT",
+    "codepoints": [
+      "U+2520"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings vertical heavy and right light",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-down-light-and-right-up-heavy",
+    "char": "┡",
+    "name": "BOX DRAWINGS DOWN LIGHT AND RIGHT UP HEAVY",
+    "codepoints": [
+      "U+2521"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings down light and right up heavy",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-up-light-and-right-down-heavy",
+    "char": "┢",
+    "name": "BOX DRAWINGS UP LIGHT AND RIGHT DOWN HEAVY",
+    "codepoints": [
+      "U+2522"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings up light and right down heavy",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-heavy-vertical-and-right",
+    "char": "┣",
+    "name": "BOX DRAWINGS HEAVY VERTICAL AND RIGHT",
+    "codepoints": [
+      "U+2523"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings heavy vertical and right",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-light-vertical-left",
+    "char": "┤",
+    "name": "BOX DRAWINGS LIGHT VERTICAL AND LEFT",
+    "codepoints": [
+      "U+2524"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "terminal",
+      "ui"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "line art",
+      "table"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-vertical-light-and-left-heavy",
+    "char": "┥",
+    "name": "BOX DRAWINGS VERTICAL LIGHT AND LEFT HEAVY",
+    "codepoints": [
+      "U+2525"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings vertical light and left heavy",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-up-heavy-and-left-down-light",
+    "char": "┦",
+    "name": "BOX DRAWINGS UP HEAVY AND LEFT DOWN LIGHT",
+    "codepoints": [
+      "U+2526"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings up heavy and left down light",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-down-heavy-and-left-up-light",
+    "char": "┧",
+    "name": "BOX DRAWINGS DOWN HEAVY AND LEFT UP LIGHT",
+    "codepoints": [
+      "U+2527"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings down heavy and left up light",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-vertical-heavy-and-left-light",
+    "char": "┨",
+    "name": "BOX DRAWINGS VERTICAL HEAVY AND LEFT LIGHT",
+    "codepoints": [
+      "U+2528"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings vertical heavy and left light",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-down-light-and-left-up-heavy",
+    "char": "┩",
+    "name": "BOX DRAWINGS DOWN LIGHT AND LEFT UP HEAVY",
+    "codepoints": [
+      "U+2529"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings down light and left up heavy",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-up-light-and-left-down-heavy",
+    "char": "┪",
+    "name": "BOX DRAWINGS UP LIGHT AND LEFT DOWN HEAVY",
+    "codepoints": [
+      "U+252A"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings up light and left down heavy",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-heavy-vertical-and-left",
+    "char": "┫",
+    "name": "BOX DRAWINGS HEAVY VERTICAL AND LEFT",
+    "codepoints": [
+      "U+252B"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings heavy vertical and left",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-light-down-horizontal",
+    "char": "┬",
+    "name": "BOX DRAWINGS LIGHT DOWN AND HORIZONTAL",
+    "codepoints": [
+      "U+252C"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "terminal",
+      "ui"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "line art",
+      "table"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-left-heavy-and-right-down-light",
+    "char": "┭",
+    "name": "BOX DRAWINGS LEFT HEAVY AND RIGHT DOWN LIGHT",
+    "codepoints": [
+      "U+252D"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings left heavy and right down light",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-right-heavy-and-left-down-light",
+    "char": "┮",
+    "name": "BOX DRAWINGS RIGHT HEAVY AND LEFT DOWN LIGHT",
+    "codepoints": [
+      "U+252E"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings right heavy and left down light",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-down-light-and-horizontal-heavy",
+    "char": "┯",
+    "name": "BOX DRAWINGS DOWN LIGHT AND HORIZONTAL HEAVY",
+    "codepoints": [
+      "U+252F"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings down light and horizontal heavy",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-down-heavy-and-horizontal-light",
+    "char": "┰",
+    "name": "BOX DRAWINGS DOWN HEAVY AND HORIZONTAL LIGHT",
+    "codepoints": [
+      "U+2530"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings down heavy and horizontal light",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-right-light-and-left-down-heavy",
+    "char": "┱",
+    "name": "BOX DRAWINGS RIGHT LIGHT AND LEFT DOWN HEAVY",
+    "codepoints": [
+      "U+2531"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings right light and left down heavy",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-left-light-and-right-down-heavy",
+    "char": "┲",
+    "name": "BOX DRAWINGS LEFT LIGHT AND RIGHT DOWN HEAVY",
+    "codepoints": [
+      "U+2532"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings left light and right down heavy",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-heavy-down-and-horizontal",
+    "char": "┳",
+    "name": "BOX DRAWINGS HEAVY DOWN AND HORIZONTAL",
+    "codepoints": [
+      "U+2533"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings heavy down and horizontal",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-light-up-horizontal",
+    "char": "┴",
+    "name": "BOX DRAWINGS LIGHT UP AND HORIZONTAL",
+    "codepoints": [
+      "U+2534"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "terminal",
+      "ui"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "line art",
+      "table"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-left-heavy-and-right-up-light",
+    "char": "┵",
+    "name": "BOX DRAWINGS LEFT HEAVY AND RIGHT UP LIGHT",
+    "codepoints": [
+      "U+2535"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings left heavy and right up light",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-right-heavy-and-left-up-light",
+    "char": "┶",
+    "name": "BOX DRAWINGS RIGHT HEAVY AND LEFT UP LIGHT",
+    "codepoints": [
+      "U+2536"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings right heavy and left up light",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-up-light-and-horizontal-heavy",
+    "char": "┷",
+    "name": "BOX DRAWINGS UP LIGHT AND HORIZONTAL HEAVY",
+    "codepoints": [
+      "U+2537"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings up light and horizontal heavy",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-up-heavy-and-horizontal-light",
+    "char": "┸",
+    "name": "BOX DRAWINGS UP HEAVY AND HORIZONTAL LIGHT",
+    "codepoints": [
+      "U+2538"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings up heavy and horizontal light",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-right-light-and-left-up-heavy",
+    "char": "┹",
+    "name": "BOX DRAWINGS RIGHT LIGHT AND LEFT UP HEAVY",
+    "codepoints": [
+      "U+2539"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings right light and left up heavy",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-left-light-and-right-up-heavy",
+    "char": "┺",
+    "name": "BOX DRAWINGS LEFT LIGHT AND RIGHT UP HEAVY",
+    "codepoints": [
+      "U+253A"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings left light and right up heavy",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-heavy-up-and-horizontal",
+    "char": "┻",
+    "name": "BOX DRAWINGS HEAVY UP AND HORIZONTAL",
+    "codepoints": [
+      "U+253B"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings heavy up and horizontal",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-light-vertical-horizontal",
+    "char": "┼",
+    "name": "BOX DRAWINGS LIGHT VERTICAL AND HORIZONTAL",
+    "codepoints": [
+      "U+253C"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "terminal",
+      "ui"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "line art",
+      "table"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-left-heavy-and-right-vertical-light",
+    "char": "┽",
+    "name": "BOX DRAWINGS LEFT HEAVY AND RIGHT VERTICAL LIGHT",
+    "codepoints": [
+      "U+253D"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings left heavy and right vertical light",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-right-heavy-and-left-vertical-light",
+    "char": "┾",
+    "name": "BOX DRAWINGS RIGHT HEAVY AND LEFT VERTICAL LIGHT",
+    "codepoints": [
+      "U+253E"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings right heavy and left vertical light",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-vertical-light-and-horizontal-heavy",
+    "char": "┿",
+    "name": "BOX DRAWINGS VERTICAL LIGHT AND HORIZONTAL HEAVY",
+    "codepoints": [
+      "U+253F"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings vertical light and horizontal heavy",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-up-heavy-and-down-horizontal-light",
+    "char": "╀",
+    "name": "BOX DRAWINGS UP HEAVY AND DOWN HORIZONTAL LIGHT",
+    "codepoints": [
+      "U+2540"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings up heavy and down horizontal light",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-down-heavy-and-up-horizontal-light",
+    "char": "╁",
+    "name": "BOX DRAWINGS DOWN HEAVY AND UP HORIZONTAL LIGHT",
+    "codepoints": [
+      "U+2541"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings down heavy and up horizontal light",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-vertical-heavy-and-horizontal-light",
+    "char": "╂",
+    "name": "BOX DRAWINGS VERTICAL HEAVY AND HORIZONTAL LIGHT",
+    "codepoints": [
+      "U+2542"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings vertical heavy and horizontal light",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-left-up-heavy-and-right-down-light",
+    "char": "╃",
+    "name": "BOX DRAWINGS LEFT UP HEAVY AND RIGHT DOWN LIGHT",
+    "codepoints": [
+      "U+2543"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings left up heavy and right down light",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-right-up-heavy-and-left-down-light",
+    "char": "╄",
+    "name": "BOX DRAWINGS RIGHT UP HEAVY AND LEFT DOWN LIGHT",
+    "codepoints": [
+      "U+2544"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings right up heavy and left down light",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-left-down-heavy-and-right-up-light",
+    "char": "╅",
+    "name": "BOX DRAWINGS LEFT DOWN HEAVY AND RIGHT UP LIGHT",
+    "codepoints": [
+      "U+2545"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings left down heavy and right up light",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-right-down-heavy-and-left-up-light",
+    "char": "╆",
+    "name": "BOX DRAWINGS RIGHT DOWN HEAVY AND LEFT UP LIGHT",
+    "codepoints": [
+      "U+2546"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings right down heavy and left up light",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-down-light-and-up-horizontal-heavy",
+    "char": "╇",
+    "name": "BOX DRAWINGS DOWN LIGHT AND UP HORIZONTAL HEAVY",
+    "codepoints": [
+      "U+2547"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings down light and up horizontal heavy",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-up-light-and-down-horizontal-heavy",
+    "char": "╈",
+    "name": "BOX DRAWINGS UP LIGHT AND DOWN HORIZONTAL HEAVY",
+    "codepoints": [
+      "U+2548"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings up light and down horizontal heavy",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-right-light-and-left-vertical-heavy",
+    "char": "╉",
+    "name": "BOX DRAWINGS RIGHT LIGHT AND LEFT VERTICAL HEAVY",
+    "codepoints": [
+      "U+2549"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings right light and left vertical heavy",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-left-light-and-right-vertical-heavy",
+    "char": "╊",
+    "name": "BOX DRAWINGS LEFT LIGHT AND RIGHT VERTICAL HEAVY",
+    "codepoints": [
+      "U+254A"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings left light and right vertical heavy",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-heavy-vertical-and-horizontal",
+    "char": "╋",
+    "name": "BOX DRAWINGS HEAVY VERTICAL AND HORIZONTAL",
+    "codepoints": [
+      "U+254B"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings heavy vertical and horizontal",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-light-double-dash-horizontal",
+    "char": "╌",
+    "name": "BOX DRAWINGS LIGHT DOUBLE DASH HORIZONTAL",
+    "codepoints": [
+      "U+254C"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings light double dash horizontal",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-heavy-double-dash-horizontal",
+    "char": "╍",
+    "name": "BOX DRAWINGS HEAVY DOUBLE DASH HORIZONTAL",
+    "codepoints": [
+      "U+254D"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings heavy double dash horizontal",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-light-double-dash-vertical",
+    "char": "╎",
+    "name": "BOX DRAWINGS LIGHT DOUBLE DASH VERTICAL",
+    "codepoints": [
+      "U+254E"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings light double dash vertical",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-heavy-double-dash-vertical",
+    "char": "╏",
+    "name": "BOX DRAWINGS HEAVY DOUBLE DASH VERTICAL",
+    "codepoints": [
+      "U+254F"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings heavy double dash vertical",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-draw-double-horizontal",
+    "char": "═",
+    "name": "BOX DRAWINGS DOUBLE HORIZONTAL",
+    "codepoints": [
+      "U+2550"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "double-line"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "double horizontal"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-draw-double-vertical",
+    "char": "║",
+    "name": "BOX DRAWINGS DOUBLE VERTICAL",
+    "codepoints": [
+      "U+2551"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "double-line"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "double vertical"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-down-single-and-right-double",
+    "char": "╒",
+    "name": "BOX DRAWINGS DOWN SINGLE AND RIGHT DOUBLE",
+    "codepoints": [
+      "U+2552"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings down single and right double",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-down-double-and-right-single",
+    "char": "╓",
+    "name": "BOX DRAWINGS DOWN DOUBLE AND RIGHT SINGLE",
+    "codepoints": [
+      "U+2553"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings down double and right single",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-draw-double-down-right",
+    "char": "╔",
+    "name": "BOX DRAWINGS DOUBLE DOWN AND RIGHT",
+    "codepoints": [
+      "U+2554"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "double-line",
+      "corner"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "top left corner"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-down-single-and-left-double",
+    "char": "╕",
+    "name": "BOX DRAWINGS DOWN SINGLE AND LEFT DOUBLE",
+    "codepoints": [
+      "U+2555"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings down single and left double",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-down-double-and-left-single",
+    "char": "╖",
+    "name": "BOX DRAWINGS DOWN DOUBLE AND LEFT SINGLE",
+    "codepoints": [
+      "U+2556"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings down double and left single",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-draw-double-down-left",
+    "char": "╗",
+    "name": "BOX DRAWINGS DOUBLE DOWN AND LEFT",
+    "codepoints": [
+      "U+2557"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "double-line",
+      "corner"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "top right corner"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-up-single-and-right-double",
+    "char": "╘",
+    "name": "BOX DRAWINGS UP SINGLE AND RIGHT DOUBLE",
+    "codepoints": [
+      "U+2558"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings up single and right double",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-up-double-and-right-single",
+    "char": "╙",
+    "name": "BOX DRAWINGS UP DOUBLE AND RIGHT SINGLE",
+    "codepoints": [
+      "U+2559"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings up double and right single",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-draw-double-up-right",
+    "char": "╚",
+    "name": "BOX DRAWINGS DOUBLE UP AND RIGHT",
+    "codepoints": [
+      "U+255A"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "double-line",
+      "corner"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "bottom left corner"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-up-single-and-left-double",
+    "char": "╛",
+    "name": "BOX DRAWINGS UP SINGLE AND LEFT DOUBLE",
+    "codepoints": [
+      "U+255B"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings up single and left double",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-up-double-and-left-single",
+    "char": "╜",
+    "name": "BOX DRAWINGS UP DOUBLE AND LEFT SINGLE",
+    "codepoints": [
+      "U+255C"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings up double and left single",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-draw-double-up-left",
+    "char": "╝",
+    "name": "BOX DRAWINGS DOUBLE UP AND LEFT",
+    "codepoints": [
+      "U+255D"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "double-line",
+      "corner"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "bottom right corner"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-vertical-single-and-right-double",
+    "char": "╞",
+    "name": "BOX DRAWINGS VERTICAL SINGLE AND RIGHT DOUBLE",
+    "codepoints": [
+      "U+255E"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings vertical single and right double",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-vertical-double-and-right-single",
+    "char": "╟",
+    "name": "BOX DRAWINGS VERTICAL DOUBLE AND RIGHT SINGLE",
+    "codepoints": [
+      "U+255F"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings vertical double and right single",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-double-vertical-and-right",
+    "char": "╠",
+    "name": "BOX DRAWINGS DOUBLE VERTICAL AND RIGHT",
+    "codepoints": [
+      "U+2560"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings double vertical and right",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-vertical-single-and-left-double",
+    "char": "╡",
+    "name": "BOX DRAWINGS VERTICAL SINGLE AND LEFT DOUBLE",
+    "codepoints": [
+      "U+2561"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings vertical single and left double",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-vertical-double-and-left-single",
+    "char": "╢",
+    "name": "BOX DRAWINGS VERTICAL DOUBLE AND LEFT SINGLE",
+    "codepoints": [
+      "U+2562"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings vertical double and left single",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-double-vertical-and-left",
+    "char": "╣",
+    "name": "BOX DRAWINGS DOUBLE VERTICAL AND LEFT",
+    "codepoints": [
+      "U+2563"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings double vertical and left",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-down-single-and-horizontal-double",
+    "char": "╤",
+    "name": "BOX DRAWINGS DOWN SINGLE AND HORIZONTAL DOUBLE",
+    "codepoints": [
+      "U+2564"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings down single and horizontal double",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-down-double-and-horizontal-single",
+    "char": "╥",
+    "name": "BOX DRAWINGS DOWN DOUBLE AND HORIZONTAL SINGLE",
+    "codepoints": [
+      "U+2565"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings down double and horizontal single",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-double-down-and-horizontal",
+    "char": "╦",
+    "name": "BOX DRAWINGS DOUBLE DOWN AND HORIZONTAL",
+    "codepoints": [
+      "U+2566"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings double down and horizontal",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-up-single-and-horizontal-double",
+    "char": "╧",
+    "name": "BOX DRAWINGS UP SINGLE AND HORIZONTAL DOUBLE",
+    "codepoints": [
+      "U+2567"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings up single and horizontal double",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-up-double-and-horizontal-single",
+    "char": "╨",
+    "name": "BOX DRAWINGS UP DOUBLE AND HORIZONTAL SINGLE",
+    "codepoints": [
+      "U+2568"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings up double and horizontal single",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-double-up-and-horizontal",
+    "char": "╩",
+    "name": "BOX DRAWINGS DOUBLE UP AND HORIZONTAL",
+    "codepoints": [
+      "U+2569"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings double up and horizontal",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-vertical-single-and-horizontal-double",
+    "char": "╪",
+    "name": "BOX DRAWINGS VERTICAL SINGLE AND HORIZONTAL DOUBLE",
+    "codepoints": [
+      "U+256A"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings vertical single and horizontal double",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-vertical-double-and-horizontal-single",
+    "char": "╫",
+    "name": "BOX DRAWINGS VERTICAL DOUBLE AND HORIZONTAL SINGLE",
+    "codepoints": [
+      "U+256B"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings vertical double and horizontal single",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-double-vertical-and-horizontal",
+    "char": "╬",
+    "name": "BOX DRAWINGS DOUBLE VERTICAL AND HORIZONTAL",
+    "codepoints": [
+      "U+256C"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings double vertical and horizontal",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-light-arc-down-and-right",
+    "char": "╭",
+    "name": "BOX DRAWINGS LIGHT ARC DOWN AND RIGHT",
+    "codepoints": [
+      "U+256D"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings light arc down and right",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-light-arc-down-and-left",
+    "char": "╮",
+    "name": "BOX DRAWINGS LIGHT ARC DOWN AND LEFT",
+    "codepoints": [
+      "U+256E"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings light arc down and left",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-light-arc-up-and-left",
+    "char": "╯",
+    "name": "BOX DRAWINGS LIGHT ARC UP AND LEFT",
+    "codepoints": [
+      "U+256F"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings light arc up and left",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-light-arc-up-and-right",
+    "char": "╰",
+    "name": "BOX DRAWINGS LIGHT ARC UP AND RIGHT",
+    "codepoints": [
+      "U+2570"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings light arc up and right",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-light-diagonal-upper-right-to-lower-left",
+    "char": "╱",
+    "name": "BOX DRAWINGS LIGHT DIAGONAL UPPER RIGHT TO LOWER LEFT",
+    "codepoints": [
+      "U+2571"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings light diagonal upper right to lower left",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-light-diagonal-upper-left-to-lower-right",
+    "char": "╲",
+    "name": "BOX DRAWINGS LIGHT DIAGONAL UPPER LEFT TO LOWER RIGHT",
+    "codepoints": [
+      "U+2572"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings light diagonal upper left to lower right",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-light-diagonal-cross",
+    "char": "╳",
+    "name": "BOX DRAWINGS LIGHT DIAGONAL CROSS",
+    "codepoints": [
+      "U+2573"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings light diagonal cross",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-light-left",
+    "char": "╴",
+    "name": "BOX DRAWINGS LIGHT LEFT",
+    "codepoints": [
+      "U+2574"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings light left",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-light-up",
+    "char": "╵",
+    "name": "BOX DRAWINGS LIGHT UP",
+    "codepoints": [
+      "U+2575"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings light up",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-light-right",
+    "char": "╶",
+    "name": "BOX DRAWINGS LIGHT RIGHT",
+    "codepoints": [
+      "U+2576"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings light right",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-light-down",
+    "char": "╷",
+    "name": "BOX DRAWINGS LIGHT DOWN",
+    "codepoints": [
+      "U+2577"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings light down",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-heavy-left",
+    "char": "╸",
+    "name": "BOX DRAWINGS HEAVY LEFT",
+    "codepoints": [
+      "U+2578"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings heavy left",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-heavy-up",
+    "char": "╹",
+    "name": "BOX DRAWINGS HEAVY UP",
+    "codepoints": [
+      "U+2579"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings heavy up",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-heavy-right",
+    "char": "╺",
+    "name": "BOX DRAWINGS HEAVY RIGHT",
+    "codepoints": [
+      "U+257A"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings heavy right",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-heavy-down",
+    "char": "╻",
+    "name": "BOX DRAWINGS HEAVY DOWN",
+    "codepoints": [
+      "U+257B"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings heavy down",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-light-left-and-heavy-right",
+    "char": "╼",
+    "name": "BOX DRAWINGS LIGHT LEFT AND HEAVY RIGHT",
+    "codepoints": [
+      "U+257C"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings light left and heavy right",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-light-up-and-heavy-down",
+    "char": "╽",
+    "name": "BOX DRAWINGS LIGHT UP AND HEAVY DOWN",
+    "codepoints": [
+      "U+257D"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings light up and heavy down",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-heavy-left-and-light-right",
+    "char": "╾",
+    "name": "BOX DRAWINGS HEAVY LEFT AND LIGHT RIGHT",
+    "codepoints": [
+      "U+257E"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings heavy left and light right",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "box-drawings-heavy-up-and-light-down",
+    "char": "╿",
+    "name": "BOX DRAWINGS HEAVY UP AND LIGHT DOWN",
+    "codepoints": [
+      "U+257F"
+    ],
+    "category": "box-drawing",
+    "primaryCategory": "box-drawing",
+    "tags": [
+      "box-drawing",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "box drawing",
+      "box drawings heavy up and light down",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-box-drawing-core"
+    ],
+    "knowledge": {
+      "description": "Unicode box-drawing character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  }
+]
