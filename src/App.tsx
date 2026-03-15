@@ -55,17 +55,39 @@ function normalize(value: string): string {
   return value.toLowerCase().trim();
 }
 
-function matches(entry: SymbolEntry, query: string): boolean {
-  if (!query) return true;
+function normalizeCodepoint(value: string): string {
+  return value.toLowerCase().replace(/[^a-f0-9]/g, '');
+}
+
+function scoreMatch(entry: SymbolEntry, query: string): number {
+  if (!query) return 0;
+
+  const normalizedName = normalize(entry.name);
+  const aliases = (entry.aliases ?? []).map(normalize);
+  const tags = entry.tags.map(normalize);
+  const keywords = entry.searchKeywords.map(normalize);
+  const codepoints = entry.codepoints.map((point) => point.toLowerCase());
+  const normalizedCodepoints = codepoints.map(normalizeCodepoint);
+  const normalizedQueryCodepoint = normalizeCodepoint(query);
+
+  if (entry.char === query) return 1000;
+  if (normalizedName === query) return 950;
+  if (aliases.includes(query)) return 900;
+  if (tags.includes(query)) return 850;
+  if (keywords.includes(query)) return 800;
+  if (codepoints.includes(query)) return 780;
+  if (normalizedQueryCodepoint && normalizedCodepoints.includes(normalizedQueryCodepoint)) return 760;
+
   const category = entry.primaryCategory ?? entry.category;
   const links = entry.knowledge?.externalLinks?.map((item) => `${item.label} ${item.sourceType ?? ''}`).join(' ') ?? '';
   const haystack = [
-    entry.char,
-    entry.name,
-    entry.codepoints.join(' '),
+    normalizedName,
+    aliases.join(' '),
+    codepoints.join(' '),
+    normalizedCodepoints.join(' '),
     category,
-    entry.searchKeywords.join(' '),
-    entry.tags.join(' '),
+    keywords.join(' '),
+    tags.join(' '),
     entry.contextualNote ?? '',
     entry.note ?? '',
     entry.knowledge?.description ?? '',
@@ -78,7 +100,20 @@ function matches(entry: SymbolEntry, query: string): boolean {
     .join(' ')
     .toLowerCase();
 
-  return haystack.includes(query);
+  if (normalizedName.startsWith(query)) return 720;
+  if (aliases.some((alias) => alias.startsWith(query))) return 700;
+  if (keywords.some((keyword) => keyword.startsWith(query))) return 680;
+  if (tags.some((tag) => tag.startsWith(query))) return 660;
+  if (haystack.includes(query)) return 620;
+
+  const queryTokens = query.split(/\s+/).filter(Boolean);
+  if (!queryTokens.length) return 0;
+
+  const tokenMatches = queryTokens.filter((token) => haystack.includes(token)).length;
+  if (tokenMatches === queryTokens.length) return 580;
+  if (tokenMatches > 0) return 540;
+
+  return 0;
 }
 
 function readStoredSymbolIds(key: string): string[] {
@@ -142,12 +177,20 @@ export default function App() {
     const byCategory = curatedSetId
       ? symbols.filter((entry) => entry.curatedSets?.includes(curatedSetId))
       : selectedCategory === 'featured'
-        ? featured
+        ? query
+          ? symbols
+          : featured
         : selectedCategory === 'all'
           ? symbols
           : symbols.filter((entry) => (entry.primaryCategory ?? entry.category) === selectedCategory);
 
-    return byCategory.filter((entry) => matches(entry, query));
+    if (!query) return byCategory;
+
+    return byCategory
+      .map((entry) => ({ entry, score: scoreMatch(entry, query) }))
+      .filter((item) => item.score > 0)
+      .sort((a, b) => b.score - a.score || a.entry.name.localeCompare(b.entry.name))
+      .map((item) => item.entry);
   }, [featured, query, selectedCategory]);
 
   const favoriteIdSet = useMemo(() => new Set(favoriteSymbolIds), [favoriteSymbolIds]);

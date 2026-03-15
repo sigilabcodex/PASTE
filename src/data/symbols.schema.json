@@ -25,6 +25,13 @@
       "type": "string",
       "minLength": 1
     },
+    "aliases": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
     "codepoints": {
       "type": "array",
       "minItems": 1,

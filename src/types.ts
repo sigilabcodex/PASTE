@@ -57,6 +57,7 @@ export interface SymbolEntry {
   id: string;
   char: string;
   name: string;
+  aliases?: string[];
   codepoints: string[];
   primaryCategory: SymbolCategory;
   category?: SymbolCategory;
