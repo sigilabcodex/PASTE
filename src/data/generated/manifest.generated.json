@@ -1,0 +1,47 @@
+{
+  "generatedAt": "2026-03-15T06:43:08.067Z",
+  "sourceMode": "python-unicodedata-fallback",
+  "localSources": [],
+  "outputs": [
+    {
+      "group": "punctuation",
+      "count": 176,
+      "file": "punctuation.generated.json"
+    },
+    {
+      "group": "arrows",
+      "count": 509,
+      "file": "arrows.generated.json"
+    },
+    {
+      "group": "math-symbols",
+      "count": 648,
+      "file": "math-symbols.generated.json"
+    },
+    {
+      "group": "geometric-shapes",
+      "count": 197,
+      "file": "geometric-shapes.generated.json"
+    },
+    {
+      "group": "box-drawing",
+      "count": 128,
+      "file": "box-drawing.generated.json"
+    },
+    {
+      "group": "currency",
+      "count": 37,
+      "file": "currency.generated.json"
+    },
+    {
+      "group": "technical-computing",
+      "count": 306,
+      "file": "technical-symbols.generated.json"
+    },
+    {
+      "group": "emoji",
+      "count": 1538,
+      "file": "emoji.generated.json"
+    }
+  ]
+}

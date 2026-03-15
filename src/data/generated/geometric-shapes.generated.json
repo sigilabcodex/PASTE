@@ -1,0 +1,7263 @@
+[
+  {
+    "id": "black-left-pointing-isosceles-right-triangle",
+    "char": "🞀",
+    "name": "BLACK LEFT-POINTING ISOSCELES RIGHT TRIANGLE",
+    "codepoints": [
+      "U+1F780"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "black left-pointing isosceles right triangle",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "black-up-pointing-isosceles-right-triangle",
+    "char": "🞁",
+    "name": "BLACK UP-POINTING ISOSCELES RIGHT TRIANGLE",
+    "codepoints": [
+      "U+1F781"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "black up-pointing isosceles right triangle",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "black-right-pointing-isosceles-right-triangle",
+    "char": "🞂",
+    "name": "BLACK RIGHT-POINTING ISOSCELES RIGHT TRIANGLE",
+    "codepoints": [
+      "U+1F782"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "black right-pointing isosceles right triangle",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "black-down-pointing-isosceles-right-triangle",
+    "char": "🞃",
+    "name": "BLACK DOWN-POINTING ISOSCELES RIGHT TRIANGLE",
+    "codepoints": [
+      "U+1F783"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "black down-pointing isosceles right triangle",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "black-slightly-small-circle",
+    "char": "🞄",
+    "name": "BLACK SLIGHTLY SMALL CIRCLE",
+    "codepoints": [
+      "U+1F784"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "black slightly small circle",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medium-bold-white-circle",
+    "char": "🞅",
+    "name": "MEDIUM BOLD WHITE CIRCLE",
+    "codepoints": [
+      "U+1F785"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "medium bold white circle",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bold-white-circle",
+    "char": "🞆",
+    "name": "BOLD WHITE CIRCLE",
+    "codepoints": [
+      "U+1F786"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "bold white circle",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "heavy-white-circle",
+    "char": "🞇",
+    "name": "HEAVY WHITE CIRCLE",
+    "codepoints": [
+      "U+1F787"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "heavy white circle",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "very-heavy-white-circle",
+    "char": "🞈",
+    "name": "VERY HEAVY WHITE CIRCLE",
+    "codepoints": [
+      "U+1F788"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "very heavy white circle",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "extremely-heavy-white-circle",
+    "char": "🞉",
+    "name": "EXTREMELY HEAVY WHITE CIRCLE",
+    "codepoints": [
+      "U+1F789"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "extremely heavy white circle",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "white-circle-containing-black-small-circle",
+    "char": "🞊",
+    "name": "WHITE CIRCLE CONTAINING BLACK SMALL CIRCLE",
+    "codepoints": [
+      "U+1F78A"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "white circle containing black small circle",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "round-target",
+    "char": "🞋",
+    "name": "ROUND TARGET",
+    "codepoints": [
+      "U+1F78B"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "round target",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "black-tiny-square",
+    "char": "🞌",
+    "name": "BLACK TINY SQUARE",
+    "codepoints": [
+      "U+1F78C"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "black tiny square",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "black-slightly-small-square",
+    "char": "🞍",
+    "name": "BLACK SLIGHTLY SMALL SQUARE",
+    "codepoints": [
+      "U+1F78D"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "black slightly small square",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "light-white-square",
+    "char": "🞎",
+    "name": "LIGHT WHITE SQUARE",
+    "codepoints": [
+      "U+1F78E"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "light white square",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medium-white-square",
+    "char": "🞏",
+    "name": "MEDIUM WHITE SQUARE",
+    "codepoints": [
+      "U+1F78F"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "medium white square",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bold-white-square",
+    "char": "🞐",
+    "name": "BOLD WHITE SQUARE",
+    "codepoints": [
+      "U+1F790"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "bold white square",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "heavy-white-square",
+    "char": "🞑",
+    "name": "HEAVY WHITE SQUARE",
+    "codepoints": [
+      "U+1F791"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "heavy white square",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "very-heavy-white-square",
+    "char": "🞒",
+    "name": "VERY HEAVY WHITE SQUARE",
+    "codepoints": [
+      "U+1F792"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "very heavy white square",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "extremely-heavy-white-square",
+    "char": "🞓",
+    "name": "EXTREMELY HEAVY WHITE SQUARE",
+    "codepoints": [
+      "U+1F793"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "extremely heavy white square",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "white-square-containing-black-very-small-square",
+    "char": "🞔",
+    "name": "WHITE SQUARE CONTAINING BLACK VERY SMALL SQUARE",
+    "codepoints": [
+      "U+1F794"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "white square containing black very small square",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "white-square-containing-black-medium-square",
+    "char": "🞕",
+    "name": "WHITE SQUARE CONTAINING BLACK MEDIUM SQUARE",
+    "codepoints": [
+      "U+1F795"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "white square containing black medium square",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "square-target",
+    "char": "🞖",
+    "name": "SQUARE TARGET",
+    "codepoints": [
+      "U+1F796"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "square target",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "black-tiny-diamond",
+    "char": "🞗",
+    "name": "BLACK TINY DIAMOND",
+    "codepoints": [
+      "U+1F797"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "black tiny diamond",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "black-very-small-diamond",
+    "char": "🞘",
+    "name": "BLACK VERY SMALL DIAMOND",
+    "codepoints": [
+      "U+1F798"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "black very small diamond",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "black-medium-small-diamond",
+    "char": "🞙",
+    "name": "BLACK MEDIUM SMALL DIAMOND",
+    "codepoints": [
+      "U+1F799"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "black medium small diamond",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "white-diamond-containing-black-very-small-diamond",
+    "char": "🞚",
+    "name": "WHITE DIAMOND CONTAINING BLACK VERY SMALL DIAMOND",
+    "codepoints": [
+      "U+1F79A"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "white diamond containing black very small diamond",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "white-diamond-containing-black-medium-diamond",
+    "char": "🞛",
+    "name": "WHITE DIAMOND CONTAINING BLACK MEDIUM DIAMOND",
+    "codepoints": [
+      "U+1F79B"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "white diamond containing black medium diamond",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "diamond-target",
+    "char": "🞜",
+    "name": "DIAMOND TARGET",
+    "codepoints": [
+      "U+1F79C"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "diamond target",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "black-tiny-lozenge",
+    "char": "🞝",
+    "name": "BLACK TINY LOZENGE",
+    "codepoints": [
+      "U+1F79D"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "black tiny lozenge",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "black-very-small-lozenge",
+    "char": "🞞",
+    "name": "BLACK VERY SMALL LOZENGE",
+    "codepoints": [
+      "U+1F79E"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "black very small lozenge",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "black-medium-small-lozenge",
+    "char": "🞟",
+    "name": "BLACK MEDIUM SMALL LOZENGE",
+    "codepoints": [
+      "U+1F79F"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "black medium small lozenge",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "white-lozenge-containing-black-small-lozenge",
+    "char": "🞠",
+    "name": "WHITE LOZENGE CONTAINING BLACK SMALL LOZENGE",
+    "codepoints": [
+      "U+1F7A0"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "white lozenge containing black small lozenge",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "thin-greek-cross",
+    "char": "🞡",
+    "name": "THIN GREEK CROSS",
+    "codepoints": [
+      "U+1F7A1"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "thin greek cross",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "light-greek-cross",
+    "char": "🞢",
+    "name": "LIGHT GREEK CROSS",
+    "codepoints": [
+      "U+1F7A2"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "light greek cross",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medium-greek-cross",
+    "char": "🞣",
+    "name": "MEDIUM GREEK CROSS",
+    "codepoints": [
+      "U+1F7A3"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "medium greek cross",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bold-greek-cross",
+    "char": "🞤",
+    "name": "BOLD GREEK CROSS",
+    "codepoints": [
+      "U+1F7A4"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "bold greek cross",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "very-bold-greek-cross",
+    "char": "🞥",
+    "name": "VERY BOLD GREEK CROSS",
+    "codepoints": [
+      "U+1F7A5"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "very bold greek cross",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "very-heavy-greek-cross",
+    "char": "🞦",
+    "name": "VERY HEAVY GREEK CROSS",
+    "codepoints": [
+      "U+1F7A6"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "very heavy greek cross",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "extremely-heavy-greek-cross",
+    "char": "🞧",
+    "name": "EXTREMELY HEAVY GREEK CROSS",
+    "codepoints": [
+      "U+1F7A7"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "extremely heavy greek cross",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "thin-saltire",
+    "char": "🞨",
+    "name": "THIN SALTIRE",
+    "codepoints": [
+      "U+1F7A8"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "thin saltire",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "light-saltire",
+    "char": "🞩",
+    "name": "LIGHT SALTIRE",
+    "codepoints": [
+      "U+1F7A9"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "light saltire",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medium-saltire",
+    "char": "🞪",
+    "name": "MEDIUM SALTIRE",
+    "codepoints": [
+      "U+1F7AA"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "medium saltire",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bold-saltire",
+    "char": "🞫",
+    "name": "BOLD SALTIRE",
+    "codepoints": [
+      "U+1F7AB"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "bold saltire",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "heavy-saltire",
+    "char": "🞬",
+    "name": "HEAVY SALTIRE",
+    "codepoints": [
+      "U+1F7AC"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "heavy saltire",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "very-heavy-saltire",
+    "char": "🞭",
+    "name": "VERY HEAVY SALTIRE",
+    "codepoints": [
+      "U+1F7AD"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "very heavy saltire",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "extremely-heavy-saltire",
+    "char": "🞮",
+    "name": "EXTREMELY HEAVY SALTIRE",
+    "codepoints": [
+      "U+1F7AE"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "extremely heavy saltire",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "light-five-spoked-asterisk",
+    "char": "🞯",
+    "name": "LIGHT FIVE SPOKED ASTERISK",
+    "codepoints": [
+      "U+1F7AF"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "light five spoked asterisk",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medium-five-spoked-asterisk",
+    "char": "🞰",
+    "name": "MEDIUM FIVE SPOKED ASTERISK",
+    "codepoints": [
+      "U+1F7B0"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "medium five spoked asterisk",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bold-five-spoked-asterisk",
+    "char": "🞱",
+    "name": "BOLD FIVE SPOKED ASTERISK",
+    "codepoints": [
+      "U+1F7B1"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "bold five spoked asterisk",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "heavy-five-spoked-asterisk",
+    "char": "🞲",
+    "name": "HEAVY FIVE SPOKED ASTERISK",
+    "codepoints": [
+      "U+1F7B2"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "heavy five spoked asterisk",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "very-heavy-five-spoked-asterisk",
+    "char": "🞳",
+    "name": "VERY HEAVY FIVE SPOKED ASTERISK",
+    "codepoints": [
+      "U+1F7B3"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "very heavy five spoked asterisk",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "extremely-heavy-five-spoked-asterisk",
+    "char": "🞴",
+    "name": "EXTREMELY HEAVY FIVE SPOKED ASTERISK",
+    "codepoints": [
+      "U+1F7B4"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "extremely heavy five spoked asterisk",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "light-six-spoked-asterisk",
+    "char": "🞵",
+    "name": "LIGHT SIX SPOKED ASTERISK",
+    "codepoints": [
+      "U+1F7B5"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "light six spoked asterisk",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medium-six-spoked-asterisk",
+    "char": "🞶",
+    "name": "MEDIUM SIX SPOKED ASTERISK",
+    "codepoints": [
+      "U+1F7B6"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "medium six spoked asterisk",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bold-six-spoked-asterisk",
+    "char": "🞷",
+    "name": "BOLD SIX SPOKED ASTERISK",
+    "codepoints": [
+      "U+1F7B7"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "bold six spoked asterisk",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "heavy-six-spoked-asterisk",
+    "char": "🞸",
+    "name": "HEAVY SIX SPOKED ASTERISK",
+    "codepoints": [
+      "U+1F7B8"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "heavy six spoked asterisk",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "very-heavy-six-spoked-asterisk",
+    "char": "🞹",
+    "name": "VERY HEAVY SIX SPOKED ASTERISK",
+    "codepoints": [
+      "U+1F7B9"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "very heavy six spoked asterisk",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "extremely-heavy-six-spoked-asterisk",
+    "char": "🞺",
+    "name": "EXTREMELY HEAVY SIX SPOKED ASTERISK",
+    "codepoints": [
+      "U+1F7BA"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "extremely heavy six spoked asterisk",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "light-eight-spoked-asterisk",
+    "char": "🞻",
+    "name": "LIGHT EIGHT SPOKED ASTERISK",
+    "codepoints": [
+      "U+1F7BB"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "light eight spoked asterisk",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medium-eight-spoked-asterisk",
+    "char": "🞼",
+    "name": "MEDIUM EIGHT SPOKED ASTERISK",
+    "codepoints": [
+      "U+1F7BC"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "medium eight spoked asterisk",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bold-eight-spoked-asterisk",
+    "char": "🞽",
+    "name": "BOLD EIGHT SPOKED ASTERISK",
+    "codepoints": [
+      "U+1F7BD"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "bold eight spoked asterisk",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "heavy-eight-spoked-asterisk",
+    "char": "🞾",
+    "name": "HEAVY EIGHT SPOKED ASTERISK",
+    "codepoints": [
+      "U+1F7BE"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "heavy eight spoked asterisk",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "very-heavy-eight-spoked-asterisk",
+    "char": "🞿",
+    "name": "VERY HEAVY EIGHT SPOKED ASTERISK",
+    "codepoints": [
+      "U+1F7BF"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "very heavy eight spoked asterisk",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "light-three-pointed-black-star",
+    "char": "🟀",
+    "name": "LIGHT THREE POINTED BLACK STAR",
+    "codepoints": [
+      "U+1F7C0"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "light three pointed black star",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medium-three-pointed-black-star",
+    "char": "🟁",
+    "name": "MEDIUM THREE POINTED BLACK STAR",
+    "codepoints": [
+      "U+1F7C1"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "medium three pointed black star",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "three-pointed-black-star",
+    "char": "🟂",
+    "name": "THREE POINTED BLACK STAR",
+    "codepoints": [
+      "U+1F7C2"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "three pointed black star",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medium-three-pointed-pinwheel-star",
+    "char": "🟃",
+    "name": "MEDIUM THREE POINTED PINWHEEL STAR",
+    "codepoints": [
+      "U+1F7C3"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "medium three pointed pinwheel star",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "light-four-pointed-black-star",
+    "char": "🟄",
+    "name": "LIGHT FOUR POINTED BLACK STAR",
+    "codepoints": [
+      "U+1F7C4"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "light four pointed black star",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medium-four-pointed-black-star",
+    "char": "🟅",
+    "name": "MEDIUM FOUR POINTED BLACK STAR",
+    "codepoints": [
+      "U+1F7C5"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "medium four pointed black star",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "four-pointed-black-star",
+    "char": "🟆",
+    "name": "FOUR POINTED BLACK STAR",
+    "codepoints": [
+      "U+1F7C6"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "four pointed black star",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medium-four-pointed-pinwheel-star",
+    "char": "🟇",
+    "name": "MEDIUM FOUR POINTED PINWHEEL STAR",
+    "codepoints": [
+      "U+1F7C7"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "medium four pointed pinwheel star",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "reverse-light-four-pointed-pinwheel-star",
+    "char": "🟈",
+    "name": "REVERSE LIGHT FOUR POINTED PINWHEEL STAR",
+    "codepoints": [
+      "U+1F7C8"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "reverse light four pointed pinwheel star",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "light-five-pointed-black-star",
+    "char": "🟉",
+    "name": "LIGHT FIVE POINTED BLACK STAR",
+    "codepoints": [
+      "U+1F7C9"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "light five pointed black star",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "heavy-five-pointed-black-star",
+    "char": "🟊",
+    "name": "HEAVY FIVE POINTED BLACK STAR",
+    "codepoints": [
+      "U+1F7CA"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "heavy five pointed black star",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medium-six-pointed-black-star",
+    "char": "🟋",
+    "name": "MEDIUM SIX POINTED BLACK STAR",
+    "codepoints": [
+      "U+1F7CB"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "medium six pointed black star",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "heavy-six-pointed-black-star",
+    "char": "🟌",
+    "name": "HEAVY SIX POINTED BLACK STAR",
+    "codepoints": [
+      "U+1F7CC"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "heavy six pointed black star",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "six-pointed-pinwheel-star",
+    "char": "🟍",
+    "name": "SIX POINTED PINWHEEL STAR",
+    "codepoints": [
+      "U+1F7CD"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "six pointed pinwheel star",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medium-eight-pointed-black-star",
+    "char": "🟎",
+    "name": "MEDIUM EIGHT POINTED BLACK STAR",
+    "codepoints": [
+      "U+1F7CE"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "medium eight pointed black star",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "heavy-eight-pointed-black-star",
+    "char": "🟏",
+    "name": "HEAVY EIGHT POINTED BLACK STAR",
+    "codepoints": [
+      "U+1F7CF"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "heavy eight pointed black star",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "very-heavy-eight-pointed-black-star",
+    "char": "🟐",
+    "name": "VERY HEAVY EIGHT POINTED BLACK STAR",
+    "codepoints": [
+      "U+1F7D0"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "very heavy eight pointed black star",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "heavy-eight-pointed-pinwheel-star",
+    "char": "🟑",
+    "name": "HEAVY EIGHT POINTED PINWHEEL STAR",
+    "codepoints": [
+      "U+1F7D1"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "heavy eight pointed pinwheel star",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "light-twelve-pointed-black-star",
+    "char": "🟒",
+    "name": "LIGHT TWELVE POINTED BLACK STAR",
+    "codepoints": [
+      "U+1F7D2"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "light twelve pointed black star",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "heavy-twelve-pointed-black-star",
+    "char": "🟓",
+    "name": "HEAVY TWELVE POINTED BLACK STAR",
+    "codepoints": [
+      "U+1F7D3"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "heavy twelve pointed black star",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "heavy-twelve-pointed-pinwheel-star",
+    "char": "🟔",
+    "name": "HEAVY TWELVE POINTED PINWHEEL STAR",
+    "codepoints": [
+      "U+1F7D4"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "heavy twelve pointed pinwheel star",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "circled-triangle",
+    "char": "🟕",
+    "name": "CIRCLED TRIANGLE",
+    "codepoints": [
+      "U+1F7D5"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "circled triangle",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "negative-circled-triangle",
+    "char": "🟖",
+    "name": "NEGATIVE CIRCLED TRIANGLE",
+    "codepoints": [
+      "U+1F7D6"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "negative circled triangle",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "circled-square",
+    "char": "🟗",
+    "name": "CIRCLED SQUARE",
+    "codepoints": [
+      "U+1F7D7"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "circled square",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "negative-circled-square",
+    "char": "🟘",
+    "name": "NEGATIVE CIRCLED SQUARE",
+    "codepoints": [
+      "U+1F7D8"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "negative circled square",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "large-orange-circle",
+    "char": "🟠",
+    "name": "LARGE ORANGE CIRCLE",
+    "codepoints": [
+      "U+1F7E0"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "large orange circle",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "large-yellow-circle",
+    "char": "🟡",
+    "name": "LARGE YELLOW CIRCLE",
+    "codepoints": [
+      "U+1F7E1"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "large yellow circle",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "large-green-circle",
+    "char": "🟢",
+    "name": "LARGE GREEN CIRCLE",
+    "codepoints": [
+      "U+1F7E2"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "large green circle",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "large-purple-circle",
+    "char": "🟣",
+    "name": "LARGE PURPLE CIRCLE",
+    "codepoints": [
+      "U+1F7E3"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "large purple circle",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "large-brown-circle",
+    "char": "🟤",
+    "name": "LARGE BROWN CIRCLE",
+    "codepoints": [
+      "U+1F7E4"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "large brown circle",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "large-red-square",
+    "char": "🟥",
+    "name": "LARGE RED SQUARE",
+    "codepoints": [
+      "U+1F7E5"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "emoji",
+      "shape"
+    ],
+    "searchKeywords": [
+      "red square"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "large-blue-square",
+    "char": "🟦",
+    "name": "LARGE BLUE SQUARE",
+    "codepoints": [
+      "U+1F7E6"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "large blue square",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "large-orange-square",
+    "char": "🟧",
+    "name": "LARGE ORANGE SQUARE",
+    "codepoints": [
+      "U+1F7E7"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "large orange square",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "large-yellow-square",
+    "char": "🟨",
+    "name": "LARGE YELLOW SQUARE",
+    "codepoints": [
+      "U+1F7E8"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "large yellow square",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "large-green-square",
+    "char": "🟩",
+    "name": "LARGE GREEN SQUARE",
+    "codepoints": [
+      "U+1F7E9"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "large green square",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "large-purple-square",
+    "char": "🟪",
+    "name": "LARGE PURPLE SQUARE",
+    "codepoints": [
+      "U+1F7EA"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "large purple square",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "large-brown-square",
+    "char": "🟫",
+    "name": "LARGE BROWN SQUARE",
+    "codepoints": [
+      "U+1F7EB"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "large brown square",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "black-square",
+    "char": "■",
+    "name": "BLACK SQUARE",
+    "codepoints": [
+      "U+25A0"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "shape"
+    ],
+    "searchKeywords": [
+      "square filled"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    },
+    "featured": true
+  },
+  {
+    "id": "white-square",
+    "char": "□",
+    "name": "WHITE SQUARE",
+    "codepoints": [
+      "U+25A1"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "shape"
+    ],
+    "searchKeywords": [
+      "square outline"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "white-square-with-rounded-corners",
+    "char": "▢",
+    "name": "WHITE SQUARE WITH ROUNDED CORNERS",
+    "codepoints": [
+      "U+25A2"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "white square with rounded corners",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "white-square-containing-black-small-square",
+    "char": "▣",
+    "name": "WHITE SQUARE CONTAINING BLACK SMALL SQUARE",
+    "codepoints": [
+      "U+25A3"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "white square containing black small square",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "square-with-horizontal-fill",
+    "char": "▤",
+    "name": "SQUARE WITH HORIZONTAL FILL",
+    "codepoints": [
+      "U+25A4"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "square with horizontal fill",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "square-with-vertical-fill",
+    "char": "▥",
+    "name": "SQUARE WITH VERTICAL FILL",
+    "codepoints": [
+      "U+25A5"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "square with vertical fill",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "square-with-orthogonal-crosshatch-fill",
+    "char": "▦",
+    "name": "SQUARE WITH ORTHOGONAL CROSSHATCH FILL",
+    "codepoints": [
+      "U+25A6"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "square with orthogonal crosshatch fill",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "square-with-upper-left-to-lower-right-fill",
+    "char": "▧",
+    "name": "SQUARE WITH UPPER LEFT TO LOWER RIGHT FILL",
+    "codepoints": [
+      "U+25A7"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "square with upper left to lower right fill",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "square-with-upper-right-to-lower-left-fill",
+    "char": "▨",
+    "name": "SQUARE WITH UPPER RIGHT TO LOWER LEFT FILL",
+    "codepoints": [
+      "U+25A8"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "square with upper right to lower left fill",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "square-with-diagonal-crosshatch-fill",
+    "char": "▩",
+    "name": "SQUARE WITH DIAGONAL CROSSHATCH FILL",
+    "codepoints": [
+      "U+25A9"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "square with diagonal crosshatch fill",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "black-small-square",
+    "char": "▪",
+    "name": "BLACK SMALL SQUARE",
+    "codepoints": [
+      "U+25AA"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "black small square",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "white-small-square",
+    "char": "▫",
+    "name": "WHITE SMALL SQUARE",
+    "codepoints": [
+      "U+25AB"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "white small square",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "black-rectangle",
+    "char": "▬",
+    "name": "BLACK RECTANGLE",
+    "codepoints": [
+      "U+25AC"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "black rectangle",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "white-rectangle",
+    "char": "▭",
+    "name": "WHITE RECTANGLE",
+    "codepoints": [
+      "U+25AD"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "white rectangle",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "black-vertical-rectangle",
+    "char": "▮",
+    "name": "BLACK VERTICAL RECTANGLE",
+    "codepoints": [
+      "U+25AE"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "black vertical rectangle",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "white-vertical-rectangle",
+    "char": "▯",
+    "name": "WHITE VERTICAL RECTANGLE",
+    "codepoints": [
+      "U+25AF"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "white vertical rectangle",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "black-parallelogram",
+    "char": "▰",
+    "name": "BLACK PARALLELOGRAM",
+    "codepoints": [
+      "U+25B0"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "shape"
+    ],
+    "searchKeywords": [
+      "parallelogram"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "white-parallelogram",
+    "char": "▱",
+    "name": "WHITE PARALLELOGRAM",
+    "codepoints": [
+      "U+25B1"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "white parallelogram",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "black-triangle-up",
+    "char": "▲",
+    "name": "BLACK UP-POINTING TRIANGLE",
+    "codepoints": [
+      "U+25B2"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "shape"
+    ],
+    "searchKeywords": [
+      "triangle up"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "white-up-pointing-triangle",
+    "char": "△",
+    "name": "WHITE UP-POINTING TRIANGLE",
+    "codepoints": [
+      "U+25B3"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "white up-pointing triangle",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "black-up-pointing-small-triangle",
+    "char": "▴",
+    "name": "BLACK UP-POINTING SMALL TRIANGLE",
+    "codepoints": [
+      "U+25B4"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "black up-pointing small triangle",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "white-up-pointing-small-triangle",
+    "char": "▵",
+    "name": "WHITE UP-POINTING SMALL TRIANGLE",
+    "codepoints": [
+      "U+25B5"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "white up-pointing small triangle",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "black-right-pointing-triangle",
+    "char": "▶",
+    "name": "BLACK RIGHT-POINTING TRIANGLE",
+    "codepoints": [
+      "U+25B6"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "ui",
+      "direction"
+    ],
+    "searchKeywords": [
+      "triangle",
+      "play icon"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "white-right-pointing-triangle",
+    "char": "▷",
+    "name": "WHITE RIGHT-POINTING TRIANGLE",
+    "codepoints": [
+      "U+25B7"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "ui",
+      "direction"
+    ],
+    "searchKeywords": [
+      "triangle outline",
+      "play icon"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "black-right-pointing-small-triangle",
+    "char": "▸",
+    "name": "BLACK RIGHT-POINTING SMALL TRIANGLE",
+    "codepoints": [
+      "U+25B8"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "black right-pointing small triangle",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "white-right-pointing-small-triangle",
+    "char": "▹",
+    "name": "WHITE RIGHT-POINTING SMALL TRIANGLE",
+    "codepoints": [
+      "U+25B9"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "white right-pointing small triangle",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "black-right-pointing-pointer",
+    "char": "►",
+    "name": "BLACK RIGHT-POINTING POINTER",
+    "codepoints": [
+      "U+25BA"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "black right-pointing pointer",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "white-right-pointing-pointer",
+    "char": "▻",
+    "name": "WHITE RIGHT-POINTING POINTER",
+    "codepoints": [
+      "U+25BB"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "white right-pointing pointer",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "black-triangle-down",
+    "char": "▼",
+    "name": "BLACK DOWN-POINTING TRIANGLE",
+    "codepoints": [
+      "U+25BC"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "shape"
+    ],
+    "searchKeywords": [
+      "triangle down"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "white-down-pointing-triangle",
+    "char": "▽",
+    "name": "WHITE DOWN-POINTING TRIANGLE",
+    "codepoints": [
+      "U+25BD"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "white down-pointing triangle",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "black-down-pointing-small-triangle",
+    "char": "▾",
+    "name": "BLACK DOWN-POINTING SMALL TRIANGLE",
+    "codepoints": [
+      "U+25BE"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "black down-pointing small triangle",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "white-down-pointing-small-triangle",
+    "char": "▿",
+    "name": "WHITE DOWN-POINTING SMALL TRIANGLE",
+    "codepoints": [
+      "U+25BF"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "white down-pointing small triangle",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "black-left-pointing-triangle",
+    "char": "◀",
+    "name": "BLACK LEFT-POINTING TRIANGLE",
+    "codepoints": [
+      "U+25C0"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "black left-pointing triangle",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "white-left-pointing-triangle",
+    "char": "◁",
+    "name": "WHITE LEFT-POINTING TRIANGLE",
+    "codepoints": [
+      "U+25C1"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:sm"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "white left-pointing triangle",
+      "Sm"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "black-left-pointing-small-triangle",
+    "char": "◂",
+    "name": "BLACK LEFT-POINTING SMALL TRIANGLE",
+    "codepoints": [
+      "U+25C2"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "black left-pointing small triangle",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "white-left-pointing-small-triangle",
+    "char": "◃",
+    "name": "WHITE LEFT-POINTING SMALL TRIANGLE",
+    "codepoints": [
+      "U+25C3"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "white left-pointing small triangle",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "black-left-pointing-pointer",
+    "char": "◄",
+    "name": "BLACK LEFT-POINTING POINTER",
+    "codepoints": [
+      "U+25C4"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "black left-pointing pointer",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "white-left-pointing-pointer",
+    "char": "◅",
+    "name": "WHITE LEFT-POINTING POINTER",
+    "codepoints": [
+      "U+25C5"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "white left-pointing pointer",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "black-diamond",
+    "char": "◆",
+    "name": "BLACK DIAMOND",
+    "codepoints": [
+      "U+25C6"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "shape"
+    ],
+    "searchKeywords": [
+      "diamond",
+      "rhombus"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "white-diamond",
+    "char": "◇",
+    "name": "WHITE DIAMOND",
+    "codepoints": [
+      "U+25C7"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "shape"
+    ],
+    "searchKeywords": [
+      "diamond outline"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "white-diamond-containing-black-small-diamond",
+    "char": "◈",
+    "name": "WHITE DIAMOND CONTAINING BLACK SMALL DIAMOND",
+    "codepoints": [
+      "U+25C8"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "white diamond containing black small diamond",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fisheye",
+    "char": "◉",
+    "name": "FISHEYE",
+    "codepoints": [
+      "U+25C9"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "fisheye",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lozenge",
+    "char": "◊",
+    "name": "LOZENGE",
+    "codepoints": [
+      "U+25CA"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "lozenge",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "white-circle",
+    "char": "○",
+    "name": "WHITE CIRCLE",
+    "codepoints": [
+      "U+25CB"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "shape"
+    ],
+    "searchKeywords": [
+      "circle outline"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dotted-circle",
+    "char": "◌",
+    "name": "DOTTED CIRCLE",
+    "codepoints": [
+      "U+25CC"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "dotted circle",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "circle-with-vertical-fill",
+    "char": "◍",
+    "name": "CIRCLE WITH VERTICAL FILL",
+    "codepoints": [
+      "U+25CD"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "circle with vertical fill",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bullseye",
+    "char": "◎",
+    "name": "BULLSEYE",
+    "codepoints": [
+      "U+25CE"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "bullseye",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "black-circle",
+    "char": "●",
+    "name": "BLACK CIRCLE",
+    "codepoints": [
+      "U+25CF"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "shape"
+    ],
+    "searchKeywords": [
+      "circle filled"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    },
+    "featured": true
+  },
+  {
+    "id": "circle-with-left-half-black",
+    "char": "◐",
+    "name": "CIRCLE WITH LEFT HALF BLACK",
+    "codepoints": [
+      "U+25D0"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "circle with left half black",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "circle-with-right-half-black",
+    "char": "◑",
+    "name": "CIRCLE WITH RIGHT HALF BLACK",
+    "codepoints": [
+      "U+25D1"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "circle with right half black",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "circle-with-lower-half-black",
+    "char": "◒",
+    "name": "CIRCLE WITH LOWER HALF BLACK",
+    "codepoints": [
+      "U+25D2"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "circle with lower half black",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "circle-with-upper-half-black",
+    "char": "◓",
+    "name": "CIRCLE WITH UPPER HALF BLACK",
+    "codepoints": [
+      "U+25D3"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "circle with upper half black",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "circle-with-upper-right-quadrant-black",
+    "char": "◔",
+    "name": "CIRCLE WITH UPPER RIGHT QUADRANT BLACK",
+    "codepoints": [
+      "U+25D4"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "circle with upper right quadrant black",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "circle-with-all-but-upper-left-quadrant-black",
+    "char": "◕",
+    "name": "CIRCLE WITH ALL BUT UPPER LEFT QUADRANT BLACK",
+    "codepoints": [
+      "U+25D5"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "circle with all but upper left quadrant black",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "left-half-black-circle",
+    "char": "◖",
+    "name": "LEFT HALF BLACK CIRCLE",
+    "codepoints": [
+      "U+25D6"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "left half black circle",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "right-half-black-circle",
+    "char": "◗",
+    "name": "RIGHT HALF BLACK CIRCLE",
+    "codepoints": [
+      "U+25D7"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "right half black circle",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "inverse-bullet",
+    "char": "◘",
+    "name": "INVERSE BULLET",
+    "codepoints": [
+      "U+25D8"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "inverse bullet",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "inverse-white-circle",
+    "char": "◙",
+    "name": "INVERSE WHITE CIRCLE",
+    "codepoints": [
+      "U+25D9"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "inverse white circle",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "upper-half-inverse-white-circle",
+    "char": "◚",
+    "name": "UPPER HALF INVERSE WHITE CIRCLE",
+    "codepoints": [
+      "U+25DA"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "upper half inverse white circle",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lower-half-inverse-white-circle",
+    "char": "◛",
+    "name": "LOWER HALF INVERSE WHITE CIRCLE",
+    "codepoints": [
+      "U+25DB"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "lower half inverse white circle",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "upper-left-quadrant-circular-arc",
+    "char": "◜",
+    "name": "UPPER LEFT QUADRANT CIRCULAR ARC",
+    "codepoints": [
+      "U+25DC"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "upper left quadrant circular arc",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "upper-right-quadrant-circular-arc",
+    "char": "◝",
+    "name": "UPPER RIGHT QUADRANT CIRCULAR ARC",
+    "codepoints": [
+      "U+25DD"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "upper right quadrant circular arc",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lower-right-quadrant-circular-arc",
+    "char": "◞",
+    "name": "LOWER RIGHT QUADRANT CIRCULAR ARC",
+    "codepoints": [
+      "U+25DE"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "lower right quadrant circular arc",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lower-left-quadrant-circular-arc",
+    "char": "◟",
+    "name": "LOWER LEFT QUADRANT CIRCULAR ARC",
+    "codepoints": [
+      "U+25DF"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "lower left quadrant circular arc",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "upper-half-circle",
+    "char": "◠",
+    "name": "UPPER HALF CIRCLE",
+    "codepoints": [
+      "U+25E0"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "upper half circle",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lower-half-circle",
+    "char": "◡",
+    "name": "LOWER HALF CIRCLE",
+    "codepoints": [
+      "U+25E1"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "lower half circle",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "black-lower-right-triangle",
+    "char": "◢",
+    "name": "BLACK LOWER RIGHT TRIANGLE",
+    "codepoints": [
+      "U+25E2"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "black lower right triangle",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "black-lower-left-triangle",
+    "char": "◣",
+    "name": "BLACK LOWER LEFT TRIANGLE",
+    "codepoints": [
+      "U+25E3"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "black lower left triangle",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "black-upper-left-triangle",
+    "char": "◤",
+    "name": "BLACK UPPER LEFT TRIANGLE",
+    "codepoints": [
+      "U+25E4"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "black upper left triangle",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "black-upper-right-triangle",
+    "char": "◥",
+    "name": "BLACK UPPER RIGHT TRIANGLE",
+    "codepoints": [
+      "U+25E5"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "black upper right triangle",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "white-bullet",
+    "char": "◦",
+    "name": "WHITE BULLET",
+    "codepoints": [
+      "U+25E6"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "white bullet",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "square-with-left-half-black",
+    "char": "◧",
+    "name": "SQUARE WITH LEFT HALF BLACK",
+    "codepoints": [
+      "U+25E7"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "square with left half black",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "square-with-right-half-black",
+    "char": "◨",
+    "name": "SQUARE WITH RIGHT HALF BLACK",
+    "codepoints": [
+      "U+25E8"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "square with right half black",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "square-with-upper-left-diagonal-half-black",
+    "char": "◩",
+    "name": "SQUARE WITH UPPER LEFT DIAGONAL HALF BLACK",
+    "codepoints": [
+      "U+25E9"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "square with upper left diagonal half black",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "square-with-lower-right-diagonal-half-black",
+    "char": "◪",
+    "name": "SQUARE WITH LOWER RIGHT DIAGONAL HALF BLACK",
+    "codepoints": [
+      "U+25EA"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "square with lower right diagonal half black",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "white-square-with-vertical-bisecting-line",
+    "char": "◫",
+    "name": "WHITE SQUARE WITH VERTICAL BISECTING LINE",
+    "codepoints": [
+      "U+25EB"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "white square with vertical bisecting line",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "white-up-pointing-triangle-with-dot",
+    "char": "◬",
+    "name": "WHITE UP-POINTING TRIANGLE WITH DOT",
+    "codepoints": [
+      "U+25EC"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "white up-pointing triangle with dot",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "up-pointing-triangle-with-left-half-black",
+    "char": "◭",
+    "name": "UP-POINTING TRIANGLE WITH LEFT HALF BLACK",
+    "codepoints": [
+      "U+25ED"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "up-pointing triangle with left half black",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "up-pointing-triangle-with-right-half-black",
+    "char": "◮",
+    "name": "UP-POINTING TRIANGLE WITH RIGHT HALF BLACK",
+    "codepoints": [
+      "U+25EE"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "up-pointing triangle with right half black",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "large-circle",
+    "char": "◯",
+    "name": "LARGE CIRCLE",
+    "codepoints": [
+      "U+25EF"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "large circle",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "white-square-with-upper-left-quadrant",
+    "char": "◰",
+    "name": "WHITE SQUARE WITH UPPER LEFT QUADRANT",
+    "codepoints": [
+      "U+25F0"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "white square with upper left quadrant",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "white-square-with-lower-left-quadrant",
+    "char": "◱",
+    "name": "WHITE SQUARE WITH LOWER LEFT QUADRANT",
+    "codepoints": [
+      "U+25F1"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "white square with lower left quadrant",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "white-square-with-lower-right-quadrant",
+    "char": "◲",
+    "name": "WHITE SQUARE WITH LOWER RIGHT QUADRANT",
+    "codepoints": [
+      "U+25F2"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "white square with lower right quadrant",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "white-square-with-upper-right-quadrant",
+    "char": "◳",
+    "name": "WHITE SQUARE WITH UPPER RIGHT QUADRANT",
+    "codepoints": [
+      "U+25F3"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "white square with upper right quadrant",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "white-circle-with-upper-left-quadrant",
+    "char": "◴",
+    "name": "WHITE CIRCLE WITH UPPER LEFT QUADRANT",
+    "codepoints": [
+      "U+25F4"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "white circle with upper left quadrant",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "white-circle-with-lower-left-quadrant",
+    "char": "◵",
+    "name": "WHITE CIRCLE WITH LOWER LEFT QUADRANT",
+    "codepoints": [
+      "U+25F5"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "white circle with lower left quadrant",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "white-circle-with-lower-right-quadrant",
+    "char": "◶",
+    "name": "WHITE CIRCLE WITH LOWER RIGHT QUADRANT",
+    "codepoints": [
+      "U+25F6"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "white circle with lower right quadrant",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "white-circle-with-upper-right-quadrant",
+    "char": "◷",
+    "name": "WHITE CIRCLE WITH UPPER RIGHT QUADRANT",
+    "codepoints": [
+      "U+25F7"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:so"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "white circle with upper right quadrant",
+      "So"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "upper-left-triangle",
+    "char": "◸",
+    "name": "UPPER LEFT TRIANGLE",
+    "codepoints": [
+      "U+25F8"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:sm"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "upper left triangle",
+      "Sm"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "upper-right-triangle",
+    "char": "◹",
+    "name": "UPPER RIGHT TRIANGLE",
+    "codepoints": [
+      "U+25F9"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:sm"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "upper right triangle",
+      "Sm"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lower-left-triangle",
+    "char": "◺",
+    "name": "LOWER LEFT TRIANGLE",
+    "codepoints": [
+      "U+25FA"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:sm"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "lower left triangle",
+      "Sm"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "white-medium-square",
+    "char": "◻",
+    "name": "WHITE MEDIUM SQUARE",
+    "codepoints": [
+      "U+25FB"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:sm"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "white medium square",
+      "Sm"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "black-medium-square",
+    "char": "◼",
+    "name": "BLACK MEDIUM SQUARE",
+    "codepoints": [
+      "U+25FC"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:sm"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "black medium square",
+      "Sm"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "white-medium-small-square",
+    "char": "◽",
+    "name": "WHITE MEDIUM SMALL SQUARE",
+    "codepoints": [
+      "U+25FD"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:sm"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "white medium small square",
+      "Sm"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "black-medium-small-square",
+    "char": "◾",
+    "name": "BLACK MEDIUM SMALL SQUARE",
+    "codepoints": [
+      "U+25FE"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:sm"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "black medium small square",
+      "Sm"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lower-right-triangle",
+    "char": "◿",
+    "name": "LOWER RIGHT TRIANGLE",
+    "codepoints": [
+      "U+25FF"
+    ],
+    "category": "geometric-shapes",
+    "primaryCategory": "geometric-shapes",
+    "tags": [
+      "geometric-shapes",
+      "gc:sm"
+    ],
+    "searchKeywords": [
+      "geometric shapes",
+      "lower right triangle",
+      "Sm"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-geometric-shapes-core"
+    ],
+    "knowledge": {
+      "description": "Unicode geometric-shapes character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,6486 @@
+[
+  {
+    "id": "hyphen",
+    "char": "‐",
+    "name": "HYPHEN",
+    "codepoints": [
+      "U+2010"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:pd"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "hyphen",
+      "Pd"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "non-breaking-hyphen",
+    "char": "‑",
+    "name": "NON-BREAKING HYPHEN",
+    "codepoints": [
+      "U+2011"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:pd"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "non-breaking hyphen",
+      "Pd"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "figure-dash",
+    "char": "‒",
+    "name": "FIGURE DASH",
+    "codepoints": [
+      "U+2012"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:pd"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "figure dash",
+      "Pd"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "en-dash",
+    "char": "–",
+    "name": "EN DASH",
+    "codepoints": [
+      "U+2013"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:pd"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "en dash",
+      "Pd"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "em-dash",
+    "char": "—",
+    "name": "EM DASH",
+    "codepoints": [
+      "U+2014"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:pd"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "em dash",
+      "Pd"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "horizontal-bar",
+    "char": "―",
+    "name": "HORIZONTAL BAR",
+    "codepoints": [
+      "U+2015"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:pd"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "horizontal bar",
+      "Pd"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "double-vertical-line",
+    "char": "‖",
+    "name": "DOUBLE VERTICAL LINE",
+    "codepoints": [
+      "U+2016"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "double vertical line",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "double-low-line",
+    "char": "‗",
+    "name": "DOUBLE LOW LINE",
+    "codepoints": [
+      "U+2017"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "double low line",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "left-single-curly",
+    "char": "‘",
+    "name": "LEFT SINGLE QUOTATION MARK",
+    "codepoints": [
+      "U+2018"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "curly"
+    ],
+    "searchKeywords": [
+      "opening single quote"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "right-single-curly",
+    "char": "’",
+    "name": "RIGHT SINGLE QUOTATION MARK",
+    "codepoints": [
+      "U+2019"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "curly"
+    ],
+    "searchKeywords": [
+      "closing single quote",
+      "apostrophe"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "single-low-9-quotation-mark",
+    "char": "‚",
+    "name": "SINGLE LOW-9 QUOTATION MARK",
+    "codepoints": [
+      "U+201A"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:ps"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "single low-9 quotation mark",
+      "Ps"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "single-high-reversed-9-quotation-mark",
+    "char": "‛",
+    "name": "SINGLE HIGH-REVERSED-9 QUOTATION MARK",
+    "codepoints": [
+      "U+201B"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:pi"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "single high-reversed-9 quotation mark",
+      "Pi"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "left-double-curly",
+    "char": "“",
+    "name": "LEFT DOUBLE QUOTATION MARK",
+    "codepoints": [
+      "U+201C"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "curly"
+    ],
+    "searchKeywords": [
+      "opening quote",
+      "smart quote"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "right-double-curly",
+    "char": "”",
+    "name": "RIGHT DOUBLE QUOTATION MARK",
+    "codepoints": [
+      "U+201D"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "curly"
+    ],
+    "searchKeywords": [
+      "closing quote",
+      "smart quote"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "double-low-9-quotation-mark",
+    "char": "„",
+    "name": "DOUBLE LOW-9 QUOTATION MARK",
+    "codepoints": [
+      "U+201E"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:ps"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "double low-9 quotation mark",
+      "Ps"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "double-high-reversed-9-quotation-mark",
+    "char": "‟",
+    "name": "DOUBLE HIGH-REVERSED-9 QUOTATION MARK",
+    "codepoints": [
+      "U+201F"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:pi"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "double high-reversed-9 quotation mark",
+      "Pi"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "u-2020",
+    "char": "†",
+    "name": "DAGGER",
+    "codepoints": [
+      "U+2020"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "†",
+      "based codex"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "based-codex-pack"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "u-2021",
+    "char": "‡",
+    "name": "DOUBLE DAGGER",
+    "codepoints": [
+      "U+2021"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "‡",
+      "based codex"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "based-codex-pack"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "u-2022",
+    "char": "•",
+    "name": "BULLET",
+    "codepoints": [
+      "U+2022"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "•",
+      "based codex"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "based-codex-pack"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "triangular-bullet",
+    "char": "‣",
+    "name": "TRIANGULAR BULLET",
+    "codepoints": [
+      "U+2023"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "triangular bullet",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "one-dot-leader",
+    "char": "․",
+    "name": "ONE DOT LEADER",
+    "codepoints": [
+      "U+2024"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "one dot leader",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "two-dot-leader",
+    "char": "‥",
+    "name": "TWO DOT LEADER",
+    "codepoints": [
+      "U+2025"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "two dot leader",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ellipsis",
+    "char": "…",
+    "name": "HORIZONTAL ELLIPSIS",
+    "codepoints": [
+      "U+2026"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "typography"
+    ],
+    "searchKeywords": [
+      "ellipsis",
+      "three dots",
+      "truncate"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hyphenation-point",
+    "char": "‧",
+    "name": "HYPHENATION POINT",
+    "codepoints": [
+      "U+2027"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "hyphenation point",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "u-2030",
+    "char": "‰",
+    "name": "PER MILLE SIGN",
+    "codepoints": [
+      "U+2030"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "‰",
+      "based codex"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "based-codex-pack"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "per-ten-thousand-sign",
+    "char": "‱",
+    "name": "PER TEN THOUSAND SIGN",
+    "codepoints": [
+      "U+2031"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "per ten thousand sign",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "prime",
+    "char": "′",
+    "name": "PRIME",
+    "codepoints": [
+      "U+2032"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "prime",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "double-prime",
+    "char": "″",
+    "name": "DOUBLE PRIME",
+    "codepoints": [
+      "U+2033"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "double prime",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "triple-prime",
+    "char": "‴",
+    "name": "TRIPLE PRIME",
+    "codepoints": [
+      "U+2034"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "triple prime",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "reversed-prime",
+    "char": "‵",
+    "name": "REVERSED PRIME",
+    "codepoints": [
+      "U+2035"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "reversed prime",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "reversed-double-prime",
+    "char": "‶",
+    "name": "REVERSED DOUBLE PRIME",
+    "codepoints": [
+      "U+2036"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "reversed double prime",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "reversed-triple-prime",
+    "char": "‷",
+    "name": "REVERSED TRIPLE PRIME",
+    "codepoints": [
+      "U+2037"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "reversed triple prime",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "caret",
+    "char": "‸",
+    "name": "CARET",
+    "codepoints": [
+      "U+2038"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "caret",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "single-guillemet-left",
+    "char": "‹",
+    "name": "SINGLE LEFT-POINTING ANGLE QUOTATION MARK",
+    "codepoints": [
+      "U+2039"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "european"
+    ],
+    "searchKeywords": [
+      "single guillemet left"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "based-codex-pack"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "single-guillemet-right",
+    "char": "›",
+    "name": "SINGLE RIGHT-POINTING ANGLE QUOTATION MARK",
+    "codepoints": [
+      "U+203A"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "european"
+    ],
+    "searchKeywords": [
+      "single guillemet right"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "based-codex-pack"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "reference-mark",
+    "char": "※",
+    "name": "REFERENCE MARK",
+    "codepoints": [
+      "U+203B"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "reference mark",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "double-exclamation-mark",
+    "char": "‼",
+    "name": "DOUBLE EXCLAMATION MARK",
+    "codepoints": [
+      "U+203C"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "double exclamation mark",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "interrobang",
+    "char": "‽",
+    "name": "INTERROBANG",
+    "codepoints": [
+      "U+203D"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "typography"
+    ],
+    "searchKeywords": [
+      "interrobang",
+      "question exclamation"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "based-codex-pack"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "overline",
+    "char": "‾",
+    "name": "OVERLINE",
+    "codepoints": [
+      "U+203E"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "overline",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "undertie",
+    "char": "‿",
+    "name": "UNDERTIE",
+    "codepoints": [
+      "U+203F"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:pc"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "undertie",
+      "Pc"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "character-tie",
+    "char": "⁀",
+    "name": "CHARACTER TIE",
+    "codepoints": [
+      "U+2040"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:pc"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "character tie",
+      "Pc"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "caret-insertion-point",
+    "char": "⁁",
+    "name": "CARET INSERTION POINT",
+    "codepoints": [
+      "U+2041"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "caret insertion point",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "asterism",
+    "char": "⁂",
+    "name": "ASTERISM",
+    "codepoints": [
+      "U+2042"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "asterism",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hyphen-bullet",
+    "char": "⁃",
+    "name": "HYPHEN BULLET",
+    "codepoints": [
+      "U+2043"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "hyphen bullet",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "left-square-bracket-with-quill",
+    "char": "⁅",
+    "name": "LEFT SQUARE BRACKET WITH QUILL",
+    "codepoints": [
+      "U+2045"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:ps"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "left square bracket with quill",
+      "Ps"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "right-square-bracket-with-quill",
+    "char": "⁆",
+    "name": "RIGHT SQUARE BRACKET WITH QUILL",
+    "codepoints": [
+      "U+2046"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:pe"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "right square bracket with quill",
+      "Pe"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "double-question-mark",
+    "char": "⁇",
+    "name": "DOUBLE QUESTION MARK",
+    "codepoints": [
+      "U+2047"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "double question mark",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "question-exclamation-mark",
+    "char": "⁈",
+    "name": "QUESTION EXCLAMATION MARK",
+    "codepoints": [
+      "U+2048"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "question exclamation mark",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "exclamation-question-mark",
+    "char": "⁉",
+    "name": "EXCLAMATION QUESTION MARK",
+    "codepoints": [
+      "U+2049"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "exclamation question mark",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tironian-sign-et",
+    "char": "⁊",
+    "name": "TIRONIAN SIGN ET",
+    "codepoints": [
+      "U+204A"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "tironian sign et",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "reversed-pilcrow-sign",
+    "char": "⁋",
+    "name": "REVERSED PILCROW SIGN",
+    "codepoints": [
+      "U+204B"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "reversed pilcrow sign",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "black-leftwards-bullet",
+    "char": "⁌",
+    "name": "BLACK LEFTWARDS BULLET",
+    "codepoints": [
+      "U+204C"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "black leftwards bullet",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "black-rightwards-bullet",
+    "char": "⁍",
+    "name": "BLACK RIGHTWARDS BULLET",
+    "codepoints": [
+      "U+204D"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "black rightwards bullet",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "low-asterisk",
+    "char": "⁎",
+    "name": "LOW ASTERISK",
+    "codepoints": [
+      "U+204E"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "low asterisk",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "reversed-semicolon",
+    "char": "⁏",
+    "name": "REVERSED SEMICOLON",
+    "codepoints": [
+      "U+204F"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "reversed semicolon",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "close-up",
+    "char": "⁐",
+    "name": "CLOSE UP",
+    "codepoints": [
+      "U+2050"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "close up",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "two-asterisks-aligned-vertically",
+    "char": "⁑",
+    "name": "TWO ASTERISKS ALIGNED VERTICALLY",
+    "codepoints": [
+      "U+2051"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "two asterisks aligned vertically",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "swung-dash",
+    "char": "⁓",
+    "name": "SWUNG DASH",
+    "codepoints": [
+      "U+2053"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "swung dash",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "inverted-undertie",
+    "char": "⁔",
+    "name": "INVERTED UNDERTIE",
+    "codepoints": [
+      "U+2054"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:pc"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "inverted undertie",
+      "Pc"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "flower-punctuation-mark",
+    "char": "⁕",
+    "name": "FLOWER PUNCTUATION MARK",
+    "codepoints": [
+      "U+2055"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "flower punctuation mark",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "three-dot-punctuation",
+    "char": "⁖",
+    "name": "THREE DOT PUNCTUATION",
+    "codepoints": [
+      "U+2056"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "three dot punctuation",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "quadruple-prime",
+    "char": "⁗",
+    "name": "QUADRUPLE PRIME",
+    "codepoints": [
+      "U+2057"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "quadruple prime",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "four-dot-punctuation",
+    "char": "⁘",
+    "name": "FOUR DOT PUNCTUATION",
+    "codepoints": [
+      "U+2058"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "four dot punctuation",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "five-dot-punctuation",
+    "char": "⁙",
+    "name": "FIVE DOT PUNCTUATION",
+    "codepoints": [
+      "U+2059"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "five dot punctuation",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "two-dot-punctuation",
+    "char": "⁚",
+    "name": "TWO DOT PUNCTUATION",
+    "codepoints": [
+      "U+205A"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "two dot punctuation",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "four-dot-mark",
+    "char": "⁛",
+    "name": "FOUR DOT MARK",
+    "codepoints": [
+      "U+205B"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "four dot mark",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dotted-cross",
+    "char": "⁜",
+    "name": "DOTTED CROSS",
+    "codepoints": [
+      "U+205C"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "dotted cross",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tricolon",
+    "char": "⁝",
+    "name": "TRICOLON",
+    "codepoints": [
+      "U+205D"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "tricolon",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "vertical-four-dots",
+    "char": "⁞",
+    "name": "VERTICAL FOUR DOTS",
+    "codepoints": [
+      "U+205E"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "vertical four dots",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "right-angle-substitution-marker",
+    "char": "⸀",
+    "name": "RIGHT ANGLE SUBSTITUTION MARKER",
+    "codepoints": [
+      "U+2E00"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "right angle substitution marker",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "right-angle-dotted-substitution-marker",
+    "char": "⸁",
+    "name": "RIGHT ANGLE DOTTED SUBSTITUTION MARKER",
+    "codepoints": [
+      "U+2E01"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "right angle dotted substitution marker",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "left-substitution-bracket",
+    "char": "⸂",
+    "name": "LEFT SUBSTITUTION BRACKET",
+    "codepoints": [
+      "U+2E02"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:pi"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "left substitution bracket",
+      "Pi"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "right-substitution-bracket",
+    "char": "⸃",
+    "name": "RIGHT SUBSTITUTION BRACKET",
+    "codepoints": [
+      "U+2E03"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:pf"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "right substitution bracket",
+      "Pf"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "left-dotted-substitution-bracket",
+    "char": "⸄",
+    "name": "LEFT DOTTED SUBSTITUTION BRACKET",
+    "codepoints": [
+      "U+2E04"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:pi"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "left dotted substitution bracket",
+      "Pi"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "right-dotted-substitution-bracket",
+    "char": "⸅",
+    "name": "RIGHT DOTTED SUBSTITUTION BRACKET",
+    "codepoints": [
+      "U+2E05"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:pf"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "right dotted substitution bracket",
+      "Pf"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "raised-interpolation-marker",
+    "char": "⸆",
+    "name": "RAISED INTERPOLATION MARKER",
+    "codepoints": [
+      "U+2E06"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "raised interpolation marker",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "raised-dotted-interpolation-marker",
+    "char": "⸇",
+    "name": "RAISED DOTTED INTERPOLATION MARKER",
+    "codepoints": [
+      "U+2E07"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "raised dotted interpolation marker",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dotted-transposition-marker",
+    "char": "⸈",
+    "name": "DOTTED TRANSPOSITION MARKER",
+    "codepoints": [
+      "U+2E08"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "dotted transposition marker",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "left-transposition-bracket",
+    "char": "⸉",
+    "name": "LEFT TRANSPOSITION BRACKET",
+    "codepoints": [
+      "U+2E09"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:pi"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "left transposition bracket",
+      "Pi"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "right-transposition-bracket",
+    "char": "⸊",
+    "name": "RIGHT TRANSPOSITION BRACKET",
+    "codepoints": [
+      "U+2E0A"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:pf"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "right transposition bracket",
+      "Pf"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "raised-square",
+    "char": "⸋",
+    "name": "RAISED SQUARE",
+    "codepoints": [
+      "U+2E0B"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "raised square",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "left-raised-omission-bracket",
+    "char": "⸌",
+    "name": "LEFT RAISED OMISSION BRACKET",
+    "codepoints": [
+      "U+2E0C"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:pi"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "left raised omission bracket",
+      "Pi"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "right-raised-omission-bracket",
+    "char": "⸍",
+    "name": "RIGHT RAISED OMISSION BRACKET",
+    "codepoints": [
+      "U+2E0D"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:pf"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "right raised omission bracket",
+      "Pf"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "editorial-coronis",
+    "char": "⸎",
+    "name": "EDITORIAL CORONIS",
+    "codepoints": [
+      "U+2E0E"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "editorial coronis",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "paragraphos",
+    "char": "⸏",
+    "name": "PARAGRAPHOS",
+    "codepoints": [
+      "U+2E0F"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "paragraphos",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "forked-paragraphos",
+    "char": "⸐",
+    "name": "FORKED PARAGRAPHOS",
+    "codepoints": [
+      "U+2E10"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "forked paragraphos",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "reversed-forked-paragraphos",
+    "char": "⸑",
+    "name": "REVERSED FORKED PARAGRAPHOS",
+    "codepoints": [
+      "U+2E11"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "reversed forked paragraphos",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hypodiastole",
+    "char": "⸒",
+    "name": "HYPODIASTOLE",
+    "codepoints": [
+      "U+2E12"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "hypodiastole",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dotted-obelos",
+    "char": "⸓",
+    "name": "DOTTED OBELOS",
+    "codepoints": [
+      "U+2E13"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "dotted obelos",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "downwards-ancora",
+    "char": "⸔",
+    "name": "DOWNWARDS ANCORA",
+    "codepoints": [
+      "U+2E14"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "downwards ancora",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "upwards-ancora",
+    "char": "⸕",
+    "name": "UPWARDS ANCORA",
+    "codepoints": [
+      "U+2E15"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "upwards ancora",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dotted-right-pointing-angle",
+    "char": "⸖",
+    "name": "DOTTED RIGHT-POINTING ANGLE",
+    "codepoints": [
+      "U+2E16"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "dotted right-pointing angle",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "double-oblique-hyphen",
+    "char": "⸗",
+    "name": "DOUBLE OBLIQUE HYPHEN",
+    "codepoints": [
+      "U+2E17"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:pd"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "double oblique hyphen",
+      "Pd"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "inverted-interrobang",
+    "char": "⸘",
+    "name": "INVERTED INTERROBANG",
+    "codepoints": [
+      "U+2E18"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "inverted interrobang",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "u-2e19",
+    "char": "⸙",
+    "name": "PALM BRANCH",
+    "codepoints": [
+      "U+2E19"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "based-codex"
+    ],
+    "searchKeywords": [
+      "⸙",
+      "based codex"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "based-codex-pack"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hyphen-with-diaeresis",
+    "char": "⸚",
+    "name": "HYPHEN WITH DIAERESIS",
+    "codepoints": [
+      "U+2E1A"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:pd"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "hyphen with diaeresis",
+      "Pd"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tilde-with-ring-above",
+    "char": "⸛",
+    "name": "TILDE WITH RING ABOVE",
+    "codepoints": [
+      "U+2E1B"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "tilde with ring above",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "left-low-paraphrase-bracket",
+    "char": "⸜",
+    "name": "LEFT LOW PARAPHRASE BRACKET",
+    "codepoints": [
+      "U+2E1C"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:pi"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "left low paraphrase bracket",
+      "Pi"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "right-low-paraphrase-bracket",
+    "char": "⸝",
+    "name": "RIGHT LOW PARAPHRASE BRACKET",
+    "codepoints": [
+      "U+2E1D"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:pf"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "right low paraphrase bracket",
+      "Pf"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tilde-with-dot-above",
+    "char": "⸞",
+    "name": "TILDE WITH DOT ABOVE",
+    "codepoints": [
+      "U+2E1E"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "tilde with dot above",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tilde-with-dot-below",
+    "char": "⸟",
+    "name": "TILDE WITH DOT BELOW",
+    "codepoints": [
+      "U+2E1F"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "tilde with dot below",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "left-vertical-bar-with-quill",
+    "char": "⸠",
+    "name": "LEFT VERTICAL BAR WITH QUILL",
+    "codepoints": [
+      "U+2E20"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:pi"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "left vertical bar with quill",
+      "Pi"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "right-vertical-bar-with-quill",
+    "char": "⸡",
+    "name": "RIGHT VERTICAL BAR WITH QUILL",
+    "codepoints": [
+      "U+2E21"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:pf"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "right vertical bar with quill",
+      "Pf"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "top-left-half-bracket",
+    "char": "⸢",
+    "name": "TOP LEFT HALF BRACKET",
+    "codepoints": [
+      "U+2E22"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:ps"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "top left half bracket",
+      "Ps"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "top-right-half-bracket",
+    "char": "⸣",
+    "name": "TOP RIGHT HALF BRACKET",
+    "codepoints": [
+      "U+2E23"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:pe"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "top right half bracket",
+      "Pe"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bottom-left-half-bracket",
+    "char": "⸤",
+    "name": "BOTTOM LEFT HALF BRACKET",
+    "codepoints": [
+      "U+2E24"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:ps"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "bottom left half bracket",
+      "Ps"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bottom-right-half-bracket",
+    "char": "⸥",
+    "name": "BOTTOM RIGHT HALF BRACKET",
+    "codepoints": [
+      "U+2E25"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:pe"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "bottom right half bracket",
+      "Pe"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "left-sideways-u-bracket",
+    "char": "⸦",
+    "name": "LEFT SIDEWAYS U BRACKET",
+    "codepoints": [
+      "U+2E26"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:ps"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "left sideways u bracket",
+      "Ps"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "right-sideways-u-bracket",
+    "char": "⸧",
+    "name": "RIGHT SIDEWAYS U BRACKET",
+    "codepoints": [
+      "U+2E27"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:pe"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "right sideways u bracket",
+      "Pe"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "left-double-parenthesis",
+    "char": "⸨",
+    "name": "LEFT DOUBLE PARENTHESIS",
+    "codepoints": [
+      "U+2E28"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:ps"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "left double parenthesis",
+      "Ps"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "right-double-parenthesis",
+    "char": "⸩",
+    "name": "RIGHT DOUBLE PARENTHESIS",
+    "codepoints": [
+      "U+2E29"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:pe"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "right double parenthesis",
+      "Pe"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "two-dots-over-one-dot-punctuation",
+    "char": "⸪",
+    "name": "TWO DOTS OVER ONE DOT PUNCTUATION",
+    "codepoints": [
+      "U+2E2A"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "two dots over one dot punctuation",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "one-dot-over-two-dots-punctuation",
+    "char": "⸫",
+    "name": "ONE DOT OVER TWO DOTS PUNCTUATION",
+    "codepoints": [
+      "U+2E2B"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "one dot over two dots punctuation",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "squared-four-dot-punctuation",
+    "char": "⸬",
+    "name": "SQUARED FOUR DOT PUNCTUATION",
+    "codepoints": [
+      "U+2E2C"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "squared four dot punctuation",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "five-dot-mark",
+    "char": "⸭",
+    "name": "FIVE DOT MARK",
+    "codepoints": [
+      "U+2E2D"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "five dot mark",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "reversed-question-mark",
+    "char": "⸮",
+    "name": "REVERSED QUESTION MARK",
+    "codepoints": [
+      "U+2E2E"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "reversed question mark",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ring-point",
+    "char": "⸰",
+    "name": "RING POINT",
+    "codepoints": [
+      "U+2E30"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "ring point",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "word-separator-middle-dot",
+    "char": "⸱",
+    "name": "WORD SEPARATOR MIDDLE DOT",
+    "codepoints": [
+      "U+2E31"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "word separator middle dot",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "turned-comma",
+    "char": "⸲",
+    "name": "TURNED COMMA",
+    "codepoints": [
+      "U+2E32"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "turned comma",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "raised-dot",
+    "char": "⸳",
+    "name": "RAISED DOT",
+    "codepoints": [
+      "U+2E33"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "raised dot",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "raised-comma",
+    "char": "⸴",
+    "name": "RAISED COMMA",
+    "codepoints": [
+      "U+2E34"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "raised comma",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "turned-semicolon",
+    "char": "⸵",
+    "name": "TURNED SEMICOLON",
+    "codepoints": [
+      "U+2E35"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "turned semicolon",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dagger-with-left-guard",
+    "char": "⸶",
+    "name": "DAGGER WITH LEFT GUARD",
+    "codepoints": [
+      "U+2E36"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "dagger with left guard",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dagger-with-right-guard",
+    "char": "⸷",
+    "name": "DAGGER WITH RIGHT GUARD",
+    "codepoints": [
+      "U+2E37"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "dagger with right guard",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "turned-dagger",
+    "char": "⸸",
+    "name": "TURNED DAGGER",
+    "codepoints": [
+      "U+2E38"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "turned dagger",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "top-half-section-sign",
+    "char": "⸹",
+    "name": "TOP HALF SECTION SIGN",
+    "codepoints": [
+      "U+2E39"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "top half section sign",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "two-em-dash",
+    "char": "⸺",
+    "name": "TWO-EM DASH",
+    "codepoints": [
+      "U+2E3A"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:pd"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "two-em dash",
+      "Pd"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "three-em-dash",
+    "char": "⸻",
+    "name": "THREE-EM DASH",
+    "codepoints": [
+      "U+2E3B"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:pd"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "three-em dash",
+      "Pd"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "stenographic-full-stop",
+    "char": "⸼",
+    "name": "STENOGRAPHIC FULL STOP",
+    "codepoints": [
+      "U+2E3C"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "stenographic full stop",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "vertical-six-dots",
+    "char": "⸽",
+    "name": "VERTICAL SIX DOTS",
+    "codepoints": [
+      "U+2E3D"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "vertical six dots",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "wiggly-vertical-line",
+    "char": "⸾",
+    "name": "WIGGLY VERTICAL LINE",
+    "codepoints": [
+      "U+2E3E"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "wiggly vertical line",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "capitulum",
+    "char": "⸿",
+    "name": "CAPITULUM",
+    "codepoints": [
+      "U+2E3F"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "capitulum",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "double-hyphen",
+    "char": "⹀",
+    "name": "DOUBLE HYPHEN",
+    "codepoints": [
+      "U+2E40"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:pd"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "double hyphen",
+      "Pd"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "reversed-comma",
+    "char": "⹁",
+    "name": "REVERSED COMMA",
+    "codepoints": [
+      "U+2E41"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "reversed comma",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "double-low-reversed-9-quotation-mark",
+    "char": "⹂",
+    "name": "DOUBLE LOW-REVERSED-9 QUOTATION MARK",
+    "codepoints": [
+      "U+2E42"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:ps"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "double low-reversed-9 quotation mark",
+      "Ps"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dash-with-left-upturn",
+    "char": "⹃",
+    "name": "DASH WITH LEFT UPTURN",
+    "codepoints": [
+      "U+2E43"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "dash with left upturn",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "double-suspension-mark",
+    "char": "⹄",
+    "name": "DOUBLE SUSPENSION MARK",
+    "codepoints": [
+      "U+2E44"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "double suspension mark",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "inverted-low-kavyka",
+    "char": "⹅",
+    "name": "INVERTED LOW KAVYKA",
+    "codepoints": [
+      "U+2E45"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "inverted low kavyka",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "inverted-low-kavyka-with-kavyka-above",
+    "char": "⹆",
+    "name": "INVERTED LOW KAVYKA WITH KAVYKA ABOVE",
+    "codepoints": [
+      "U+2E46"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "inverted low kavyka with kavyka above",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "low-kavyka",
+    "char": "⹇",
+    "name": "LOW KAVYKA",
+    "codepoints": [
+      "U+2E47"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "low kavyka",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "low-kavyka-with-dot",
+    "char": "⹈",
+    "name": "LOW KAVYKA WITH DOT",
+    "codepoints": [
+      "U+2E48"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "low kavyka with dot",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "double-stacked-comma",
+    "char": "⹉",
+    "name": "DOUBLE STACKED COMMA",
+    "codepoints": [
+      "U+2E49"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "double stacked comma",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dotted-solidus",
+    "char": "⹊",
+    "name": "DOTTED SOLIDUS",
+    "codepoints": [
+      "U+2E4A"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "dotted solidus",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "triple-dagger",
+    "char": "⹋",
+    "name": "TRIPLE DAGGER",
+    "codepoints": [
+      "U+2E4B"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "triple dagger",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medieval-comma",
+    "char": "⹌",
+    "name": "MEDIEVAL COMMA",
+    "codepoints": [
+      "U+2E4C"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "medieval comma",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "paragraphus-mark",
+    "char": "⹍",
+    "name": "PARAGRAPHUS MARK",
+    "codepoints": [
+      "U+2E4D"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "paragraphus mark",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "punctus-elevatus-mark",
+    "char": "⹎",
+    "name": "PUNCTUS ELEVATUS MARK",
+    "codepoints": [
+      "U+2E4E"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "punctus elevatus mark",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cornish-verse-divider",
+    "char": "⹏",
+    "name": "CORNISH VERSE DIVIDER",
+    "codepoints": [
+      "U+2E4F"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "cornish verse divider",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tironian-sign-capital-et",
+    "char": "⹒",
+    "name": "TIRONIAN SIGN CAPITAL ET",
+    "codepoints": [
+      "U+2E52"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "tironian sign capital et",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ideographic-comma",
+    "char": "、",
+    "name": "IDEOGRAPHIC COMMA",
+    "codepoints": [
+      "U+3001"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "ideographic comma",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ideographic-full-stop",
+    "char": "。",
+    "name": "IDEOGRAPHIC FULL STOP",
+    "codepoints": [
+      "U+3002"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "ideographic full stop",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ditto-mark",
+    "char": "〃",
+    "name": "DITTO MARK",
+    "codepoints": [
+      "U+3003"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "ditto mark",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "left-angle-bracket",
+    "char": "〈",
+    "name": "LEFT ANGLE BRACKET",
+    "codepoints": [
+      "U+3008"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:ps"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "left angle bracket",
+      "Ps"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "right-angle-bracket",
+    "char": "〉",
+    "name": "RIGHT ANGLE BRACKET",
+    "codepoints": [
+      "U+3009"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:pe"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "right angle bracket",
+      "Pe"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "left-double-angle-bracket",
+    "char": "《",
+    "name": "LEFT DOUBLE ANGLE BRACKET",
+    "codepoints": [
+      "U+300A"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:ps"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "left double angle bracket",
+      "Ps"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "right-double-angle-bracket",
+    "char": "》",
+    "name": "RIGHT DOUBLE ANGLE BRACKET",
+    "codepoints": [
+      "U+300B"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:pe"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "right double angle bracket",
+      "Pe"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "left-corner-bracket",
+    "char": "「",
+    "name": "LEFT CORNER BRACKET",
+    "codepoints": [
+      "U+300C"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:ps"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "left corner bracket",
+      "Ps"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "right-corner-bracket",
+    "char": "」",
+    "name": "RIGHT CORNER BRACKET",
+    "codepoints": [
+      "U+300D"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:pe"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "right corner bracket",
+      "Pe"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "left-white-corner-bracket",
+    "char": "『",
+    "name": "LEFT WHITE CORNER BRACKET",
+    "codepoints": [
+      "U+300E"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:ps"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "left white corner bracket",
+      "Ps"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "right-white-corner-bracket",
+    "char": "』",
+    "name": "RIGHT WHITE CORNER BRACKET",
+    "codepoints": [
+      "U+300F"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:pe"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "right white corner bracket",
+      "Pe"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "left-black-lenticular-bracket",
+    "char": "【",
+    "name": "LEFT BLACK LENTICULAR BRACKET",
+    "codepoints": [
+      "U+3010"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:ps"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "left black lenticular bracket",
+      "Ps"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "right-black-lenticular-bracket",
+    "char": "】",
+    "name": "RIGHT BLACK LENTICULAR BRACKET",
+    "codepoints": [
+      "U+3011"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:pe"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "right black lenticular bracket",
+      "Pe"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "left-tortoise-shell-bracket",
+    "char": "〔",
+    "name": "LEFT TORTOISE SHELL BRACKET",
+    "codepoints": [
+      "U+3014"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:ps"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "left tortoise shell bracket",
+      "Ps"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "right-tortoise-shell-bracket",
+    "char": "〕",
+    "name": "RIGHT TORTOISE SHELL BRACKET",
+    "codepoints": [
+      "U+3015"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:pe"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "right tortoise shell bracket",
+      "Pe"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "left-white-lenticular-bracket",
+    "char": "〖",
+    "name": "LEFT WHITE LENTICULAR BRACKET",
+    "codepoints": [
+      "U+3016"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:ps"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "left white lenticular bracket",
+      "Ps"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "right-white-lenticular-bracket",
+    "char": "〗",
+    "name": "RIGHT WHITE LENTICULAR BRACKET",
+    "codepoints": [
+      "U+3017"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:pe"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "right white lenticular bracket",
+      "Pe"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "left-white-tortoise-shell-bracket",
+    "char": "〘",
+    "name": "LEFT WHITE TORTOISE SHELL BRACKET",
+    "codepoints": [
+      "U+3018"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:ps"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "left white tortoise shell bracket",
+      "Ps"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "right-white-tortoise-shell-bracket",
+    "char": "〙",
+    "name": "RIGHT WHITE TORTOISE SHELL BRACKET",
+    "codepoints": [
+      "U+3019"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:pe"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "right white tortoise shell bracket",
+      "Pe"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "left-white-square-bracket",
+    "char": "〚",
+    "name": "LEFT WHITE SQUARE BRACKET",
+    "codepoints": [
+      "U+301A"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:ps"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "left white square bracket",
+      "Ps"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "right-white-square-bracket",
+    "char": "〛",
+    "name": "RIGHT WHITE SQUARE BRACKET",
+    "codepoints": [
+      "U+301B"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:pe"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "right white square bracket",
+      "Pe"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "wave-dash",
+    "char": "〜",
+    "name": "WAVE DASH",
+    "codepoints": [
+      "U+301C"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:pd"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "wave dash",
+      "Pd"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "reversed-double-prime-quotation-mark",
+    "char": "〝",
+    "name": "REVERSED DOUBLE PRIME QUOTATION MARK",
+    "codepoints": [
+      "U+301D"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:ps"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "reversed double prime quotation mark",
+      "Ps"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "double-prime-quotation-mark",
+    "char": "〞",
+    "name": "DOUBLE PRIME QUOTATION MARK",
+    "codepoints": [
+      "U+301E"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:pe"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "double prime quotation mark",
+      "Pe"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "low-double-prime-quotation-mark",
+    "char": "〟",
+    "name": "LOW DOUBLE PRIME QUOTATION MARK",
+    "codepoints": [
+      "U+301F"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:pe"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "low double prime quotation mark",
+      "Pe"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "wavy-dash",
+    "char": "〰",
+    "name": "WAVY DASH",
+    "codepoints": [
+      "U+3030"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:pd"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "wavy dash",
+      "Pd"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "part-alternation-mark",
+    "char": "〽",
+    "name": "PART ALTERNATION MARK",
+    "codepoints": [
+      "U+303D"
+    ],
+    "category": "punctuation",
+    "primaryCategory": "punctuation",
+    "tags": [
+      "punctuation",
+      "gc:po"
+    ],
+    "searchKeywords": [
+      "punctuation",
+      "part alternation mark",
+      "Po"
+    ],
+    "script": "Common",
+    "curatedSets": [
+      "unicode-punctuation-core"
+    ],
+    "knowledge": {
+      "description": "Unicode punctuation character.",
+      "history": "Generated at build-time from Unicode character properties.",
+      "sourceLabels": [
+        "Unicode"
+      ],
+      "externalLinks": [
+        {
+          "label": "Unicode code charts",
+          "url": "https://www.unicode.org/charts/",
+          "sourceType": "unicode"
+        }
+      ]
+    }
+  }
+]
