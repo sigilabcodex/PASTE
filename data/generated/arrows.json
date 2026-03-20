@@ -1,0 +1,724 @@
+[
+  {
+    "char": "←",
+    "name": "LEFTWARDS ARROW",
+    "codepoints": [
+      "U+2190"
+    ],
+    "category": "arrows",
+    "tags": [
+      "unicode",
+      "arrows",
+      "sm"
+    ],
+    "keywords": [
+      "leftwards",
+      "arrow",
+      "left",
+      "west",
+      "direction",
+      "arrows"
+    ],
+    "searchKeywords": [
+      "leftwards",
+      "arrow",
+      "left",
+      "west",
+      "direction",
+      "arrows"
+    ],
+    "script": "Common"
+  },
+  {
+    "char": "↑",
+    "name": "UPWARDS ARROW",
+    "codepoints": [
+      "U+2191"
+    ],
+    "category": "arrows",
+    "tags": [
+      "unicode",
+      "arrows",
+      "sm"
+    ],
+    "keywords": [
+      "upwards",
+      "arrow",
+      "up",
+      "north",
+      "direction",
+      "arrows"
+    ],
+    "searchKeywords": [
+      "upwards",
+      "arrow",
+      "up",
+      "north",
+      "direction",
+      "arrows"
+    ],
+    "script": "Common"
+  },
+  {
+    "char": "→",
+    "name": "RIGHTWARDS ARROW",
+    "codepoints": [
+      "U+2192"
+    ],
+    "category": "arrows",
+    "tags": [
+      "unicode",
+      "arrows",
+      "sm"
+    ],
+    "keywords": [
+      "rightwards",
+      "arrow",
+      "right",
+      "east",
+      "direction",
+      "arrows"
+    ],
+    "searchKeywords": [
+      "rightwards",
+      "arrow",
+      "right",
+      "east",
+      "direction",
+      "arrows"
+    ],
+    "script": "Common"
+  },
+  {
+    "char": "↓",
+    "name": "DOWNWARDS ARROW",
+    "codepoints": [
+      "U+2193"
+    ],
+    "category": "arrows",
+    "tags": [
+      "unicode",
+      "arrows",
+      "sm"
+    ],
+    "keywords": [
+      "downwards",
+      "arrow",
+      "down",
+      "south",
+      "direction",
+      "arrows"
+    ],
+    "searchKeywords": [
+      "downwards",
+      "arrow",
+      "down",
+      "south",
+      "direction",
+      "arrows"
+    ],
+    "script": "Common"
+  },
+  {
+    "char": "↔",
+    "name": "LEFT RIGHT ARROW",
+    "codepoints": [
+      "U+2194"
+    ],
+    "category": "arrows",
+    "tags": [
+      "unicode",
+      "arrows",
+      "sm"
+    ],
+    "keywords": [
+      "left",
+      "right",
+      "arrow",
+      "left-right",
+      "bidirectional",
+      "swap",
+      "arrows"
+    ],
+    "searchKeywords": [
+      "left",
+      "right",
+      "arrow",
+      "left-right",
+      "bidirectional",
+      "swap",
+      "arrows"
+    ],
+    "script": "Common"
+  },
+  {
+    "char": "↕",
+    "name": "UP DOWN ARROW",
+    "codepoints": [
+      "U+2195"
+    ],
+    "category": "arrows",
+    "tags": [
+      "unicode",
+      "arrows",
+      "sm"
+    ],
+    "keywords": [
+      "up",
+      "down",
+      "arrow",
+      "up-down",
+      "vertical",
+      "swap",
+      "arrows"
+    ],
+    "searchKeywords": [
+      "up",
+      "down",
+      "arrow",
+      "up-down",
+      "vertical",
+      "swap",
+      "arrows"
+    ],
+    "script": "Common"
+  },
+  {
+    "char": "↖",
+    "name": "NORTH WEST ARROW",
+    "codepoints": [
+      "U+2196"
+    ],
+    "category": "arrows",
+    "tags": [
+      "unicode",
+      "arrows",
+      "sm"
+    ],
+    "keywords": [
+      "north",
+      "west",
+      "arrow",
+      "northwest",
+      "diagonal",
+      "direction",
+      "arrows"
+    ],
+    "searchKeywords": [
+      "north",
+      "west",
+      "arrow",
+      "northwest",
+      "diagonal",
+      "direction",
+      "arrows"
+    ],
+    "script": "Common"
+  },
+  {
+    "char": "↗",
+    "name": "NORTH EAST ARROW",
+    "codepoints": [
+      "U+2197"
+    ],
+    "category": "arrows",
+    "tags": [
+      "unicode",
+      "arrows",
+      "sm"
+    ],
+    "keywords": [
+      "north",
+      "east",
+      "arrow",
+      "northeast",
+      "diagonal",
+      "direction",
+      "arrows"
+    ],
+    "searchKeywords": [
+      "north",
+      "east",
+      "arrow",
+      "northeast",
+      "diagonal",
+      "direction",
+      "arrows"
+    ],
+    "script": "Common"
+  },
+  {
+    "char": "↘",
+    "name": "SOUTH EAST ARROW",
+    "codepoints": [
+      "U+2198"
+    ],
+    "category": "arrows",
+    "tags": [
+      "unicode",
+      "arrows",
+      "sm"
+    ],
+    "keywords": [
+      "south",
+      "east",
+      "arrow",
+      "southeast",
+      "diagonal",
+      "direction",
+      "arrows"
+    ],
+    "searchKeywords": [
+      "south",
+      "east",
+      "arrow",
+      "southeast",
+      "diagonal",
+      "direction",
+      "arrows"
+    ],
+    "script": "Common"
+  },
+  {
+    "char": "↙",
+    "name": "SOUTH WEST ARROW",
+    "codepoints": [
+      "U+2199"
+    ],
+    "category": "arrows",
+    "tags": [
+      "unicode",
+      "arrows",
+      "sm"
+    ],
+    "keywords": [
+      "south",
+      "west",
+      "arrow",
+      "southwest",
+      "diagonal",
+      "direction",
+      "arrows"
+    ],
+    "searchKeywords": [
+      "south",
+      "west",
+      "arrow",
+      "southwest",
+      "diagonal",
+      "direction",
+      "arrows"
+    ],
+    "script": "Common"
+  },
+  {
+    "char": "↩",
+    "name": "LEFTWARDS ARROW WITH HOOK",
+    "codepoints": [
+      "U+21A9"
+    ],
+    "category": "arrows",
+    "tags": [
+      "unicode",
+      "arrows",
+      "sm"
+    ],
+    "keywords": [
+      "leftwards",
+      "arrow",
+      "with",
+      "hook",
+      "return",
+      "undo",
+      "arrows"
+    ],
+    "searchKeywords": [
+      "leftwards",
+      "arrow",
+      "with",
+      "hook",
+      "return",
+      "undo",
+      "arrows"
+    ],
+    "script": "Common"
+  },
+  {
+    "char": "↪",
+    "name": "RIGHTWARDS ARROW WITH HOOK",
+    "codepoints": [
+      "U+21AA"
+    ],
+    "category": "arrows",
+    "tags": [
+      "unicode",
+      "arrows",
+      "sm"
+    ],
+    "keywords": [
+      "rightwards",
+      "arrow",
+      "with",
+      "hook",
+      "enter",
+      "redo",
+      "arrows"
+    ],
+    "searchKeywords": [
+      "rightwards",
+      "arrow",
+      "with",
+      "hook",
+      "enter",
+      "redo",
+      "arrows"
+    ],
+    "script": "Common"
+  },
+  {
+    "char": "↰",
+    "name": "UPWARDS ARROW WITH TIP LEFTWARDS",
+    "codepoints": [
+      "U+21B0"
+    ],
+    "category": "arrows",
+    "tags": [
+      "unicode",
+      "arrows",
+      "sm"
+    ],
+    "keywords": [
+      "upwards",
+      "arrow",
+      "with",
+      "tip",
+      "leftwards",
+      "arrows"
+    ],
+    "searchKeywords": [
+      "upwards",
+      "arrow",
+      "with",
+      "tip",
+      "leftwards",
+      "arrows"
+    ],
+    "script": "Common"
+  },
+  {
+    "char": "↱",
+    "name": "UPWARDS ARROW WITH TIP RIGHTWARDS",
+    "codepoints": [
+      "U+21B1"
+    ],
+    "category": "arrows",
+    "tags": [
+      "unicode",
+      "arrows",
+      "sm"
+    ],
+    "keywords": [
+      "upwards",
+      "arrow",
+      "with",
+      "tip",
+      "rightwards",
+      "arrows"
+    ],
+    "searchKeywords": [
+      "upwards",
+      "arrow",
+      "with",
+      "tip",
+      "rightwards",
+      "arrows"
+    ],
+    "script": "Common"
+  },
+  {
+    "char": "↲",
+    "name": "DOWNWARDS ARROW WITH TIP LEFTWARDS",
+    "codepoints": [
+      "U+21B2"
+    ],
+    "category": "arrows",
+    "tags": [
+      "unicode",
+      "arrows",
+      "sm"
+    ],
+    "keywords": [
+      "downwards",
+      "arrow",
+      "with",
+      "tip",
+      "leftwards",
+      "arrows"
+    ],
+    "searchKeywords": [
+      "downwards",
+      "arrow",
+      "with",
+      "tip",
+      "leftwards",
+      "arrows"
+    ],
+    "script": "Common"
+  },
+  {
+    "char": "↳",
+    "name": "DOWNWARDS ARROW WITH TIP RIGHTWARDS",
+    "codepoints": [
+      "U+21B3"
+    ],
+    "category": "arrows",
+    "tags": [
+      "unicode",
+      "arrows",
+      "sm"
+    ],
+    "keywords": [
+      "downwards",
+      "arrow",
+      "with",
+      "tip",
+      "rightwards",
+      "arrows"
+    ],
+    "searchKeywords": [
+      "downwards",
+      "arrow",
+      "with",
+      "tip",
+      "rightwards",
+      "arrows"
+    ],
+    "script": "Common"
+  },
+  {
+    "char": "↶",
+    "name": "ANTICLOCKWISE TOP SEMICIRCLE ARROW",
+    "codepoints": [
+      "U+21B6"
+    ],
+    "category": "arrows",
+    "tags": [
+      "unicode",
+      "arrows",
+      "so"
+    ],
+    "keywords": [
+      "anticlockwise",
+      "top",
+      "semicircle",
+      "arrow",
+      "arrows"
+    ],
+    "searchKeywords": [
+      "anticlockwise",
+      "top",
+      "semicircle",
+      "arrow",
+      "arrows"
+    ],
+    "script": "Common"
+  },
+  {
+    "char": "↷",
+    "name": "CLOCKWISE TOP SEMICIRCLE ARROW",
+    "codepoints": [
+      "U+21B7"
+    ],
+    "category": "arrows",
+    "tags": [
+      "unicode",
+      "arrows",
+      "so"
+    ],
+    "keywords": [
+      "clockwise",
+      "top",
+      "semicircle",
+      "arrow",
+      "arrows"
+    ],
+    "searchKeywords": [
+      "clockwise",
+      "top",
+      "semicircle",
+      "arrow",
+      "arrows"
+    ],
+    "script": "Common"
+  },
+  {
+    "char": "↺",
+    "name": "ANTICLOCKWISE OPEN CIRCLE ARROW",
+    "codepoints": [
+      "U+21BA"
+    ],
+    "category": "arrows",
+    "tags": [
+      "unicode",
+      "arrows",
+      "so"
+    ],
+    "keywords": [
+      "anticlockwise",
+      "open",
+      "circle",
+      "arrow",
+      "arrows"
+    ],
+    "searchKeywords": [
+      "anticlockwise",
+      "open",
+      "circle",
+      "arrow",
+      "arrows"
+    ],
+    "script": "Common"
+  },
+  {
+    "char": "↻",
+    "name": "CLOCKWISE OPEN CIRCLE ARROW",
+    "codepoints": [
+      "U+21BB"
+    ],
+    "category": "arrows",
+    "tags": [
+      "unicode",
+      "arrows",
+      "so"
+    ],
+    "keywords": [
+      "clockwise",
+      "open",
+      "circle",
+      "arrow",
+      "arrows"
+    ],
+    "searchKeywords": [
+      "clockwise",
+      "open",
+      "circle",
+      "arrow",
+      "arrows"
+    ],
+    "script": "Common"
+  },
+  {
+    "char": "⇄",
+    "name": "RIGHTWARDS ARROW OVER LEFTWARDS ARROW",
+    "codepoints": [
+      "U+21C4"
+    ],
+    "category": "arrows",
+    "tags": [
+      "unicode",
+      "arrows",
+      "so"
+    ],
+    "keywords": [
+      "rightwards",
+      "arrow",
+      "over",
+      "leftwards",
+      "arrows"
+    ],
+    "searchKeywords": [
+      "rightwards",
+      "arrow",
+      "over",
+      "leftwards",
+      "arrows"
+    ],
+    "script": "Common"
+  },
+  {
+    "char": "⇅",
+    "name": "UPWARDS ARROW LEFTWARDS OF DOWNWARDS ARROW",
+    "codepoints": [
+      "U+21C5"
+    ],
+    "category": "arrows",
+    "tags": [
+      "unicode",
+      "arrows",
+      "so"
+    ],
+    "keywords": [
+      "upwards",
+      "arrow",
+      "leftwards",
+      "of",
+      "downwards",
+      "arrows"
+    ],
+    "searchKeywords": [
+      "upwards",
+      "arrow",
+      "leftwards",
+      "of",
+      "downwards",
+      "arrows"
+    ],
+    "script": "Common"
+  },
+  {
+    "char": "⇆",
+    "name": "LEFTWARDS ARROW OVER RIGHTWARDS ARROW",
+    "codepoints": [
+      "U+21C6"
+    ],
+    "category": "arrows",
+    "tags": [
+      "unicode",
+      "arrows",
+      "so"
+    ],
+    "keywords": [
+      "leftwards",
+      "arrow",
+      "over",
+      "rightwards",
+      "arrows"
+    ],
+    "searchKeywords": [
+      "leftwards",
+      "arrow",
+      "over",
+      "rightwards",
+      "arrows"
+    ],
+    "script": "Common"
+  },
+  {
+    "char": "⇔",
+    "name": "LEFT RIGHT DOUBLE ARROW",
+    "codepoints": [
+      "U+21D4"
+    ],
+    "category": "arrows",
+    "tags": [
+      "unicode",
+      "arrows",
+      "so"
+    ],
+    "keywords": [
+      "left",
+      "right",
+      "double",
+      "arrow",
+      "arrows"
+    ],
+    "searchKeywords": [
+      "left",
+      "right",
+      "double",
+      "arrow",
+      "arrows"
+    ],
+    "script": "Common"
+  }
+]

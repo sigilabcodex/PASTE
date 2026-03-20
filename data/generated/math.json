@@ -1,0 +1,544 @@
+[
+  {
+    "char": "∀",
+    "name": "FOR ALL",
+    "codepoints": [
+      "U+2200"
+    ],
+    "category": "math-symbols",
+    "tags": [
+      "unicode",
+      "math",
+      "sm"
+    ],
+    "keywords": [
+      "for",
+      "all",
+      "logic",
+      "universal quantifier",
+      "set theory",
+      "math"
+    ],
+    "searchKeywords": [
+      "for",
+      "all",
+      "logic",
+      "universal quantifier",
+      "set theory",
+      "math"
+    ],
+    "script": "Common"
+  },
+  {
+    "char": "∁",
+    "name": "COMPLEMENT",
+    "codepoints": [
+      "U+2201"
+    ],
+    "category": "math-symbols",
+    "tags": [
+      "unicode",
+      "math",
+      "sm"
+    ],
+    "keywords": [
+      "complement",
+      "math"
+    ],
+    "searchKeywords": [
+      "complement",
+      "math"
+    ],
+    "script": "Common"
+  },
+  {
+    "char": "∂",
+    "name": "PARTIAL DIFFERENTIAL",
+    "codepoints": [
+      "U+2202"
+    ],
+    "category": "math-symbols",
+    "tags": [
+      "unicode",
+      "math",
+      "sm"
+    ],
+    "keywords": [
+      "partial",
+      "differential",
+      "calculus",
+      "derivative",
+      "analysis",
+      "math"
+    ],
+    "searchKeywords": [
+      "partial",
+      "differential",
+      "calculus",
+      "derivative",
+      "analysis",
+      "math"
+    ],
+    "script": "Common"
+  },
+  {
+    "char": "∃",
+    "name": "THERE EXISTS",
+    "codepoints": [
+      "U+2203"
+    ],
+    "category": "math-symbols",
+    "tags": [
+      "unicode",
+      "math",
+      "sm"
+    ],
+    "keywords": [
+      "there",
+      "exists",
+      "logic",
+      "existential quantifier",
+      "set theory",
+      "math"
+    ],
+    "searchKeywords": [
+      "there",
+      "exists",
+      "logic",
+      "existential quantifier",
+      "set theory",
+      "math"
+    ],
+    "script": "Common"
+  },
+  {
+    "char": "∄",
+    "name": "THERE DOES NOT EXIST",
+    "codepoints": [
+      "U+2204"
+    ],
+    "category": "math-symbols",
+    "tags": [
+      "unicode",
+      "math",
+      "sm"
+    ],
+    "keywords": [
+      "there",
+      "does",
+      "not",
+      "exist",
+      "math"
+    ],
+    "searchKeywords": [
+      "there",
+      "does",
+      "not",
+      "exist",
+      "math"
+    ],
+    "script": "Common"
+  },
+  {
+    "char": "∅",
+    "name": "EMPTY SET",
+    "codepoints": [
+      "U+2205"
+    ],
+    "category": "math-symbols",
+    "tags": [
+      "unicode",
+      "math",
+      "sm"
+    ],
+    "keywords": [
+      "empty",
+      "set",
+      "empty set",
+      "set theory",
+      "null set",
+      "math"
+    ],
+    "searchKeywords": [
+      "empty",
+      "set",
+      "empty set",
+      "set theory",
+      "null set",
+      "math"
+    ],
+    "script": "Common"
+  },
+  {
+    "char": "∆",
+    "name": "INCREMENT",
+    "codepoints": [
+      "U+2206"
+    ],
+    "category": "math-symbols",
+    "tags": [
+      "unicode",
+      "math",
+      "sm"
+    ],
+    "keywords": [
+      "increment",
+      "math"
+    ],
+    "searchKeywords": [
+      "increment",
+      "math"
+    ],
+    "script": "Common"
+  },
+  {
+    "char": "∇",
+    "name": "NABLA",
+    "codepoints": [
+      "U+2207"
+    ],
+    "category": "math-symbols",
+    "tags": [
+      "unicode",
+      "math",
+      "sm"
+    ],
+    "keywords": [
+      "nabla",
+      "math"
+    ],
+    "searchKeywords": [
+      "nabla",
+      "math"
+    ],
+    "script": "Common"
+  },
+  {
+    "char": "∈",
+    "name": "ELEMENT OF",
+    "codepoints": [
+      "U+2208"
+    ],
+    "category": "math-symbols",
+    "tags": [
+      "unicode",
+      "math",
+      "sm"
+    ],
+    "keywords": [
+      "element",
+      "of",
+      "member of",
+      "set theory",
+      "belongs to",
+      "math"
+    ],
+    "searchKeywords": [
+      "element",
+      "of",
+      "member of",
+      "set theory",
+      "belongs to",
+      "math"
+    ],
+    "script": "Common"
+  },
+  {
+    "char": "∉",
+    "name": "NOT AN ELEMENT OF",
+    "codepoints": [
+      "U+2209"
+    ],
+    "category": "math-symbols",
+    "tags": [
+      "unicode",
+      "math",
+      "sm"
+    ],
+    "keywords": [
+      "not",
+      "an",
+      "element",
+      "of",
+      "not member of",
+      "set theory",
+      "math"
+    ],
+    "searchKeywords": [
+      "not",
+      "an",
+      "element",
+      "of",
+      "not member of",
+      "set theory",
+      "math"
+    ],
+    "script": "Common"
+  },
+  {
+    "char": "∋",
+    "name": "CONTAINS AS MEMBER",
+    "codepoints": [
+      "U+220B"
+    ],
+    "category": "math-symbols",
+    "tags": [
+      "unicode",
+      "math",
+      "sm"
+    ],
+    "keywords": [
+      "contains",
+      "as",
+      "member",
+      "contains as member",
+      "set theory",
+      "math"
+    ],
+    "searchKeywords": [
+      "contains",
+      "as",
+      "member",
+      "contains as member",
+      "set theory",
+      "math"
+    ],
+    "script": "Common"
+  },
+  {
+    "char": "∑",
+    "name": "N-ARY SUMMATION",
+    "codepoints": [
+      "U+2211"
+    ],
+    "category": "math-symbols",
+    "tags": [
+      "unicode",
+      "math",
+      "sm"
+    ],
+    "keywords": [
+      "n",
+      "ary",
+      "summation",
+      "sum",
+      "sigma",
+      "series",
+      "math"
+    ],
+    "searchKeywords": [
+      "n",
+      "ary",
+      "summation",
+      "sum",
+      "sigma",
+      "series",
+      "math"
+    ],
+    "script": "Common"
+  },
+  {
+    "char": "√",
+    "name": "SQUARE ROOT",
+    "codepoints": [
+      "U+221A"
+    ],
+    "category": "math-symbols",
+    "tags": [
+      "unicode",
+      "math",
+      "sm"
+    ],
+    "keywords": [
+      "square",
+      "root",
+      "square root",
+      "radical",
+      "math"
+    ],
+    "searchKeywords": [
+      "square",
+      "root",
+      "square root",
+      "radical",
+      "math"
+    ],
+    "script": "Common"
+  },
+  {
+    "char": "∞",
+    "name": "INFINITY",
+    "codepoints": [
+      "U+221E"
+    ],
+    "category": "math-symbols",
+    "tags": [
+      "unicode",
+      "math",
+      "sm"
+    ],
+    "keywords": [
+      "infinity",
+      "limit",
+      "math"
+    ],
+    "searchKeywords": [
+      "infinity",
+      "limit",
+      "math"
+    ],
+    "script": "Common"
+  },
+  {
+    "char": "∫",
+    "name": "INTEGRAL",
+    "codepoints": [
+      "U+222B"
+    ],
+    "category": "math-symbols",
+    "tags": [
+      "unicode",
+      "math",
+      "sm"
+    ],
+    "keywords": [
+      "integral",
+      "calculus",
+      "math"
+    ],
+    "searchKeywords": [
+      "integral",
+      "calculus",
+      "math"
+    ],
+    "script": "Common"
+  },
+  {
+    "char": "≈",
+    "name": "ALMOST EQUAL TO",
+    "codepoints": [
+      "U+2248"
+    ],
+    "category": "math-symbols",
+    "tags": [
+      "unicode",
+      "math",
+      "sm"
+    ],
+    "keywords": [
+      "almost",
+      "equal",
+      "to",
+      "approximate",
+      "almost equal",
+      "math"
+    ],
+    "searchKeywords": [
+      "almost",
+      "equal",
+      "to",
+      "approximate",
+      "almost equal",
+      "math"
+    ],
+    "script": "Common"
+  },
+  {
+    "char": "≠",
+    "name": "NOT EQUAL TO",
+    "codepoints": [
+      "U+2260"
+    ],
+    "category": "math-symbols",
+    "tags": [
+      "unicode",
+      "math",
+      "sm"
+    ],
+    "keywords": [
+      "not",
+      "equal",
+      "to",
+      "not equal",
+      "comparison",
+      "math"
+    ],
+    "searchKeywords": [
+      "not",
+      "equal",
+      "to",
+      "not equal",
+      "comparison",
+      "math"
+    ],
+    "script": "Common"
+  },
+  {
+    "char": "≤",
+    "name": "LESS-THAN OR EQUAL TO",
+    "codepoints": [
+      "U+2264"
+    ],
+    "category": "math-symbols",
+    "tags": [
+      "unicode",
+      "math",
+      "sm"
+    ],
+    "keywords": [
+      "less",
+      "than",
+      "or",
+      "equal",
+      "to",
+      "less than or equal",
+      "comparison",
+      "math"
+    ],
+    "searchKeywords": [
+      "less",
+      "than",
+      "or",
+      "equal",
+      "to",
+      "less than or equal",
+      "comparison",
+      "math"
+    ],
+    "script": "Common"
+  },
+  {
+    "char": "≥",
+    "name": "GREATER-THAN OR EQUAL TO",
+    "codepoints": [
+      "U+2265"
+    ],
+    "category": "math-symbols",
+    "tags": [
+      "unicode",
+      "math",
+      "sm"
+    ],
+    "keywords": [
+      "greater",
+      "than",
+      "or",
+      "equal",
+      "to",
+      "greater than or equal",
+      "comparison",
+      "math"
+    ],
+    "searchKeywords": [
+      "greater",
+      "than",
+      "or",
+      "equal",
+      "to",
+      "greater than or equal",
+      "comparison",
+      "math"
+    ],
+    "script": "Common"
+  }
+]

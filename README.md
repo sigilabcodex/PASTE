@@ -101,13 +101,15 @@ npm run preview
 
 ## Unicode ingestion
 
-Generate Unicode-backed dataset shards:
+Generate staged Unicode dataset shards:
 
 ```bash
 npm run generate:unicode
 ```
 
-See `docs/unicode-ingestion.md` for source modes, output files, and regeneration workflow.
+The generator writes deterministic sample files to `data/generated/`. At this stage only `arrows.json` and `math.json` contain sample entries; the rest of the shard files are emitted as empty arrays to prepare for incremental expansion.
+
+See `docs/unicode-ingestion.md` for the generator structure, source modes, and expansion workflow.
 
 ## Deploy to GitHub Pages
 

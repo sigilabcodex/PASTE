@@ -1,69 +1,89 @@
 # Unicode Ingestion Pipeline
 
-PASTE now includes a build-time Unicode ingestion script that generates large symbol datasets from Unicode character properties.
+PASTE now uses a staged Unicode ingestion pipeline that is designed for incremental expansion instead of one oversized generation step.
 
-## Script
-
-- `scripts/unicode-ingest.mjs`
-- npm command: `npm run generate:unicode`
-
-## Output structure
-
-Generated files are written to `src/data/generated/`:
-
-- `punctuation.generated.json`
-- `arrows.generated.json`
-- `math-symbols.generated.json`
-- `geometric-shapes.generated.json`
-- `box-drawing.generated.json`
-- `currency.generated.json`
-- `technical-symbols.generated.json`
-- `emoji.generated.json`
-- `manifest.generated.json` (counts + metadata)
-
-This keeps generated data isolated from manually curated files in `src/data/`.
-
-## Data fields
-
-Each generated entry uses the existing v1 schema-compatible shape used in the app:
-
-- `char`
-- `name`
-- `codepoints`
-- `category` and `primaryCategory`
-- `tags`
-- `searchKeywords` (keyword search field)
-- `script`
-- `curatedSets`
-- `knowledge.description`
-- `knowledge.history`
-- `knowledge.externalLinks`
-
-## Curated metadata preservation
-
-When a generated entry matches an existing `src/data/symbols.json` record by `codepoints`, curated metadata is preserved from the curated record (e.g. custom tags, keyword tuning, notes, links, and flags).
-
-## Source modes
-
-The script supports two source modes:
-
-1. **Local Unicode text files (preferred)**
-   - Put these files in `scripts/unicode-sources/`:
-     - `UnicodeData.txt`
-     - `Blocks.txt`
-     - `Scripts.txt`
-     - `emoji-data.txt`
-     - `emoji-test.txt`
-   - The script detects all five files and records mode as `local-unicode-text-files` in the manifest.
-
-2. **Python UCD fallback (offline-friendly)**
-   - If local files are not present, the script falls back to Python `unicodedata` for name/category extraction and range-based grouping.
-   - This mode is recorded as `python-unicodedata-fallback` in the manifest.
-
-## Run
+## Command
 
 ```bash
 npm run generate:unicode
 ```
 
-Then inspect `src/data/generated/manifest.generated.json` for generated counts.
+This runs `scripts/unicode-ingest.mjs`.
+
+## Goals of the staged generator
+
+- keep generated files small and reviewable,
+- prove the file-driven ingestion path before full Unicode import,
+- emit deterministic JSON shards for future expansion,
+- separate ingestion infrastructure from app-curated source data.
+
+## Current output structure
+
+Generated files are written to `data/generated/`:
+
+- `arrows.json`
+- `math.json`
+- `currency.json`
+- `shapes.json`
+- `punctuation.json`
+- `emoji-core.json`
+- `latin-extended.json`
+- `greek.json`
+- `cyrillic.json`
+- `manifest.json`
+
+Only `arrows.json` and `math.json` currently contain sample entries. The other files are intentionally emitted as empty arrays so the folder layout is stable for future staged expansion.
+
+## Current schema shape
+
+Each generated record includes the staged compatibility fields requested for ingestion work:
+
+- `char`
+- `name`
+- `codepoints`
+- `category`
+- `tags`
+- `keywords`
+- `script`
+
+For compatibility with the current app search field, generated sample records also include `searchKeywords` as an alias of `keywords`.
+
+## Source modes
+
+### 1. Official Unicode text files
+
+If present, the generator reads these files from `scripts/unicode-sources/`:
+
+- `UnicodeData.txt`
+- `emoji-data.txt`
+
+### 2. Bundled sample files
+
+If the official files are not present, the generator falls back to tiny sample files in `scripts/unicode-sources/sample/`.
+
+This keeps the repo lightweight while still exercising the parsing and transformation pipeline.
+
+## Implementation structure
+
+- `scripts/unicode-ingest.mjs` – entry point, source resolution, manifest writing.
+- `scripts/unicode-ingest/config.mjs` – category shard definitions and sample limits.
+- `scripts/unicode-ingest/parsers.mjs` – plain-text Unicode and emoji file parsers.
+- `scripts/unicode-ingest/transformers.mjs` – mapping into the staged PASTE dataset shape.
+- `scripts/unicode-ingest/writer.mjs` – deterministic JSON output writer.
+
+## How to expand later
+
+1. Replace the bundled sample source files with official Unicode text files in `scripts/unicode-sources/`.
+2. Add new category ranges and output mappings in `scripts/unicode-ingest/config.mjs`.
+3. Introduce category-specific keyword enrichment in `KEYWORD_HINTS` if needed.
+4. Raise `sampleLimit` values gradually so each expansion stays reviewable.
+5. When the app is ready to consume generated shards directly, wire `data/generated/` into the runtime data loading path.
+
+## Determinism guarantees
+
+The generator keeps output deterministic by:
+
+- sorting records by code point,
+- applying fixed sample limits,
+- using stable pretty-printed JSON,
+- generating the full shard file set on every run.
