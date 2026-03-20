@@ -1,0 +1,5 @@
+# Sample emoji properties for staged ingestion infrastructure tests.
+231A          ; Emoji_Presentation # ⌚ watch
+2600..2601    ; Emoji             # ☀️..☁️ weather symbols
+1F600..1F603  ; Emoji             # 😀..😃 smileys
+1F680         ; Emoji             # 🚀 rocket
