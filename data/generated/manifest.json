@@ -1,13 +1,15 @@
 {
-  "generatedAt": "2026-03-20T03:42:45.121Z",
+  "generatedAt": "2026-03-20T23:38:39.153Z",
   "sourceMode": "bundled-sample-files",
   "sourceFiles": {
     "unicodeData": "scripts/unicode-sources/sample/UnicodeData.txt",
-    "emojiData": "scripts/unicode-sources/sample/emoji-data.txt"
+    "emojiData": "scripts/unicode-sources/sample/emoji-data.txt",
+    "manualOverrides": "data/manual-overrides.json"
   },
   "parsedCounts": {
     "unicodeRecords": 43,
-    "emojiProperties": 4
+    "emojiProperties": 4,
+    "manualOverrides": 18
   },
   "outputs": [
     {
@@ -43,8 +45,8 @@
     {
       "id": "emoji-core",
       "file": "emoji-core.json",
-      "generatedCount": 0,
-      "sampleLimit": 0
+      "generatedCount": 8,
+      "sampleLimit": 24
     },
     {
       "id": "latin-extended",
@@ -68,6 +70,9 @@
   "notes": [
     "This staged generator intentionally emits only small deterministic samples.",
     "Expand categories by adding more Unicode source files and raising sample limits in scripts/unicode-ingest/config.mjs.",
-    "Expected generated files: arrows.json, math.json, currency.json, shapes.json, punctuation.json, emoji-core.json, latin-extended.json, greek.json, cyrillic.json"
+    "Expected generated files: arrows.json, math.json, currency.json, shapes.json, punctuation.json, emoji-core.json, latin-extended.json, greek.json, cyrillic.json",
+    "Names are normalized to title case, common formatting issues are cleaned, and generic labels fall back to “Unknown Symbol (U+XXXX)”.",
+    "Manual overrides from data/manual-overrides.json are applied after ingestion so editorial fixes stay lightweight and client-side compatible.",
+    "Emoji display names prefer human-readable labels from emoji metadata comments, then manual overrides, before using the standard fallback rule."
   ]
 }

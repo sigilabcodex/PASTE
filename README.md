@@ -107,7 +107,7 @@ Generate staged Unicode dataset shards:
 npm run generate:unicode
 ```
 
-The generator writes deterministic sample files to `data/generated/`. At this stage only `arrows.json` and `math.json` contain sample entries; the rest of the shard files are emitted as empty arrays to prepare for incremental expansion.
+The generator writes deterministic sample files to `data/generated/`. Sample shards now include normalized Unicode names, an `emoji-core.json` shard sourced from emoji metadata, and post-ingestion editorial fixes from `data/manual-overrides.json`. Missing names fall back to a readable `Unknown Symbol (U+XXXX)` label instead of raw placeholder text.
 
 See `docs/unicode-ingestion.md` for the generator structure, source modes, and expansion workflow.
 
