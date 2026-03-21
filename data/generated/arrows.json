@@ -1,7 +1,10 @@
 [
   {
     "char": "←",
-    "name": "LEFTWARDS ARROW",
+    "name": "Left Arrow",
+    "aliases": [
+      "Leftwards Arrow"
+    ],
     "codepoints": [
       "U+2190"
     ],
@@ -9,20 +12,21 @@
     "tags": [
       "unicode",
       "arrows",
+      "direction",
       "sm"
     ],
     "keywords": [
-      "leftwards",
-      "arrow",
       "left",
+      "arrow",
+      "leftwards",
       "west",
       "direction",
       "arrows"
     ],
     "searchKeywords": [
-      "leftwards",
-      "arrow",
       "left",
+      "arrow",
+      "leftwards",
       "west",
       "direction",
       "arrows"
@@ -31,7 +35,10 @@
   },
   {
     "char": "↑",
-    "name": "UPWARDS ARROW",
+    "name": "Up Arrow",
+    "aliases": [
+      "Upwards Arrow"
+    ],
     "codepoints": [
       "U+2191"
     ],
@@ -39,20 +46,21 @@
     "tags": [
       "unicode",
       "arrows",
+      "direction",
       "sm"
     ],
     "keywords": [
-      "upwards",
-      "arrow",
       "up",
+      "arrow",
+      "upwards",
       "north",
       "direction",
       "arrows"
     ],
     "searchKeywords": [
-      "upwards",
-      "arrow",
       "up",
+      "arrow",
+      "upwards",
       "north",
       "direction",
       "arrows"
@@ -61,7 +69,10 @@
   },
   {
     "char": "→",
-    "name": "RIGHTWARDS ARROW",
+    "name": "Right Arrow",
+    "aliases": [
+      "Rightwards Arrow"
+    ],
     "codepoints": [
       "U+2192"
     ],
@@ -69,20 +80,21 @@
     "tags": [
       "unicode",
       "arrows",
+      "direction",
       "sm"
     ],
     "keywords": [
-      "rightwards",
-      "arrow",
       "right",
+      "arrow",
+      "rightwards",
       "east",
       "direction",
       "arrows"
     ],
     "searchKeywords": [
-      "rightwards",
-      "arrow",
       "right",
+      "arrow",
+      "rightwards",
       "east",
       "direction",
       "arrows"
@@ -91,7 +103,10 @@
   },
   {
     "char": "↓",
-    "name": "DOWNWARDS ARROW",
+    "name": "Down Arrow",
+    "aliases": [
+      "Downwards Arrow"
+    ],
     "codepoints": [
       "U+2193"
     ],
@@ -99,20 +114,21 @@
     "tags": [
       "unicode",
       "arrows",
+      "direction",
       "sm"
     ],
     "keywords": [
-      "downwards",
-      "arrow",
       "down",
+      "arrow",
+      "downwards",
       "south",
       "direction",
       "arrows"
     ],
     "searchKeywords": [
-      "downwards",
-      "arrow",
       "down",
+      "arrow",
+      "downwards",
       "south",
       "direction",
       "arrows"
@@ -121,7 +137,11 @@
   },
   {
     "char": "↔",
-    "name": "LEFT RIGHT ARROW",
+    "name": "Left-Right Arrow",
+    "aliases": [
+      "Left Right Arrow",
+      "Bidirectional Arrow"
+    ],
     "codepoints": [
       "U+2194"
     ],
@@ -135,8 +155,8 @@
       "left",
       "right",
       "arrow",
-      "left-right",
       "bidirectional",
+      "left-right",
       "swap",
       "arrows"
     ],
@@ -144,8 +164,8 @@
       "left",
       "right",
       "arrow",
-      "left-right",
       "bidirectional",
+      "left-right",
       "swap",
       "arrows"
     ],
@@ -153,7 +173,11 @@
   },
   {
     "char": "↕",
-    "name": "UP DOWN ARROW",
+    "name": "Up-Down Arrow",
+    "aliases": [
+      "Up Down Arrow",
+      "Vertical Arrow"
+    ],
     "codepoints": [
       "U+2195"
     ],
@@ -167,8 +191,8 @@
       "up",
       "down",
       "arrow",
-      "up-down",
       "vertical",
+      "up-down",
       "swap",
       "arrows"
     ],
@@ -176,8 +200,8 @@
       "up",
       "down",
       "arrow",
-      "up-down",
       "vertical",
+      "up-down",
       "swap",
       "arrows"
     ],
@@ -185,7 +209,7 @@
   },
   {
     "char": "↖",
-    "name": "NORTH WEST ARROW",
+    "name": "Northwest Arrow",
     "codepoints": [
       "U+2196"
     ],
@@ -196,19 +220,15 @@
       "sm"
     ],
     "keywords": [
-      "north",
-      "west",
-      "arrow",
       "northwest",
+      "arrow",
       "diagonal",
       "direction",
       "arrows"
     ],
     "searchKeywords": [
-      "north",
-      "west",
-      "arrow",
       "northwest",
+      "arrow",
       "diagonal",
       "direction",
       "arrows"
@@ -217,7 +237,7 @@
   },
   {
     "char": "↗",
-    "name": "NORTH EAST ARROW",
+    "name": "Northeast Arrow",
     "codepoints": [
       "U+2197"
     ],
@@ -228,19 +248,15 @@
       "sm"
     ],
     "keywords": [
-      "north",
-      "east",
-      "arrow",
       "northeast",
+      "arrow",
       "diagonal",
       "direction",
       "arrows"
     ],
     "searchKeywords": [
-      "north",
-      "east",
-      "arrow",
       "northeast",
+      "arrow",
       "diagonal",
       "direction",
       "arrows"
@@ -249,7 +265,7 @@
   },
   {
     "char": "↘",
-    "name": "SOUTH EAST ARROW",
+    "name": "Southeast Arrow",
     "codepoints": [
       "U+2198"
     ],
@@ -260,19 +276,15 @@
       "sm"
     ],
     "keywords": [
-      "south",
-      "east",
-      "arrow",
       "southeast",
+      "arrow",
       "diagonal",
       "direction",
       "arrows"
     ],
     "searchKeywords": [
-      "south",
-      "east",
-      "arrow",
       "southeast",
+      "arrow",
       "diagonal",
       "direction",
       "arrows"
@@ -281,7 +293,7 @@
   },
   {
     "char": "↙",
-    "name": "SOUTH WEST ARROW",
+    "name": "Southwest Arrow",
     "codepoints": [
       "U+2199"
     ],
@@ -292,19 +304,15 @@
       "sm"
     ],
     "keywords": [
-      "south",
-      "west",
-      "arrow",
       "southwest",
+      "arrow",
       "diagonal",
       "direction",
       "arrows"
     ],
     "searchKeywords": [
-      "south",
-      "west",
-      "arrow",
       "southwest",
+      "arrow",
       "diagonal",
       "direction",
       "arrows"
@@ -313,7 +321,7 @@
   },
   {
     "char": "↩",
-    "name": "LEFTWARDS ARROW WITH HOOK",
+    "name": "Left Arrow With Hook",
     "codepoints": [
       "U+21A9"
     ],
@@ -324,7 +332,7 @@
       "sm"
     ],
     "keywords": [
-      "leftwards",
+      "left",
       "arrow",
       "with",
       "hook",
@@ -333,7 +341,7 @@
       "arrows"
     ],
     "searchKeywords": [
-      "leftwards",
+      "left",
       "arrow",
       "with",
       "hook",
@@ -345,7 +353,7 @@
   },
   {
     "char": "↪",
-    "name": "RIGHTWARDS ARROW WITH HOOK",
+    "name": "Right Arrow With Hook",
     "codepoints": [
       "U+21AA"
     ],
@@ -356,7 +364,7 @@
       "sm"
     ],
     "keywords": [
-      "rightwards",
+      "right",
       "arrow",
       "with",
       "hook",
@@ -365,7 +373,7 @@
       "arrows"
     ],
     "searchKeywords": [
-      "rightwards",
+      "right",
       "arrow",
       "with",
       "hook",
@@ -377,7 +385,7 @@
   },
   {
     "char": "↰",
-    "name": "UPWARDS ARROW WITH TIP LEFTWARDS",
+    "name": "Up Arrow With Tip Left",
     "codepoints": [
       "U+21B0"
     ],
@@ -388,26 +396,26 @@
       "sm"
     ],
     "keywords": [
-      "upwards",
+      "up",
       "arrow",
       "with",
       "tip",
-      "leftwards",
+      "left",
       "arrows"
     ],
     "searchKeywords": [
-      "upwards",
+      "up",
       "arrow",
       "with",
       "tip",
-      "leftwards",
+      "left",
       "arrows"
     ],
     "script": "Common"
   },
   {
     "char": "↱",
-    "name": "UPWARDS ARROW WITH TIP RIGHTWARDS",
+    "name": "Up Arrow With Tip Right",
     "codepoints": [
       "U+21B1"
     ],
@@ -418,26 +426,26 @@
       "sm"
     ],
     "keywords": [
-      "upwards",
+      "up",
       "arrow",
       "with",
       "tip",
-      "rightwards",
+      "right",
       "arrows"
     ],
     "searchKeywords": [
-      "upwards",
+      "up",
       "arrow",
       "with",
       "tip",
-      "rightwards",
+      "right",
       "arrows"
     ],
     "script": "Common"
   },
   {
     "char": "↲",
-    "name": "DOWNWARDS ARROW WITH TIP LEFTWARDS",
+    "name": "Down Arrow With Tip Left",
     "codepoints": [
       "U+21B2"
     ],
@@ -448,26 +456,26 @@
       "sm"
     ],
     "keywords": [
-      "downwards",
+      "down",
       "arrow",
       "with",
       "tip",
-      "leftwards",
+      "left",
       "arrows"
     ],
     "searchKeywords": [
-      "downwards",
+      "down",
       "arrow",
       "with",
       "tip",
-      "leftwards",
+      "left",
       "arrows"
     ],
     "script": "Common"
   },
   {
     "char": "↳",
-    "name": "DOWNWARDS ARROW WITH TIP RIGHTWARDS",
+    "name": "Down Arrow With Tip Right",
     "codepoints": [
       "U+21B3"
     ],
@@ -478,26 +486,26 @@
       "sm"
     ],
     "keywords": [
-      "downwards",
+      "down",
       "arrow",
       "with",
       "tip",
-      "rightwards",
+      "right",
       "arrows"
     ],
     "searchKeywords": [
-      "downwards",
+      "down",
       "arrow",
       "with",
       "tip",
-      "rightwards",
+      "right",
       "arrows"
     ],
     "script": "Common"
   },
   {
     "char": "↶",
-    "name": "ANTICLOCKWISE TOP SEMICIRCLE ARROW",
+    "name": "Anticlockwise Top Semicircle Arrow",
     "codepoints": [
       "U+21B6"
     ],
@@ -525,7 +533,7 @@
   },
   {
     "char": "↷",
-    "name": "CLOCKWISE TOP SEMICIRCLE ARROW",
+    "name": "Clockwise Top Semicircle Arrow",
     "codepoints": [
       "U+21B7"
     ],
@@ -553,7 +561,7 @@
   },
   {
     "char": "↺",
-    "name": "ANTICLOCKWISE OPEN CIRCLE ARROW",
+    "name": "Anticlockwise Open Circle Arrow",
     "codepoints": [
       "U+21BA"
     ],
@@ -581,7 +589,7 @@
   },
   {
     "char": "↻",
-    "name": "CLOCKWISE OPEN CIRCLE ARROW",
+    "name": "Clockwise Open Circle Arrow",
     "codepoints": [
       "U+21BB"
     ],
@@ -609,7 +617,7 @@
   },
   {
     "char": "⇄",
-    "name": "RIGHTWARDS ARROW OVER LEFTWARDS ARROW",
+    "name": "Right Arrow Over Left Arrow",
     "codepoints": [
       "U+21C4"
     ],
@@ -620,24 +628,24 @@
       "so"
     ],
     "keywords": [
-      "rightwards",
+      "right",
       "arrow",
       "over",
-      "leftwards",
+      "left",
       "arrows"
     ],
     "searchKeywords": [
-      "rightwards",
+      "right",
       "arrow",
       "over",
-      "leftwards",
+      "left",
       "arrows"
     ],
     "script": "Common"
   },
   {
     "char": "⇅",
-    "name": "UPWARDS ARROW LEFTWARDS OF DOWNWARDS ARROW",
+    "name": "Up Arrow Left Of Down Arrow",
     "codepoints": [
       "U+21C5"
     ],
@@ -648,26 +656,26 @@
       "so"
     ],
     "keywords": [
-      "upwards",
+      "up",
       "arrow",
-      "leftwards",
+      "left",
       "of",
-      "downwards",
+      "down",
       "arrows"
     ],
     "searchKeywords": [
-      "upwards",
+      "up",
       "arrow",
-      "leftwards",
+      "left",
       "of",
-      "downwards",
+      "down",
       "arrows"
     ],
     "script": "Common"
   },
   {
     "char": "⇆",
-    "name": "LEFTWARDS ARROW OVER RIGHTWARDS ARROW",
+    "name": "Left Arrow Over Right Arrow",
     "codepoints": [
       "U+21C6"
     ],
@@ -678,24 +686,24 @@
       "so"
     ],
     "keywords": [
-      "leftwards",
+      "left",
       "arrow",
       "over",
-      "rightwards",
+      "right",
       "arrows"
     ],
     "searchKeywords": [
-      "leftwards",
+      "left",
       "arrow",
       "over",
-      "rightwards",
+      "right",
       "arrows"
     ],
     "script": "Common"
   },
   {
     "char": "⇔",
-    "name": "LEFT RIGHT DOUBLE ARROW",
+    "name": "Left-Right Double Arrow",
     "codepoints": [
       "U+21D4"
     ],

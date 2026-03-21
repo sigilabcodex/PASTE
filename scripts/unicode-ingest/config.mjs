@@ -4,7 +4,7 @@ export const GENERATED_FILES = [
   { id: 'currency', file: 'currency.json', schemaCategory: 'currency', sampleLimit: 0, ranges: [] },
   { id: 'shapes', file: 'shapes.json', schemaCategory: 'geometric-shapes', sampleLimit: 0, ranges: [] },
   { id: 'punctuation', file: 'punctuation.json', schemaCategory: 'punctuation', sampleLimit: 0, ranges: [] },
-  { id: 'emoji-core', file: 'emoji-core.json', schemaCategory: 'emoji-objects', sampleLimit: 0, ranges: [] },
+  { id: 'emoji-core', file: 'emoji-core.json', schemaCategory: 'emoji-objects', sampleLimit: 24, ranges: [], tags: ['unicode', 'emoji'] },
   { id: 'latin-extended', file: 'latin-extended.json', schemaCategory: 'technical-computing', sampleLimit: 0, ranges: [] },
   { id: 'greek', file: 'greek.json', schemaCategory: 'technical-computing', sampleLimit: 0, ranges: [] },
   { id: 'cyrillic', file: 'cyrillic.json', schemaCategory: 'technical-computing', sampleLimit: 0, ranges: [] },
@@ -42,10 +42,26 @@ export const KEYWORD_HINTS = {
     0x2264: ['less than or equal', 'comparison'],
     0x2265: ['greater than or equal', 'comparison'],
   },
+  'emoji-core': {
+    0x231A: ['watch', 'time', 'clock'],
+    0x2600: ['sun', 'weather', 'sunny'],
+    0x2601: ['cloud', 'weather', 'sky'],
+    0x1F600: ['face', 'smile', 'happy'],
+    0x1F601: ['face', 'smile', 'happy'],
+    0x1F602: ['face', 'laugh', 'tears'],
+    0x1F603: ['face', 'smile', 'happy'],
+    0x1F680: ['rocket', 'space', 'launch'],
+  },
 };
 
 export const SCRIPT_HINTS = [
   { prefix: 'LATIN', script: 'Latin' },
   { prefix: 'GREEK', script: 'Greek' },
   { prefix: 'CYRILLIC', script: 'Cyrillic' },
+];
+
+export const GENERATOR_NOTES = [
+  'Names are normalized to title case, common formatting issues are cleaned, and generic labels fall back to “Unknown Symbol (U+XXXX)”.',
+  'Manual overrides from data/manual-overrides.json are applied after ingestion so editorial fixes stay lightweight and client-side compatible.',
+  'Emoji display names prefer human-readable labels from emoji metadata comments, then manual overrides, before using the standard fallback rule.',
 ];

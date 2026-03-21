@@ -1,7 +1,10 @@
 [
   {
     "char": "∀",
-    "name": "FOR ALL",
+    "name": "For All",
+    "aliases": [
+      "Universal Quantifier"
+    ],
     "codepoints": [
       "U+2200"
     ],
@@ -14,6 +17,8 @@
     "keywords": [
       "for",
       "all",
+      "universal",
+      "quantifier",
       "logic",
       "universal quantifier",
       "set theory",
@@ -22,16 +27,19 @@
     "searchKeywords": [
       "for",
       "all",
+      "universal",
+      "quantifier",
       "logic",
       "universal quantifier",
       "set theory",
       "math"
     ],
-    "script": "Common"
+    "script": "Common",
+    "description": "Logical quantifier meaning 'for every' or 'for all'."
   },
   {
     "char": "∁",
-    "name": "COMPLEMENT",
+    "name": "Complement",
     "codepoints": [
       "U+2201"
     ],
@@ -53,7 +61,7 @@
   },
   {
     "char": "∂",
-    "name": "PARTIAL DIFFERENTIAL",
+    "name": "Partial Differential",
     "codepoints": [
       "U+2202"
     ],
@@ -83,7 +91,10 @@
   },
   {
     "char": "∃",
-    "name": "THERE EXISTS",
+    "name": "There Exists",
+    "aliases": [
+      "Existential Quantifier"
+    ],
     "codepoints": [
       "U+2203"
     ],
@@ -96,6 +107,8 @@
     "keywords": [
       "there",
       "exists",
+      "existential",
+      "quantifier",
       "logic",
       "existential quantifier",
       "set theory",
@@ -104,16 +117,19 @@
     "searchKeywords": [
       "there",
       "exists",
+      "existential",
+      "quantifier",
       "logic",
       "existential quantifier",
       "set theory",
       "math"
     ],
-    "script": "Common"
+    "script": "Common",
+    "description": "Logical quantifier meaning 'there exists'."
   },
   {
     "char": "∄",
-    "name": "THERE DOES NOT EXIST",
+    "name": "There Does Not Exist",
     "codepoints": [
       "U+2204"
     ],
@@ -141,7 +157,7 @@
   },
   {
     "char": "∅",
-    "name": "EMPTY SET",
+    "name": "Empty Set",
     "codepoints": [
       "U+2205"
     ],
@@ -171,7 +187,7 @@
   },
   {
     "char": "∆",
-    "name": "INCREMENT",
+    "name": "Increment",
     "codepoints": [
       "U+2206"
     ],
@@ -193,7 +209,7 @@
   },
   {
     "char": "∇",
-    "name": "NABLA",
+    "name": "Nabla",
     "codepoints": [
       "U+2207"
     ],
@@ -215,7 +231,7 @@
   },
   {
     "char": "∈",
-    "name": "ELEMENT OF",
+    "name": "Element Of",
     "codepoints": [
       "U+2208"
     ],
@@ -245,7 +261,7 @@
   },
   {
     "char": "∉",
-    "name": "NOT AN ELEMENT OF",
+    "name": "Not An Element Of",
     "codepoints": [
       "U+2209"
     ],
@@ -277,7 +293,7 @@
   },
   {
     "char": "∋",
-    "name": "CONTAINS AS MEMBER",
+    "name": "Contains As Member",
     "codepoints": [
       "U+220B"
     ],
@@ -307,7 +323,12 @@
   },
   {
     "char": "∑",
-    "name": "N-ARY SUMMATION",
+    "name": "Summation",
+    "aliases": [
+      "N-Ary Summation",
+      "N-ary Summation",
+      "Sigma Summation"
+    ],
     "codepoints": [
       "U+2211"
     ],
@@ -318,20 +339,20 @@
       "sm"
     ],
     "keywords": [
+      "summation",
       "n",
       "ary",
-      "summation",
-      "sum",
       "sigma",
+      "sum",
       "series",
       "math"
     ],
     "searchKeywords": [
+      "summation",
       "n",
       "ary",
-      "summation",
-      "sum",
       "sigma",
+      "sum",
       "series",
       "math"
     ],
@@ -339,7 +360,7 @@
   },
   {
     "char": "√",
-    "name": "SQUARE ROOT",
+    "name": "Square Root",
     "codepoints": [
       "U+221A"
     ],
@@ -367,7 +388,7 @@
   },
   {
     "char": "∞",
-    "name": "INFINITY",
+    "name": "Infinity",
     "codepoints": [
       "U+221E"
     ],
@@ -391,7 +412,7 @@
   },
   {
     "char": "∫",
-    "name": "INTEGRAL",
+    "name": "Integral",
     "codepoints": [
       "U+222B"
     ],
@@ -415,7 +436,7 @@
   },
   {
     "char": "≈",
-    "name": "ALMOST EQUAL TO",
+    "name": "Almost Equal To",
     "codepoints": [
       "U+2248"
     ],
@@ -445,7 +466,7 @@
   },
   {
     "char": "≠",
-    "name": "NOT EQUAL TO",
+    "name": "Not Equal To",
     "codepoints": [
       "U+2260"
     ],
@@ -475,7 +496,7 @@
   },
   {
     "char": "≤",
-    "name": "LESS-THAN OR EQUAL TO",
+    "name": "Less-Than Or Equal To",
     "codepoints": [
       "U+2264"
     ],
@@ -509,7 +530,7 @@
   },
   {
     "char": "≥",
-    "name": "GREATER-THAN OR EQUAL TO",
+    "name": "Greater-Than Or Equal To",
     "codepoints": [
       "U+2265"
     ],

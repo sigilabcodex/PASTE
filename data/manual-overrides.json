@@ -1,0 +1,88 @@
+{
+  "U+2190": {
+    "name": "Left Arrow",
+    "aliases": ["Leftwards Arrow"],
+    "tags": ["direction"]
+  },
+  "U+2191": {
+    "name": "Up Arrow",
+    "aliases": ["Upwards Arrow"],
+    "tags": ["direction"]
+  },
+  "U+2192": {
+    "name": "Right Arrow",
+    "aliases": ["Rightwards Arrow"],
+    "tags": ["direction"]
+  },
+  "U+2193": {
+    "name": "Down Arrow",
+    "aliases": ["Downwards Arrow"],
+    "tags": ["direction"]
+  },
+  "U+2194": {
+    "name": "Left-Right Arrow",
+    "aliases": ["Left Right Arrow", "Bidirectional Arrow"]
+  },
+  "U+2195": {
+    "name": "Up-Down Arrow",
+    "aliases": ["Up Down Arrow", "Vertical Arrow"]
+  },
+  "U+2200": {
+    "aliases": ["Universal Quantifier"],
+    "description": "Logical quantifier meaning 'for every' or 'for all'."
+  },
+  "U+2203": {
+    "aliases": ["Existential Quantifier"],
+    "description": "Logical quantifier meaning 'there exists'."
+  },
+  "U+2211": {
+    "name": "Summation",
+    "aliases": ["N-ary Summation", "Sigma Summation"]
+  },
+  "U+231A": {
+    "name": "Watch",
+    "aliases": ["Wristwatch", "Timepiece"],
+    "tags": ["time", "device"],
+    "description": "A watch emoji commonly used for time or schedules."
+  },
+  "U+2600": {
+    "name": "Sun",
+    "aliases": ["Black Sun With Rays", "Sunny"],
+    "tags": ["weather"]
+  },
+  "U+2601": {
+    "name": "Cloud",
+    "aliases": ["Cloudy"],
+    "tags": ["weather"]
+  },
+  "U+271D": {
+    "name": "Christian Cross",
+    "aliases": ["Latin Cross"]
+  },
+  "U+1F600": {
+    "name": "Grinning Face",
+    "aliases": ["Smiley", "Happy Face"],
+    "tags": ["face", "smile"],
+    "description": "Classic smiling face emoji with a broad grin."
+  },
+  "U+1F601": {
+    "name": "Beaming Face With Smiling Eyes",
+    "aliases": ["Grinning Face With Smiling Eyes"],
+    "tags": ["face", "smile"]
+  },
+  "U+1F602": {
+    "name": "Face With Tears of Joy",
+    "aliases": ["Laughing Tears", "Crying Laughing Face"],
+    "tags": ["face", "laugh"]
+  },
+  "U+1F603": {
+    "name": "Grinning Face With Big Eyes",
+    "aliases": ["Open-Mouth Grinning Face"],
+    "tags": ["face", "smile"]
+  },
+  "U+1F680": {
+    "name": "Rocket",
+    "aliases": ["Spaceship"],
+    "tags": ["space", "travel"]
+  }
+}

@@ -1,1 +1,326 @@
-[]
+[
+  {
+    "char": "⌚",
+    "name": "Watch",
+    "aliases": [
+      "Wristwatch",
+      "Timepiece"
+    ],
+    "codepoints": [
+      "U+231A"
+    ],
+    "category": "emoji-objects",
+    "tags": [
+      "unicode",
+      "emoji",
+      "time",
+      "device",
+      "so"
+    ],
+    "keywords": [
+      "watch",
+      "wristwatch",
+      "timepiece",
+      "time",
+      "clock",
+      "device",
+      "emoji-core"
+    ],
+    "searchKeywords": [
+      "watch",
+      "wristwatch",
+      "timepiece",
+      "time",
+      "clock",
+      "device",
+      "emoji-core"
+    ],
+    "script": "Common",
+    "description": "A watch emoji commonly used for time or schedules."
+  },
+  {
+    "char": "☀",
+    "name": "Sun",
+    "aliases": [
+      "Weather Symbols",
+      "Black Sun With Rays",
+      "Sunny"
+    ],
+    "codepoints": [
+      "U+2600"
+    ],
+    "category": "emoji-objects",
+    "tags": [
+      "unicode",
+      "emoji",
+      "weather",
+      "so"
+    ],
+    "keywords": [
+      "sun",
+      "weather",
+      "symbols",
+      "black",
+      "with",
+      "rays",
+      "sunny",
+      "emoji-core"
+    ],
+    "searchKeywords": [
+      "sun",
+      "weather",
+      "symbols",
+      "black",
+      "with",
+      "rays",
+      "sunny",
+      "emoji-core"
+    ],
+    "script": "Common"
+  },
+  {
+    "char": "☁",
+    "name": "Cloud",
+    "aliases": [
+      "Weather Symbols",
+      "Cloudy"
+    ],
+    "codepoints": [
+      "U+2601"
+    ],
+    "category": "emoji-objects",
+    "tags": [
+      "unicode",
+      "emoji",
+      "weather",
+      "so"
+    ],
+    "keywords": [
+      "cloud",
+      "weather",
+      "symbols",
+      "cloudy",
+      "sky",
+      "emoji-core"
+    ],
+    "searchKeywords": [
+      "cloud",
+      "weather",
+      "symbols",
+      "cloudy",
+      "sky",
+      "emoji-core"
+    ],
+    "script": "Common"
+  },
+  {
+    "char": "😀",
+    "name": "Grinning Face",
+    "aliases": [
+      "Smileys",
+      "Smiley",
+      "Happy Face"
+    ],
+    "codepoints": [
+      "U+1F600"
+    ],
+    "category": "emoji-objects",
+    "tags": [
+      "unicode",
+      "emoji",
+      "face",
+      "smile",
+      "so"
+    ],
+    "keywords": [
+      "grinning",
+      "face",
+      "smileys",
+      "smiley",
+      "happy",
+      "smile",
+      "emoji-core"
+    ],
+    "searchKeywords": [
+      "grinning",
+      "face",
+      "smileys",
+      "smiley",
+      "happy",
+      "smile",
+      "emoji-core"
+    ],
+    "script": "Common",
+    "description": "Classic smiling face emoji with a broad grin."
+  },
+  {
+    "char": "😁",
+    "name": "Beaming Face With Smiling Eyes",
+    "aliases": [
+      "Smileys",
+      "Grinning Face With Smiling Eyes"
+    ],
+    "codepoints": [
+      "U+1F601"
+    ],
+    "category": "emoji-objects",
+    "tags": [
+      "unicode",
+      "emoji",
+      "face",
+      "smile",
+      "so"
+    ],
+    "keywords": [
+      "beaming",
+      "face",
+      "with",
+      "smiling",
+      "eyes",
+      "smileys",
+      "grinning",
+      "smile",
+      "happy",
+      "emoji-core"
+    ],
+    "searchKeywords": [
+      "beaming",
+      "face",
+      "with",
+      "smiling",
+      "eyes",
+      "smileys",
+      "grinning",
+      "smile",
+      "happy",
+      "emoji-core"
+    ],
+    "script": "Common"
+  },
+  {
+    "char": "😂",
+    "name": "Face With Tears of Joy",
+    "aliases": [
+      "Smileys",
+      "Laughing Tears",
+      "Crying Laughing Face"
+    ],
+    "codepoints": [
+      "U+1F602"
+    ],
+    "category": "emoji-objects",
+    "tags": [
+      "unicode",
+      "emoji",
+      "face",
+      "laugh",
+      "so"
+    ],
+    "keywords": [
+      "face",
+      "with",
+      "tears",
+      "of",
+      "joy",
+      "smileys",
+      "laughing",
+      "crying",
+      "laugh",
+      "emoji-core"
+    ],
+    "searchKeywords": [
+      "face",
+      "with",
+      "tears",
+      "of",
+      "joy",
+      "smileys",
+      "laughing",
+      "crying",
+      "laugh",
+      "emoji-core"
+    ],
+    "script": "Common"
+  },
+  {
+    "char": "😃",
+    "name": "Grinning Face With Big Eyes",
+    "aliases": [
+      "Smileys",
+      "Open-Mouth Grinning Face"
+    ],
+    "codepoints": [
+      "U+1F603"
+    ],
+    "category": "emoji-objects",
+    "tags": [
+      "unicode",
+      "emoji",
+      "face",
+      "smile",
+      "so"
+    ],
+    "keywords": [
+      "grinning",
+      "face",
+      "with",
+      "big",
+      "eyes",
+      "smileys",
+      "open",
+      "mouth",
+      "smile",
+      "happy",
+      "emoji-core"
+    ],
+    "searchKeywords": [
+      "grinning",
+      "face",
+      "with",
+      "big",
+      "eyes",
+      "smileys",
+      "open",
+      "mouth",
+      "smile",
+      "happy",
+      "emoji-core"
+    ],
+    "script": "Common"
+  },
+  {
+    "char": "🚀",
+    "name": "Rocket",
+    "aliases": [
+      "Spaceship"
+    ],
+    "codepoints": [
+      "U+1F680"
+    ],
+    "category": "emoji-objects",
+    "tags": [
+      "unicode",
+      "emoji",
+      "space",
+      "travel",
+      "so"
+    ],
+    "keywords": [
+      "rocket",
+      "spaceship",
+      "space",
+      "launch",
+      "travel",
+      "emoji-core"
+    ],
+    "searchKeywords": [
+      "rocket",
+      "spaceship",
+      "space",
+      "launch",
+      "travel",
+      "emoji-core"
+    ],
+    "script": "Common"
+  }
+]
